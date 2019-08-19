@@ -64,4 +64,5 @@ fields:
   config:
     labelField: pin_description
 pages:
+- content/blog/travel-to-london.md
 - content/blog/20-best-london-travel-tips.md

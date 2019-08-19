@@ -6,8 +6,8 @@ keywords = ["itinerary", "2day itinerary", "europe", "uk"]
 pins = []
 title = "20 Best London Travel Tips"
 [images]
-name = ""
-src = ""
+name = "Default Image"
+src = "/uploads/default.jpg"
 
 +++
 Top 20 Things To See In London

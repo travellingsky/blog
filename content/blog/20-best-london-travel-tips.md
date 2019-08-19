@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Europe"]
 date = "2019-08-19T04:00:00+00:00"
 description = "Check out our top 20 London travel tips for traveling in London.  Whether you want to check out the London night life or travel London on a budget, our top 20 London travel tips and free 2 day itinerary will give you a trip of a lifetime."
 keywords = ["itinerary", "2day itinerary", "europe", "uk"]

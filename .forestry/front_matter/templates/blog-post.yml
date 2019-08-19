@@ -39,10 +39,10 @@ fields:
     label: Name
     type: text
     hidden: false
-    default: 'Default Image'
+    default: Default Image
   - type: file
     name: src
-    default: '/uploads/default.jpg'
+    default: "/uploads/default.jpg"
     label: SRC
     description: Image Source
   hidden: false

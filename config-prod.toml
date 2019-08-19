@@ -1,4 +1,4 @@
-baseURL = "https://www.travellingsky.com/"
+baseURL = "https://travellingsky.github.io"
 languageCode = "en-us"
 title = "Travelling Sky"
 theme = "massively"

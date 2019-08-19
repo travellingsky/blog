@@ -62,3 +62,5 @@ fields:
     description: Pin Description
   config:
     labelField: pin_description
+pages:
+- content/blog/20-best-london-travel-tips.md

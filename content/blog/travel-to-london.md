@@ -11,6 +11,16 @@ name = "Default Image"
 src = "/uploads/default.jpg"
 
 +++
+# **Iconic Travel to London**
+
+Started of as a family trip (My husband and I with our 2 boys) soon became a trip to remember with friends and family. Total of 15 of us on a self guided trip to the Iconic city of London with a few excursions here and there.
+
+We love to travel, and tend to find deals and come up with our own itineraries that we like to follow. My husband also loves photography. Its more of a passion or hobby, definitely not professional, but these are the images you will see in my posts.
+
+{{<imgproc "/uploads/040.jpg" Resize "600x" >}}Caption{{</imgproc>}}
+
+The trip started of with a visit straight to Cambridge. The boys and I left for London early to spend a few days with family, not really with any more expectations. But i was really taken aback, Cambridge is such a beautiful little town. Its almost 2 hours away by car from Heathrow Airport. Its very compact and cozy. So many little shops and boutiques. We strolled through the streets and visited so many little stores
+
 Description about our trip
 
 Itinerary
@@ -18,10 +28,9 @@ Itinerary
 Transportation Methods
 
 Places to visit
-	-- tours we did 
-
+\-- tours we did
 
 Places to eat, local foods
 
 Best locations to stay and why
-	-- affiliate link to our hotel
+\-- affiliate link to our hotel

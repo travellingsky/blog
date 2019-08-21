@@ -51,35 +51,46 @@ Check out my Must see Places in Cambridge post for more information of each of t
 
 Cotswold for us was a day trip. We had a car at our disposal which was great since there were a lot of us. We packed a picnic of sandwiches, chips and drinks and we were off. Cotswold is an not too far from Cambridge fill of scenic rolling hills. Its actually quite amazing the way the hills lay.  Cotswold is made up of many tiny villages. We visited a couple of them. Both very different from each other, which gave them there own sense of uniqueness. This was a fun trip, and the kids had a place.
 
-<img src="/uploads/CotswoldBourton4a.jpg"align="left" width="600" padding="10px" />
+<img style="padding: 0 15px; float: left;" src="/uploads/CotswoldBourton4a.jpg" width="600"  height="800"/>
 
 First we visited **Bourton on the Water**, its a small village with the cutest little river going thru it. Bourton has so many cute little tourist attactions to check out while there:
 
-Model Village - 1:9 replica of the village
+o Model Village - 1:9 replica of the village
 
-Model Railway
+o Model Railway
 
-Motoring Museum
+o Motoring Museum
 
-Birdland Park and Gardens (Great for kids and people who love birds)
+o Birdland Park and Gardens (Great for kids and people who love birds)
 
-Dragon Maze
+o Dragon Maze
 
-Great walking Trails and Paths along the river
+o Great walking Trails and Paths along the river
 
 After strolling along the river and kids playing in the clean stream of water, we found the perfect spot to enjoy our lunch and enjoy the lively atmosphere of our surroundings. Definitely a lovely spot for relaxation and just a wonderful day out. There are some great ice cream shops right along the river too, so dont forget to grab a cone throughout the day.
 
+<div class="row" >  
+<div class="column" >
+
+     <img src="/uploads/CotswoldBourton1a.jpg" alt="Bourton on the Water"  width="375" />
+
+</div>  
+<div class="column">
+
+     <img src="/uploads/CotswoldBourton3a.jpg" alt="Bourton on the Water" width="375" />
+
+</div>
+
+<div class="column">
+
+     <img src="/uploads/CotswoldBourton2a.jpg"alt="Bourton on the Water" width="375" />
+
+</div>
+
+</div>
+
 Bibury
 
-Description about our trip
+London
 
-Itinerary
-
-Transportation Methods
-
-Places to visit
-\-- tours we did
-
-Places to eat, local foods
-
-Best locations to stay and wh -- affiliate link to ur hotel
+DayTrip(s) - Stone Henge

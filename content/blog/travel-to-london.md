@@ -14,13 +14,27 @@ Started of as a family trip (My husband and I with our 2 boys) soon became a tri
 
 We love to travel, and tend to find deals and come up with our own itineraries that we like to follow. My husband also loves photography. Its more of a passion or hobby, definitely not professional, but these are the images you will see in my posts.
 
-{{<imgproc "/uploads/040.jpg" Resize "500x r90" >}}
+<div class="row">  
+<div class="column">
 
-{{<imgproc "/uploads/035a.jpg" Resize "500x r90" >}}
+     <img src="/uploads/040.jpg" alt="CambridgeBridge"  width="500" style="transform:rotate(270deg);/>
 
-![](/uploads/049.jpg)
+</div>  
+<div class="column">
 
-![test1](/uploads/040.jpg "test")![](/uploads/035a.jpg)
+     <img src="/uploads/035a.jpg" alt="CambridgeCollege" width="500" style="transform:rotate(270deg);" />
+
+</div>
+
+<div class="column">
+
+     <img src="/uploads/049.jpg" width="500"style="transform:rotate(270deg); />
+
+</div>
+
+</div>
+
+</div>
 
 The trip started of with a visit straight to Cambridge. The boys and I left for London early to spend a few days with family, not really with any more expectations. But i was really taken aback, Cambridge is such a beautiful little town. Its almost 2 hours away by car from Heathrow Airport. Its very compact and cozy. So many little shops and boutiques. We strolled through the streets and visited so many little stores
 
@@ -35,5 +49,4 @@ Places to visit
 
 Places to eat, local foods
 
-Best locations to stay and why
-\-- affiliate link to our hotel
+Best locations to stay and wh -- affiliate link to ur hotel

@@ -58,7 +58,7 @@ fields:
     label: Pin Image
     description: Pin Image
     config:
-      maxSize: '100'
+      maxSize: ''
   - type: textarea
     name: pin_description
     label: Pin Description

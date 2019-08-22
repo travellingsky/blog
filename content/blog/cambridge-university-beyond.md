@@ -7,7 +7,7 @@ pins = []
 title = "Cambridge University & Beyond"
 [images]
 name = "Cambridge University"
-src = "/uploads/cambridgeuniversity.jpg"
+src = "/uploads/CambridgeUniversity.jpg"
 
 +++
 Started of as a family trip (My husband and I with our 2 boys) soon became a trip to remember with friends and family. Total of 15 of us on a self guided trip to the Iconic city of London with a few excursions here and there.

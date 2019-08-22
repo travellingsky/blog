@@ -126,7 +126,7 @@ This church is known better as the Round Church, and its only 1 of 4 Norman Roun
 
 <b> 8. Cambridge University Botanic Garden </b>
 
-Acres of area, for people who gardening its a must see. Over 8,000 types of plants from around the world, and many glasshouses and trails to visit. You can take a guided tour or a self guided tour. Its free to visit on Sundays. Lovely Café and Botanic Garden Shop to visit inside too.
+Acres of area, for people who gardening its a must see. Over 8,000 types of plants from around the world, and many glasshouses and trails to visit. You can take a guided tour or a self guided tour. Its free to visit on Sundays. Lovely Café and Botanic Garden Shop to visit inside too. 
 
 <b> 9. Museum of Archaeology and Anthropology </b>
 

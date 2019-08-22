@@ -66,5 +66,6 @@ fields:
   config:
     labelField: pin_description
 pages:
+- content/blog/cambridge-university-beyond.md
 - content/blog/travel-to-london.md
 - content/blog/20-best-london-travel-tips.md

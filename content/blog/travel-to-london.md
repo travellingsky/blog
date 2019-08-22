@@ -8,10 +8,10 @@ pins = []
 title = "Travel to London "
 [images]
 name = "Default Image"
-src = "/uploads/default.jpg"
+src = "/uploads/CambridgeUniversity-1.jpg"
 
 +++
-## **_Cambridge_**
+## Cambridge
 
 Started of as a family trip (My husband and I with our 2 boys) soon became a trip to remember with friends and family. Total of 15 of us on a self guided trip to the Iconic city of London with a few excursions here and there.
 
@@ -47,7 +47,7 @@ If you fit Cambridge into your schedule its definitely worth a visit. Visit the 
 
 Check out my Must see Places in Cambridge post for more information of each of these areas and many more wonderful treasures in the historical college town.
 
-## **_Cotswold_**
+## Cotswold
 
 Cotswold for us was a day trip. We had a car at our disposal which was great since there were a lot of us. We packed a picnic of sandwiches, chips and drinks and we were off. Cotswold is an not too far from Cambridge fill of scenic rolling hills. Its actually quite amazing the way the hills lay.  Cotswold is made up of many tiny villages. We visited a couple of them. Both very different from each other, which gave them there own sense of uniqueness. This was a fun trip, and the kids had a place.
 

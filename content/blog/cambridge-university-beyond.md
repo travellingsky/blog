@@ -17,18 +17,18 @@ We love to travel, and tend to find deals and come up with our own itineraries t
 <div class="row" >  
 <div class="column" >
 
-     <img src="/uploads/035a.jpg" alt="Cambridge"  width="375" />
+     <img src="/uploads/QueensCollege.jpg" alt="QueensCollege"  width="375" />
 
 </div>  
 <div class="column">
 
-     <img src="/uploads/108.jpg" alt="Cambridge" width="375" />
+     <img src="/uploads/TheBanks.jpg" alt="TheBanks" width="375" />
 
 </div>
 
 <div class="column">
 
-     <img src="/uploads/049a.jpg"alt="Cambridge" width="375" />
+     <img src="/uploads/TrinityCollege.jpg"alt="TrinityCollege" width="375" />
 
 </div>
 
@@ -37,5 +37,25 @@ We love to travel, and tend to find deals and come up with our own itineraries t
 The trip started of with a visit straight to Cambridge. The boys and I left for London early than the rest of the group to spend a few days with family. Not knowing anything besides Cambridge being a College town, we were in total love with the place. Cambridge is such a beautiful historic town, with a Royal feel to it. Its almost 2 hours away by car from Heathrow Airport., its very compact and cozy with many little shops and boutiques. We strolled through the streets and visited so many little stores.
 
 Cambridge is very scenic,  with many places to see and visit. It can be covered in a day, but all depends on how much time you want to spend there, i loved the fact that the streets give you a sense of feel of inner peace and relaxation.
+
+# Things to Do in Cambridge
+
+<img style="padding: 0 40px; float: left;" src="/uploads/Punting.jpg" width="400"  height="300"/>
+
+<b>1. Punting along The Banks </b>
+
+The banks is known as Little Venice. Punting is a great way to see the River Cams which separates Cambridge into 2 sections. With a glass of bubbly in your hands its a great way to view the inside of many of the Colleges right from the River and see the many exotic bridges the city has to offer.
+
+<b> 2. Visit the Bridge of Sighs </>
+
+This is apparently Queen Victoria's favorite spot in Cambridge. It links the new court and the original college building of St John's College. Its used daily by people or live or work around there. Its very similar to its name sack in Venice, Italy.
+
+<img style="padding: 0 40px; float: right;" src="/uploads/MathematicalBridge.jpg" width="400"  height="300"/>
+
+<b> 3. Visit the Mathematical Bridge </b>
+
+This is a very interesting looking bridge that connects 2 parts of Queens College together. Its official name is the "Wooden Bridge", as its a wooden footbridge, but its derived the name of a Mathematical Bridge due to interesting situations.
+
+The Bridge is actually made from straight timbers,  even though the shape of the bridge is an arch. Its a fairly interesting sigh as your punting down the river. Look up and review it from underneath.
 
 If you fit Cambridge into your schedule its definitely worth a visit. Visit the inside of the Colleges (Trinity College, St Johns College, Corpus Christi College...), go Punting in the Backs, check out the coolest Mathematical Bridge and visit the Bridge of Sighs, among many other things to do in Cambridge.

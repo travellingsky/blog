@@ -14,6 +14,26 @@ Started of as a family trip (My husband and I with our 2 boys) soon became a tri
 
 We love to travel, and tend to find deals and come up with our own itineraries that we like to follow. My husband also loves photography. Its more of a passion or hobby, definitely not professional, but these are the images you will see in my posts.
 
+<div class="row" >  
+<div class="column" >
+
+     <img src="/uploads/035a.jpg" alt="Cambridge"  width="375" />
+
+</div>  
+<div class="column">
+
+     <img src="/uploads/108.jpg" alt="Cambridge" width="375" />
+
+</div>
+
+<div class="column">
+
+     <img src="/uploads/049a.jpg"alt="Cambridge" width="375" />
+
+</div>
+
+</div>
+
 The trip started of with a visit straight to Cambridge. The boys and I left for London early than the rest of the group to spend a few days with family. Not knowing anything besides Cambridge being a College town, we were in total love with the place. Cambridge is such a beautiful historic town, with a Royal feel to it. Its almost 2 hours away by car from Heathrow Airport., its very compact and cozy with many little shops and boutiques. We strolled through the streets and visited so many little stores.
 
 Cambridge is very scenic,  with many places to see and visit. It can be covered in a day, but all depends on how much time you want to spend there, i loved the fact that the streets give you a sense of feel of inner peace and relaxation.

@@ -2,6 +2,7 @@
 categories = []
 date = "2019-08-19T04:00:00+00:00"
 description = "Visiting of Cambridge University, punting and more. With a list of 10 things to do and places to visit during your stay"
+draft = true
 keywords = ["Cambridge", " Cambridge University", " Trinity College", "Queens College", "Punting", " The Banks", "Bridge of Sighs ", "Mathematical Bridge", "Cambridge University Tour", "Corpus Christi", " Kings College", "St Johns College", "Cotswold", "Bourton on the water", "Bibury"]
 pins = []
 title = "Cambridge University, Cotswold Villages & Beyond"
@@ -209,5 +210,11 @@ Its a wonderful place for a picnic or to pick up some small items from the villa
 </div>
 
 <center><img src="/uploads/BiburyCottage.jpg" /></center>
+
+<center><a href="[http://www.dpbolvw.net/click-9007735-11969220](http://www.dpbolvw.net/click-9007735-11969220 "http://www.dpbolvw.net/click-9007735-11969220")" target="_top"><img src="[http://www.ftjcfx.com/image-9007735-11969220](http://www.ftjcfx.com/image-9007735-11969220 "http://www.ftjcfx.com/image-9007735-11969220")" width="300" height="250" alt="Skytours" border="0"/></a></center>
+
+<a href="[http://www.dpbolvw.net/click-9007735-11969220](http://www.dpbolvw.net/click-9007735-11969220 "http://www.dpbolvw.net/click-9007735-11969220")" target="_top">
+
+<img src="[http://www.ftjcfx.com/image-9007735-11969220](http://www.ftjcfx.com/image-9007735-11969220 "http://www.ftjcfx.com/image-9007735-11969220")" width="300" height="250" alt="Skytours" border="0"/></a>
 
 <center><script type="text/javascript" async charset="utf-8" src="//cj.travelpayouts.com/mewtwo.js?AID=12484336&PID=9007735&width=620&scheme=white_blue&currency=USD"></script></center>

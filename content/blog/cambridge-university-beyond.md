@@ -193,3 +193,19 @@ I don't think i had ever visited a village quite like this one.
 Bibury is a small little town in the rural part of Cotswold. If you like quiet places then this place is definitely for you. It has a nice country feel to the town, which little path ways, a stream going thru the center, and cotswold stone cottages and walls giving the wonderful feel of the town.
 
 Its a wonderful place for a picnic or to pick up some small items from the village shops. The main attraction in Bibury is the Bibury Trout Farm right off the main road. Its one of the oldest trout farms in the country, and has visitors from afar.
+
+<div class="row" >  
+<div class="column" >
+
+     <img src="/uploads/BiburyBridge.jpg" alt="Bridge of Bibury"  width="375" />
+
+</div>  
+<div class="column">
+
+     <img src="/uploads/BiburyGardens.jpg" alt="Bilbury Gardens" width="375" />
+
+</div>
+
+</div>
+
+<center><img src="/uploads/BiburyCottage.jpg" /></center>

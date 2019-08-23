@@ -8,9 +8,17 @@ pins = []
 title = "Travel to London "
 [images]
 name = "Default Image"
-src = "/uploads/CambridgeUniversity-1.jpg"
+src = "/uploads/default.jpg"
 
 +++
+Started of as a family trip (My husband and I with our 2 boys) soon became a trip to remember with friends and family. Total of 15 of us on a self guided trip to the Iconic city of London with a few excursions here and there.
+
+We love to travel, and tend to find deals and come up with our own itineraries that we like to follow. My husband also loves photography. Its more of a passion or hobby, definitely not professional, but these are the images you will see in my posts.
+
+Check out our Travels to the town of [Cambridge University and our visit Cotswold Villages.](https://app.forestry.io/sites/dxxdura4wn0rvq/#/pages/content-blog-cambridge-university-beyond-md/ "Cambridge University & Cotswold") With a list of must see things to do.
+
+# London, England
+
 ## Cambridge
 
 Started of as a family trip (My husband and I with our 2 boys) soon became a trip to remember with friends and family. Total of 15 of us on a self guided trip to the Iconic city of London with a few excursions here and there.

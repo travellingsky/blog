@@ -4,15 +4,13 @@ date = "2019-08-19T04:00:00+00:00"
 description = "Visiting of Cambridge University, punting and more. With a list of 10 things to do and places to visit during your stay"
 keywords = ["Cambridge", " Cambridge University", " Trinity College", "Queens College", "Punting", " The Banks", "Bridge of Sighs ", "Mathematical Bridge", "Cambridge University Tour", "Corpus Christi", " Kings College", "St Johns College"]
 pins = []
-title = "Cambridge University & Beyond"
+title = "Cambridge University, Cotswold Villages & Beyond"
 [images]
 name = "Cambridge University"
 src = "/uploads/default.jpg"
 
 +++
-Started of as a family trip (My husband and I with our 2 boys) soon became a trip to remember with friends and family. Total of 15 of us on a self guided trip to the Iconic city of London with a few excursions here and there.
-
-We love to travel, and tend to find deals and come up with our own itineraries that we like to follow. My husband also loves photography. Its more of a passion or hobby, definitely not professional, but these are the images you will see in my posts.
+# The town of Cambridge University
 
 <div class="row" >  
 <div class="column" >
@@ -38,7 +36,7 @@ The trip started of with a visit straight to Cambridge. The boys and I left for 
 
 Cambridge is very scenic,  with many places to see and visit. It can be covered in a day, but all depends on how much time you want to spend there, i loved the fact that the streets give you a sense of feel of inner peace and relaxation.
 
-# Things to Do in Cambridge
+## Things to Do in Cambridge
 
 <b> 1. Punting along The Banks </b>
 
@@ -126,10 +124,14 @@ This church is known better as the Round Church, and its only 1 of 4 Norman Roun
 
 <b> 8. Cambridge University Botanic Garden </b>
 
-Acres of area, for people who gardening its a must see. Over 8,000 types of plants from around the world, and many glasshouses and trails to visit. You can take a guided tour or a self guided tour. Its free to visit on Sundays. Lovely Café and Botanic Garden Shop to visit inside too. 
+Acres of area, for people who gardening its a must see. Over 8,000 types of plants from around the world, and many glasshouses and trails to visit. You can take a guided tour or a self guided tour. Its free to visit on Sundays. Lovely Café and Botanic Garden Shop to visit inside too.
 
 <b> 9. Museum of Archaeology and Anthropology </b>
 
-Great museum for those who love Archaeology and Anthropology. So much human history displayed in this museum.  It this is your cup of tea, then definitely check it out. Some amazing artifacts from explorer Captain James Cook and his 3 expeditions are also on display here as well as unearthed diggings from around Cambridge and East Anglia. 
+Great museum for those who love Archaeology and Anthropology. So much human history displayed in this museum.  It this is your cup of tea, then definitely check it out. Some amazing artifacts from explorer Captain James Cook and his 3 expeditions are also on display here as well as unearthed diggings from around Cambridge and East Anglia.
 
 If you fit Cambridge into your schedule its definitely worth a visit. Visit the inside of the Colleges (Trinity College, St Johns College, Corpus Christi College...), go Punting in the Backs, check out the coolest Mathematical Bridge and visit the Bridge of Sighs, among many other things to do in Cambridge.
+
+## Places to Eat in Cambridge
+
+# Cotwold Villages worth visiting

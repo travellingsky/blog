@@ -1,7 +1,7 @@
 +++
 categories = []
 date = "2019-08-19T04:00:00+00:00"
-description = "Visiting of Cambridge University, punting and more. With a list of 10 things to do and places to visit during your stay"
+description = "Visiting of Cambridge University, Cotwolds and more. With a list of things to do and places to visit during your stay"
 keywords = ["Cambridge", " Cambridge University", " Trinity College", "Queens College", "Punting", " The Banks", "Bridge of Sighs ", "Mathematical Bridge", "Cambridge University Tour", "Corpus Christi", " Kings College", "St Johns College", "Cotswold", "Bourton on the water", "Bibury"]
 pins = []
 title = "Cambridge University, Cotswold Villages & Beyond"

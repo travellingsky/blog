@@ -2,7 +2,7 @@
 categories = []
 date = "2019-08-19T04:00:00+00:00"
 description = "Visiting of Cambridge University, punting and more. With a list of 10 things to do and places to visit during your stay"
-keywords = ["Cambridge", " Cambridge University", " Trinity College", "Queens College", "Punting", " The Banks", "Bridge of Sighs ", "Mathematical Bridge", "Cambridge University Tour", "Corpus Christi", " Kings College", "St Johns College"]
+keywords = ["Cambridge", " Cambridge University", " Trinity College", "Queens College", "Punting", " The Banks", "Bridge of Sighs ", "Mathematical Bridge", "Cambridge University Tour", "Corpus Christi", " Kings College", "St Johns College", "Cotswold", "Bourton on the water", "Bibury"]
 pins = []
 title = "Cambridge University, Cotswold Villages & Beyond"
 [images]
@@ -183,3 +183,13 @@ After strolling along the river and kids playing in the clean stream of water, w
 </div>
 
 #### Bibury
+
+A tiny little village in Gloucestershire, England was not a place I was expecting to spend the second part of my day. After spending the morning in Bourton on the Water we drove to Bibury.
+
+I don't think i had ever visited a village quite like this one.
+
+<center><img src="/uploads/BiburyVillage.jpg" /></center>
+
+Bibury is a small little town in the rural part of Cotswold. If you like quiet places then this place is definitely for you. It has a nice country feel to the town, which little path ways, a stream going thru the center, and cotswold stone cottages and walls giving the wonderful feel of the town.
+
+Its a wonderful place for a picnic or to pick up some small items from the village shops. The main attraction in Bibury is the Bibury Trout Farm right off the main road. Its one of the oldest trout farms in the country, and has visitors from afar.

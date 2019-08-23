@@ -188,7 +188,7 @@ A tiny little village in Gloucestershire, England was not a place I was expectin
 
 I don't think i had ever visited a village quite like this one.
 
-<center><img src="/uploads/BiburyVillage.jpg" /></center>
+<center><img src="/uploads/BiburyVillage.jpg" width="1200"  /></center>
 
 Bibury is a small little town in the rural part of Cotswold. If you like quiet places then this place is definitely for you. It has a nice country feel to the town, which little path ways, a stream going thru the center, and cotswold stone cottages and walls giving the wonderful feel of the town.
 
@@ -197,15 +197,17 @@ Its a wonderful place for a picnic or to pick up some small items from the villa
 <div class="row" >  
 <div class="column" >
 
-     <img src="/uploads/BiburyBridge.jpg" alt="Bridge of Bibury"  width="375" />
+     <img src="/uploads/BiburyBridge.jpg" alt="Bridge of Bibury"  width="575" />
 
 </div>  
 <div class="column">
 
-     <img src="/uploads/BiburyGardens.jpg" alt="Bilbury Gardens" width="375" />
+     <img src="/uploads/BiburyGardens.jpg" alt="Bilbury Gardens" width="575" />
 
 </div>
 
 </div>
 
 <center><img src="/uploads/BiburyCottage.jpg" /></center>
+
+<center><script type="text/javascript" async charset="utf-8" src="//cj.travelpayouts.com/mewtwo.js?AID=12484336&PID=9007735&width=620&scheme=white_blue&currency=USD"></script></center>

@@ -38,17 +38,17 @@ Cambridge is very scenic,  with many places to see and visit. It can be covered 
 
 ## Things to Do in Cambridge
 
-<b> 1. Punting along The Banks </b>
+##### 1. Punting along The Banks 
 
 <img style="padding: 0 10px; float: left;" src="/uploads/Punting.jpg" width="300"  height="225"/>
 
 The banks is known as Little Venice. Punting is a great way to see the River Cams which separates Cambridge into 2 sections. With a glass of bubbly in your hands its a great way to view the inside of many of the Colleges right from the River and see the many exotic bridges the city has to offer.
 
-<b> 2. Visit the Bridge of Sighs </b>
+##### 2. Visit the Bridge of Sighs 
 
 This is apparently Queen Victoria's favorite spot in Cambridge. It links the new court and the original college building of St John's College. Its used daily by people or live or work around there. Its very similar to its name sack in Venice, Italy.
 
-<b> 3. Visit the Mathematical Bridge </b>
+##### 3. Visit the Mathematical Bridge 
 
 <img style="padding: 0 10px; float: right;" src="/uploads/Mathematical Bridge.jpg" width="400"  height="400"/>
 
@@ -56,55 +56,55 @@ This is a very interesting looking bridge that connects 2 parts of Queens Colleg
 
 The Bridge is actually made from straight timbers,  even though the shape of the bridge is an arch. Its a fairly interesting sigh as your punting down the river. Look up and review it from underneath.
 
-<b> 4. Take a University Tour </b>
+##### 4. Take a University Tour 
 
 You can take a University Tour, or do a Self Guided tour visiting as many or little of the University Institutions or Colleges that you like. Each college is unique in its own way, so a pleasant afternoon to check out what each college has to offer.
 
 <center><img src="/uploads/Cambridge University Tour.jpg" alt="}Cambridge University Tours"  width="1200" /> </center>
 
-Corpus Christi College :-
+###### Corpus Christi College :-
 
 Corpus Christi College is a very old college. Dates back as far as 1377, but has had many restorations since then.  Corpus is ranked among the wealthiest colleges Cambridge has in  terms of fixed assets, they seem to have a lot of silver.
 
-Christ's College :-
+###### Christ's College :-
 
 This is one of the oldest and largest schools in Cambridge. You can not view the inside of the college, but the grounds and Gardens are view able.
 
-St John's  College :-
+###### St John's  College :-
 
 Its the college where everyone wants to go now. It is Cambridge's wealthiest college which is showcased by the annual May Ball (which is known to be one of the best parties in Britain)
 
-Trinity College :-
+###### Trinity College :-
 
 Is also known as Cambridge's Royal College. It was established in 1546 by Henry VIII, and his statue is located above the Great Gate of the College.
 
-Peterhouse college :-
+###### Peterhouse college :-
 
 This college is a very small college, as well as being one of the oldest. It was founded by Peterhouse in 1284.
 
-St James College :-
+###### St James College :-
 
 This college was founded in 1511 by Henry VII's mother, Lady Margaret Beaufort. It has a dining hall which is simply known as "The Hall", with some fine portraits and exquisite paneling.
 
-Pembroke College :-
+###### Pembroke College :-
 
 Countess of Pembroke founded this college in 1347  but many improvements of the college have been put in place since then. Pembroke has produced many bishops and poets.
 
-Kings College :-
+###### Kings College :-
 
 Kings College is the most read about in Cambridge. Founded in 1441 by Henry VI. The Kings College Chapel is a great work of art. Its a must see when visiting Cambridge.
 
-St Johns College :-
+###### St Johns College :-
 
 Visiting St Johns College isn't free. Its beautiful inside but costs to get in. Founded by Lady Margaret Beaufort in 1511, mother of King Henry VII, there is her coat of arms sitting above the Tudor Great Gate on St Johns Street. This college has great detail to look out for, like statues, carved doorways ...
 
-<b> 5. Find the Corpus Clock </b>
+##### 5. Find the Corpus Clock
 
 <img style="padding: 0 20px; float: left;" src="/uploads/Corpus.jpg" width="300"  height="175"/>
 
 Lets see if you can find the Corpus Clock within the city of Cambridge. Its a beautiful invention, its mechanically controlled, no programming involved at all. You wont spend long looking at the clock but definitely nice to check out
 
-<b> 6. Fitzwilliam Museum </b>
+##### 6. Fitzwilliam Museum 
 
 This is a free museum if you like to visit museums, this one is fill of antiques, and art.
 
@@ -116,17 +116,17 @@ There are 5 areas in the museum,
 * Applied Arts
 * Antiquities
 
-<b> 7. St Mary's Church </b>
+##### 7. St Mary's Church
 
 This is one of the most beautiful viewpoints of Cambridge. You can climb to the top of the tower of the church for a stunning view of Cambridge.
 
 This church is known better as the Round Church, and its only 1 of 4 Norman Round Churches left in England. It was built in 1131 with more modifications done to it in the 15th century.
 
-<b> 8. Cambridge University Botanic Garden </b>
+##### 8. Cambridge University Botanic Garden 
 
 Acres of area, for people who gardening its a must see. Over 8,000 types of plants from around the world, and many glasshouses and trails to visit. You can take a guided tour or a self guided tour. Its free to visit on Sundays. Lovely Café and Botanic Garden Shop to visit inside too.
 
-<b> 9. Museum of Archaeology and Anthropology </b>
+##### 9. Museum of Archaeology and Anthropology
 
 Great museum for those who love Archaeology and Anthropology. So much human history displayed in this museum.  It this is your cup of tea, then definitely check it out. Some amazing artifacts from explorer Captain James Cook and his 3 expeditions are also on display here as well as unearthed diggings from around Cambridge and East Anglia.
 

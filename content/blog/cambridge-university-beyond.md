@@ -211,10 +211,6 @@ Its a wonderful place for a picnic or to pick up some small items from the villa
 
 <center><img src="/uploads/BiburyCottage.jpg" /></center>
 
-<center><a href="[http://www.dpbolvw.net/click-9007735-11969220](http://www.dpbolvw.net/click-9007735-11969220 "http://www.dpbolvw.net/click-9007735-11969220")" target="_top"><img src="[http://www.ftjcfx.com/image-9007735-11969220](http://www.ftjcfx.com/image-9007735-11969220 "http://www.ftjcfx.com/image-9007735-11969220")" width="300" height="250" alt="Skytours" border="0"/></a></center>
-
-<a href="[http://www.dpbolvw.net/click-9007735-11969220](http://www.dpbolvw.net/click-9007735-11969220 "http://www.dpbolvw.net/click-9007735-11969220")" target="_top">
-
-<img src="[http://www.ftjcfx.com/image-9007735-11969220](http://www.ftjcfx.com/image-9007735-11969220 "http://www.ftjcfx.com/image-9007735-11969220")" width="300" height="250" alt="Skytours" border="0"/></a>
+<center><a href="[http://www.dpbolvw.net/click-9007735-11969220](http://www.dpbolvw.net/click-9007735-11969220 "http://www.dpbolvw.net/click-9007735-11969220")" target="_top"><img src="/uploads/AffiliateLinkSkyTours.jpg" width="300" height="250" alt="Skytours" border="0"/></a></center>
 
 <center><script type="text/javascript" async charset="utf-8" src="//cj.travelpayouts.com/mewtwo.js?AID=12484336&PID=9007735&width=620&scheme=white_blue&currency=USD"></script></center>

@@ -36,19 +36,21 @@ The trip started of with a visit straight to Cambridge. The boys and I left for 
 
 Cambridge is very scenic,  with many places to see and visit. It can be covered in a day, but all depends on how much time you want to spend there, i loved the fact that the streets give you a sense of feel of inner peace and relaxation.
 
+<a href="[http://www.kqzyfj.com/click-9007735-11126857](http://www.kqzyfj.com/click-9007735-11126857 "http://www.kqzyfj.com/click-9007735-11126857")" target="_top">Looking for Cheap Flights to London? Compare, Book & Save with Vayama. All Airlines and Destinations! </a><img src="[http://www.ftjcfx.com/image-9007735-11126857](http://www.ftjcfx.com/image-9007735-11126857 "http://www.ftjcfx.com/image-9007735-11126857")" width="1" height="1" border="0"/>
+
 ## Things to Do in Cambridge
 
-##### 1. Punting along The Banks 
+##### 1. Punting along The Banks
 
 <img style="padding: 0 10px; float: left;" src="/uploads/Punting.jpg" width="300"  height="225"/>
 
 The banks is known as Little Venice. Punting is a great way to see the River Cams which separates Cambridge into 2 sections. With a glass of bubbly in your hands its a great way to view the inside of many of the Colleges right from the River and see the many exotic bridges the city has to offer.
 
-##### 2. Visit the Bridge of Sighs 
+##### 2. Visit the Bridge of Sighs
 
 This is apparently Queen Victoria's favorite spot in Cambridge. It links the new court and the original college building of St John's College. Its used daily by people or live or work around there. Its very similar to its name sack in Venice, Italy.
 
-##### 3. Visit the Mathematical Bridge 
+##### 3. Visit the Mathematical Bridge
 
 <img style="padding: 0 10px; float: right;" src="/uploads/Mathematical Bridge.jpg" width="400"  height="400"/>
 
@@ -56,7 +58,7 @@ This is a very interesting looking bridge that connects 2 parts of Queens Colleg
 
 The Bridge is actually made from straight timbers,  even though the shape of the bridge is an arch. Its a fairly interesting sigh as your punting down the river. Look up and review it from underneath.
 
-##### 4. Take a University Tour 
+##### 4. Take a University Tour
 
 You can take a University Tour, or do a Self Guided tour visiting as many or little of the University Institutions or Colleges that you like. Each college is unique in its own way, so a pleasant afternoon to check out what each college has to offer.
 
@@ -104,7 +106,7 @@ Visiting St Johns College isn't free. Its beautiful inside but costs to get in. 
 
 Lets see if you can find the Corpus Clock within the city of Cambridge. Its a beautiful invention, its mechanically controlled, no programming involved at all. You wont spend long looking at the clock but definitely nice to check out
 
-##### 6. Fitzwilliam Museum 
+##### 6. Fitzwilliam Museum
 
 This is a free museum if you like to visit museums, this one is fill of antiques, and art.
 
@@ -122,7 +124,7 @@ This is one of the most beautiful viewpoints of Cambridge. You can climb to the 
 
 This church is known better as the Round Church, and its only 1 of 4 Norman Round Churches left in England. It was built in 1131 with more modifications done to it in the 15th century.
 
-##### 8. Cambridge University Botanic Garden 
+##### 8. Cambridge University Botanic Garden
 
 Acres of area, for people who gardening its a must see. Over 8,000 types of plants from around the world, and many glasshouses and trails to visit. You can take a guided tour or a self guided tour. Its free to visit on Sundays. Lovely Café and Botanic Garden Shop to visit inside too.
 
@@ -132,6 +134,52 @@ Great museum for those who love Archaeology and Anthropology. So much human hist
 
 If you fit Cambridge into your schedule its definitely worth a visit. Visit the inside of the Colleges (Trinity College, St Johns College, Corpus Christi College...), go Punting in the Backs, check out the coolest Mathematical Bridge and visit the Bridge of Sighs, among many other things to do in Cambridge.
 
-## Places to Eat in Cambridge
+<a href="[http://www.kqzyfj.com/click-9007735-12931572](http://www.kqzyfj.com/click-9007735-12931572 "http://www.kqzyfj.com/click-9007735-12931572")" target="_top">Hotels in London Under $200/Nt!</a><img src="[http://www.tqlkg.com/image-9007735-12931572](http://www.tqlkg.com/image-9007735-12931572 "http://www.tqlkg.com/image-9007735-12931572")" width="1" height="1" border="0"/>
+
+<a href="[http://www.dpbolvw.net/click-9007735-13118435](http://www.dpbolvw.net/click-9007735-13118435 "http://www.dpbolvw.net/click-9007735-13118435")" target="_top">Find the best hotels in London with Skyscanner!</a><img src="[http://www.tqlkg.com/image-9007735-13118435](http://www.tqlkg.com/image-9007735-13118435 "http://www.tqlkg.com/image-9007735-13118435")" width="1" height="1" border="0"/>
 
 # Cotwold Villages worth visiting
+
+Cotswold for us was a day trip. We had a car at our disposal which was great since there were a lot of us. We packed a picnic of sandwiches, chips and drinks and we were off. Cotswold is an not too far from Cambridge fill of scenic rolling hills. Its actually quite amazing the way the hills lay.  Cotswold is made up of many tiny villages. We visited a couple of them. Both very different from each other, which gave them there own sense of uniqueness. This was a fun trip, and the kids had a place.
+
+#### Bourton on the Water
+
+<img style="padding: 0 15px; float: left;" src="/uploads/BourtonOnTheWaterStream.jpg" width="600"  height="800"/>
+
+First we visited **Bourton on the Water**, its a small village with the cutest little river going thru it. Bourton has so many cute little tourist attactions to check out while there:
+
+o Model Village - 1:9 replica of the village
+
+o Model Railway
+
+o Motoring Museum
+
+o Birdland Park and Gardens (Great for kids and people who love birds)
+
+o Dragon Maze
+
+o Great walking Trails and Paths along the river
+
+After strolling along the river and kids playing in the clean stream of water, we found the perfect spot to enjoy our lunch and enjoy the lively atmosphere of our surroundings. Definitely a lovely spot for relaxation and just a wonderful day out. There are some great ice cream shops right along the river too, so dont forget to grab a cone throughout the day.
+
+<div class="row" >  
+<div class="column" >
+
+     <img src="/uploads/BourtonOnTheWaterRiverBank.jpg" alt="Bourton on the Water"  width="375" />
+
+</div>  
+<div class="column">
+
+     <img src="/uploads/BourtonOnTheWaterRiver.jpg" alt="Bourton on the Water" width="375" />
+
+</div>
+
+<div class="column">
+
+     <img src="/uploads/BourtonOnTheWater.jpg"alt="Bourton on the Water" width="375" />
+
+</div>
+
+</div>
+
+#### Bibury

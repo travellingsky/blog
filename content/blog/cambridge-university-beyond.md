@@ -7,7 +7,7 @@ pins = []
 title = "Cambridge University, Cotswold Villages & Beyond"
 [images]
 name = "Cambridge University"
-src = "/uploads/default.jpg"
+src = "/uploads/CambridgeUniversity.jpg"
 
 +++
 # The town of Cambridge University

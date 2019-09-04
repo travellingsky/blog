@@ -2,8 +2,8 @@
 title: Punta Cana – Dominican Republic
 date: 2019-05-14T08:46:10.000+00:00
 description: Punta Cana – Dominican Republic - put more descriptive SEO here.
-type: post
-image: images/masonary-post/post-1.jpg
+type: Featured
+image: "/uploads/puntacana.jpg"
 categories:
 - Caribbean Islands
 tags:

@@ -44,8 +44,9 @@ While in Punta Cana, we decided to do a full day excursion. After flipping some 
 
 On the way there we did the speed boat. They go half way to Saona Island and stop for people who want to Snorkel to allow them to Snorkel. I personally didn’t do it, but my husband and kids did. They said it was wonderful. They were surrounded by so many different kinds of fish in the water and the water was actually warm, not cold. After spending 30 minutes here, everyone got back on the boat and we moved on. Right before we arrived at Saona Island we stopped again, this time at the shallow turquoise waters. Here the water is literally Turquoise and not so deep. This was different. Here we actually got to see starfish and take pictures with them
 
-Saona Island is perfect. You wouldn’t have seen anything like it. The sand is clean and white; the water is clear and blue. Fantastic spots to take pictures and as mentioned earlier they provide a professional photograph who actually take great pictures. I’m far from a model but have to say he took some great snaps.  
-​  
+Saona Island is perfect. You wouldn’t have seen anything like it. The sand is clean and white; the water is clear and blue. Fantastic spots to take pictures and as mentioned earlier they provide a professional photograph who actually take great pictures. I’m far from a model but have to say he took some great snaps.
+
+  
 ​Hint: always try and negotiate on the price if you decide to buy their pictures. The island is lovely. They had great people who did great massages, which were very inexpensive. Even the kids got great massages, they loved it.
 
 They provide a fantastic buffet lunch on the island, which was included in the cost of and I have to admit the food was pretty good. The photographer took some great clicks of us, that even though we weren’t wanted to buy the pictures, they were so good, we just as too.

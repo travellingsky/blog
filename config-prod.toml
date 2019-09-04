@@ -1,48 +1,105 @@
-baseURL = "https://travellingsky.github.io"
+baseURL = "https://localhost:1313/"
 languageCode = "en-us"
-title = "Travelling Sky"
-theme = "massively"
+title = "Sky Travel Blogger"
+theme = "theme = "parsa-hugo""
 disqusShortname = "travellingsky"
-googleAnalytics = ""
-
-[related]
-threshold = 80
-includeNewer = true
-toLower = false
-
-[[related.indices]]
-name = "keywords"
-weight = 100
-[[related.indices]]
-name  = "date"
-weight = 10
-pattern = "2006"
-
-
-# set below parameter to define a favicon
-[params]
-  favicon = "/favicon.png"
-  author = "Shetal Gandhi"
-  site_description = "Your guide to the worlds best travel destinations."
-  description = "Your guide to the worlds best travel destinations."
+summaryLength = "10"
+paginate=6
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "AMP", "RSS", "JSON"]
   page = ["HTML"]
 
-# Below parameters can be set to override default post settings
-[params.posts]
-     foldername = "blog"
-     pagesize = "10"
-     featuredpost = "false"
+# Plugins
+[params.plugins]
 
-[permalinks]
-  blog = "/blog/:title/"
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
 
-[taxonomies]
-  category = "categories"
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/headroom/headroom.js"
+  [[params.plugins.js]]
+  URL = "plugins/instafeed/instafeed.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/masonry/masonry.js"
+  [[params.plugins.js]]
+  URL = "plugins/reading-time/readingTime.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/smooth-scroll/smooth-scroll.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+  
 
-[languages]
-[languages.en]
-  languageName = "English"
+  
+# navigation
+[menu]
+    
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 3
 
+
+[params]
+logo = "images/logo.png"
+home = "Home"
+# hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
+homeLayoutToggle = true
+# Meta data
+description = "This is meta description"
+# about author
+author = "Themefisher"
+authorImage = "images/banner-img.png"
+shortDescription = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+# Contact Form Action
+contactFormAction = "#"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# copyright
+copyright = "a theme by [themefisher.com](themefisher.com)"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  
+  # search
+  [params.search]
+  enable = true
+
+
+  # footer
+  [params.footer]
+
+    #address
+
+    
+    #contact information
+    [[params.footer.contacts]]
+    contactInfo = "Mail: shetalg@gmail.com"
+
+
+  # social site
+  [[params.social]]
+  icon = "ti-facebook"
+  URL = "#"

@@ -11,6 +11,9 @@ tags:
 - Food
 keywords:
 - Beach Vacation
+images:
+  src: "/uploads/puntacana.jpg"
+  name: Punta Cana in the Dominican Republic
 
 ---
 Punta Cana in Dominican Republic who would have guessed it would be so scenic. This place is filled with Palm trees and Coconut trees. This was a family trip with our family parents and all for as a birthday celebration for my dad who turned 70. This was a fun vacation for all there, children, us and both mine and my husband’s parents. Everyone had a great time with plenty to do for everything. Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at [Barcelo Bavaro Palace Deluxe](http://www.reservations.com/hotel/barcela3-ba-varo-palace-deluxe-all-inclusive?gclid=CjwKEAiAx--2BRDO6q2T84_a52YSJABWAbfr7gsRXVBZMjazfzYR_TuqzmOwqiXDhkNOGSP_wjC81hoCxR3w_wcB), a great resort for families.

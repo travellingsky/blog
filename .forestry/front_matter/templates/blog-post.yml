@@ -23,12 +23,12 @@ fields:
     required: true
 - name: type
   type: select
-  default: Featured
+  default: post
   config:
     required: false
     options:
-    - Featured
-    - Post
+    - featured
+    - post
     source:
       type: simple
       section: 

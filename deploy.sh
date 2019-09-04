@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-hugo -t massively --config config-prod.toml
+hugo -t parsa-hugo --config config-prod.toml
 
 # Go To Public folder
 cd public

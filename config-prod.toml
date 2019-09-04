@@ -1,7 +1,7 @@
-baseURL = "https://localhost:1313/"
+baseURL = "https://www.skytravelblogger.com/"
 languageCode = "en-us"
 title = "Sky Travel Blogger"
-theme = "theme = "parsa-hugo""
+theme = "parsa-hugo"
 disqusShortname = "travellingsky"
 summaryLength = "10"
 paginate=6
@@ -69,7 +69,7 @@ homeLayoutToggle = true
 # Meta data
 description = "This is meta description"
 # about author
-author = "Themefisher"
+author = "Shetal"
 authorImage = "images/banner-img.png"
 shortDescription = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact Form Action
@@ -96,10 +96,14 @@ copyright = "a theme by [themefisher.com](themefisher.com)"
     
     #contact information
     [[params.footer.contacts]]
-    contactInfo = "Mail: shetalg@gmail.com"
+    contactInfo = "shetalg@gmail.com"
 
 
   # social site
   [[params.social]]
   icon = "ti-facebook"
-  URL = "#"
+  URL = "https://www.facebook.com/SkyTravelBlogger/"
+
+  [[params.social]]
+  icon = "ti-pinterest"
+  URL = "https://www.pinterest.com/SkyTravelBlogger/"

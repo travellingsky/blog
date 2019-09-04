@@ -44,7 +44,8 @@ paginate=6
   URL = "plugins/search/mark.js"
   [[params.plugins.js]]
   URL = "plugins/search/search.js"
-  
+  [[params.plugins.js]]
+  URL = "assets/js/load_photoswipe.js"
 
   
 # navigation

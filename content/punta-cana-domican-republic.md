@@ -1,19 +1,15 @@
 ---
 title: Punta Cana – Dominican Republic
-date: 2019-05-14T08:46:10.000+00:00
+date: 2019-09-01
 description: Punta Cana – Dominican Republic - put more descriptive SEO here.
-type: Featured
+type: "post"
 image: "/uploads/puntacana.jpg"
 categories:
 - Caribbean Islands
 tags:
 - Photos
 - Food
-keywords:
-- Beach Vacation
-images:
-  src: "/uploads/puntacana.jpg"
-  name: Punta Cana in the Dominican Republic
+
 
 ---
 Punta Cana in Dominican Republic who would have guessed it would be so scenic. This place is filled with Palm trees and Coconut trees. This was a family trip with our family parents and all for as a birthday celebration for my dad who turned 70. This was a fun vacation for all there, children, us and both mine and my husband’s parents. Everyone had a great time with plenty to do for everything. Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at [Barcelo Bavaro Palace Deluxe](http://www.reservations.com/hotel/barcela3-ba-varo-palace-deluxe-all-inclusive?gclid=CjwKEAiAx--2BRDO6q2T84_a52YSJABWAbfr7gsRXVBZMjazfzYR_TuqzmOwqiXDhkNOGSP_wjC81hoCxR3w_wcB), a great resort for families.
@@ -30,7 +26,13 @@ The best part of the resort was the swim up to Bars. Kids loved it because they 
 
 Also close to the beach is a little gift shop. Looks like a hut, and very different looking. Great place to buy swim outfits, and beach gear.
 
-image gallery
+<!-- Load PhotoSwipe js if the load-photoswipe shortcode has been used -->
+{{< load_photoswipe >}}
+{{< gallery >}}
+  {{< figure src="/uploads/QueensCollege.jpg" caption="test">}}
+  {{< figure src="/uploads/TrinityCollege.jpg" >}}
+  {{< figure src="/uploads/Punting.jpg" >}}
+{{< /gallery >}}
 
 Some of our favorite restaurants the Barcelo Bavaro were Kyoto (Japanese Restaurant that also did Hibachi), as well as Mexico Lindo. They have 2 wonderful buffet restaurants that are open during breakfast and dinner. It’s a great for kids who can be very picky as well as when you need to feed them when restaurant reservations are late.
 
@@ -55,3 +57,4 @@ They had salsa lessons and performances from people working on the island. It wa
 After a wonderful day on Saona Island, the trip back to Punta Cana was the highlight. The ride back on a Catamaran with so many people was so much fun. They served beer on the ride back with music and dancing. They had some great dancers who were awesome and danced with everyone and anyone. Kids had a ball too, they were so happy. The sun beat down on us it was beautiful. Great views of the ocean, with music, such a relaxing trip back to the land. We all had a wonderful time.
 
 I definitely recommend this trip to anyone who is looking for a fun excursion to do from Punta Cana. It was lots of fun, and well worth it.
+

@@ -1,4 +1,4 @@
-baseURL = "https://www.skytravelblogger.com/"
+baseURL = "https://travellingsky.github.io"
 languageCode = "en-us"
 title = "Sky Travel Blogger"
 theme = "parsa-hugo"
@@ -44,7 +44,8 @@ paginate=6
   URL = "plugins/search/mark.js"
   [[params.plugins.js]]
   URL = "plugins/search/search.js"
-  
+  [[params.plugins.js]]
+  URL = "assets/js/load_photoswipe.js"
 
   
 # navigation

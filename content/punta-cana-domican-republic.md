@@ -11,13 +11,15 @@ tags:
 - Food
 
 ---
-Punta Cana in Dominican Republic who would have guessed it would be so scenic. This place is filled with Palm trees and Coconut trees. This was a family trip with our family parents and all for as a birthday celebration for my dad who turned 70. This was a fun vacation for all there, children, us and both mine and my husband’s parents. Everyone had a great time with plenty to do for everything. Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at [Barcelo Bavaro Palace Deluxe](http://www.reservations.com/hotel/barcela3-ba-varo-palace-deluxe-all-inclusive?gclid=CjwKEAiAx--2BRDO6q2T84_a52YSJABWAbfr7gsRXVBZMjazfzYR_TuqzmOwqiXDhkNOGSP_wjC81hoCxR3w_wcB), a great resort for families.
+Punta Cana in Dominican Republic who would have guessed it would be so scenic. This place is filled with Palm trees and Coconut trees. This was a family trip with our family parents and all for as a birthday celebration for my dad who turned 70. This was a fun vacation for all there, children, us and both mine and my husband’s parents. Everyone had a great time with plenty to do for everything. Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at <a href="[https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331](https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331 "https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331")" rel="nofollow">Barcelo Bavaro Palace Deluxe </a>, a great resort for families.
 
 Punta Cana is a place for people who love the outdoor activities. Great activities available for speed boating, catamaran sailing, , deep sea sport fishing, discovery cruises, private yachts, swimming with dolphins, snorkeling cruises, swimming with sharks and stingrays, whale watching, reef exploring and visiting small islands like Saona and Catalina.
 
 ## Barcelo Bavaro Palace Deluxe – All Inclusive
 
-Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at [Barcelo Bavaro Palace Deluxe](http://www.reservations.com/hotel/barcela3-ba-varo-palace-deluxe-all-inclusive?gclid=CjwKEAiAx--2BRDO6q2T84_a52YSJABWAbfr7gsRXVBZMjazfzYR_TuqzmOwqiXDhkNOGSP_wjC81hoCxR3w_wcB), a great resort for families. The pools were beautiful, the beach was fantastic, and food was great, so many options to choose from. Many people I’m sure have destination weddings here. It’s a great place for some lovely photos. We actually saw a destination wedding happening in a little kiosk right in front of the beach. It was so beautiful. The bridal party looked wonderful in matching outfits, I’m sure there pictures come our exquisite.
+![Barcelo Bavaro Deluxe – All Inclusive](/uploads/Barcelo Bavaro Palace Deluxe.jpg "Barcelo Bavaro Deluxe – All Inclusive")
+
+Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at <a href="[https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331](https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331 "https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331")" rel="nofollow">Barcelo Bavaro Palace Deluxe </a>, a great resort for families. The pools were beautiful, the beach was fantastic, and food was great, so many options to choose from. Many people I’m sure have destination weddings here. It’s a great place for some lovely photos. We actually saw a destination wedding happening in a little kiosk right in front of the beach. It was so beautiful. The bridal party looked wonderful in matching outfits, I’m sure there pictures come our exquisite.
 
 Also the resort has so many activities for the all age groups. They had salsa lessons, aerobics on the beach (our mothers loved that), a giant chess board alongside the pool, that you can actually play, as well as other various activities. There is a schedule posted in one of the covered hang out activity areas that list what activities they are doing at what time, as well as many competitions you can compete in to win small prizes.
 
@@ -38,7 +40,7 @@ There is a special kids club at the resort for kids to spend the day especially 
 
 The beach water was nice and warm, only part that I didn’t like was the seaweed. I don’t like seaweed that’s washed up on shore, but once we were past that, the water was clear, blue and beautiful. We got some lively pictures from there, it was lovely. The dock was great too. It was nice to hang out at the end of the dock, and watch the boats go by smell the fresh air.
 
-## Saona Island
+<h2><a href="[https://en.wikipedia.org/wiki/Saona_Island](https://en.wikipedia.org/wiki/Saona_Island "https://en.wikipedia.org/wiki/Saona_Island")" rel="nofollow">Saona Island</a></h2>
 
 While in Punta Cana, we decided to do a full day excursion. After flipping some ideas around, we thought going to Saona Island would be fun. This was fantastic, definitely well worth the money and a day well spent. We absolutely love it. The trip there was on a speed boat, return was on a catamaran. You have a professional photography with you the whole time, and you will have the time of your life. We sure did.
 
@@ -46,8 +48,7 @@ On the way there we did the speed boat. They go half way to Saona Island and sto
 
 Saona Island is perfect. You wouldn’t have seen anything like it. The sand is clean and white; the water is clear and blue. Fantastic spots to take pictures and as mentioned earlier they provide a professional photograph who actually take great pictures. I’m far from a model but have to say he took some great snaps.
 
-  
-​Hint: always try and negotiate on the price if you decide to buy their pictures. The island is lovely. They had great people who did great massages, which were very inexpensive. Even the kids got great massages, they loved it.
+**​Hint:** always try and negotiate on the price if you decide to buy their pictures. The island is lovely. They had great people who did great massages, which were very inexpensive. Even the kids got great massages, they loved it.
 
 They provide a fantastic buffet lunch on the island, which was included in the cost of and I have to admit the food was pretty good. The photographer took some great clicks of us, that even though we weren’t wanted to buy the pictures, they were so good, we just as too.
 

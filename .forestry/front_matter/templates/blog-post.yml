@@ -52,7 +52,7 @@ fields:
     maxSize: 250
   label: Cover Image
   description: Main Cover Image
-  default: "/uploads/Sky Travel Blogger Banner.jpg"
+  default: ''
 - type: field_group_list
   name: pins
   label: Pins

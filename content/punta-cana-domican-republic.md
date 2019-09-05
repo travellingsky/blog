@@ -17,8 +17,6 @@ Punta Cana is a place for people who love the outdoor activities. Great activiti
 
 <h2><a href="[https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business_utm_content=h331_](https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331 "https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331")_" rel="nofollow">Barcelo Bavaro Palace Deluxe_ – All Inclusive </a></h2>
 
-## Barcelo Bavaro Palace Deluxe – All Inclusive
-
 <center><img src="/uploads/Barcelo Bavaro Palace Deluxe.jpg" alt="Barcelo Bavaro Deluxe – All Inclusive"  style="width: 50%" /><figcaption> Barcelo Bavaro Palace Deluxe – All Inclusive </figcaption></center>
 
 Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at <a href="[https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331](https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331 "https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331")" rel="nofollow">Barcelo Bavaro Palace Deluxe </a>, a great resort for families. The pools were beautiful, the beach was fantastic, and food was great, so many options to choose from. Many people I’m sure have destination weddings here. It’s a great place for some lovely photos. We actually saw a destination wedding happening in a little kiosk right in front of the beach. It was so beautiful. The bridal party looked wonderful in matching outfits, I’m sure there pictures come our exquisite.
@@ -35,15 +33,15 @@ Also close to the beach is a little gift shop. Looks like a hut, and very differ
 
 {{< figure src="/uploads/Barcelo Beach.jpg" caption="Barcelo Beach">}} 
 
-{{< figure src="/uploads/Barcelo Shopping.jpg" caption="Barcelo Shopping">}} 
+{{< figure src="/uploads/Barcelo Shopping.jpg" caption="Barcelo Shopping" >}} 
 
-{{< figure src="/uploads/Barcelo Gazebo.jpg" caption ="Barcelo Gazebo" >}} 
+{{< figure src="/uploads/Barcelo Resort1.jpg" caption="Barcelo Resort 1" >}} 
 
-{{< figure src="/uploads/Barcelo Resort2.jpg" caption ="Barcelo Resort" >}} 
+{{< figure src="/uploads/Barcelo Games.jpg" caption="Barcelo Games">}} 
 
-{{< figure src="/uploads/Barcelo Games.jpg" caption ="Barcelo Games" >}} 
+{{< figure src="/uploads/Barcelo Resort2.jpg" caption="Barcelo Resort 2" >}} 
 
-{{< figure src="/uploads/Barcelo Resort1.jpg" caption ="Barcelo Resort2" >}} 
+{{< figure src="/uploads/Barcelo Gazebo.jpg" caption="Barcelo Gazebo" >}} 
 
 {{< /gallery >}}
 
@@ -51,13 +49,51 @@ Some of our favorite restaurants the Barcelo Bavaro were Kyoto (Japanese Restaur
 
 There is a special kids club at the resort for kids to spend the day especially if you want a break or some alone time. They have outdoor activities and arcades as well as movie time for kids. My kids loved spending the time there. Also there is a water park area with a pirate ship close to the kids club. This is an additional cost (not included in the all inclusive package), if was a little secluded if you ask me, and not many people were there, but was a nice hang out place for a few hours.
 
+{{< load_photoswipe >}} 
+
+{{< gallery >}} 
+
+{{< figure src="/uploads/BarceloKidsPool1.jpg" caption="Barcelo Kids Pool 1">}} 
+
+{{< figure src="/uploads/PirateShip.jpg" caption="Barcelo Pirate Ship" >}} 
+
+{{< figure src="/uploads/BarceloKidsPool2.jpg" caption="Barcelo Kids Pool 2" >}} 
+
+{{< /gallery >}}
+
 The beach water was nice and warm, only part that I didn’t like was the seaweed. I don’t like seaweed that’s washed up on shore, but once we were past that, the water was clear, blue and beautiful. We got some lively pictures from there, it was lovely. The dock was great too. It was nice to hang out at the end of the dock, and watch the boats go by smell the fresh air.
+
+{{< load_photoswipe >}} 
+
+{{< gallery >}} 
+
+{{< figure src="/uploads/WalkOnTheDock.jpg" caption="Barcelo Dockside">}} 
+
+{{< figure src="/uploads/PirateShipInOcean.jpg" caption="Barcelo Pirate Ship In The Ocean" >}} 
+
+{{< figure src="/uploads/Kayak.jpg" caption="Barcelo Kayak" >}} 
+
+{{< /gallery >}}
 
 <h2><a href="[https://en.wikipedia.org/wiki/Saona_Island](https://en.wikipedia.org/wiki/Saona_Island "https://en.wikipedia.org/wiki/Saona_Island")" rel="nofollow">Saona Island</a></h2>
 
 While in Punta Cana, we decided to do a full day excursion. After flipping some ideas around, we thought going to Saona Island would be fun. This was fantastic, definitely well worth the money and a day well spent. We absolutely love it. The trip there was on a speed boat, return was on a catamaran. You have a professional photography with you the whole time, and you will have the time of your life. We sure did.
 
-On the way there we did the speed boat. They go half way to Saona Island and stop for people who want to Snorkel to allow them to Snorkel. I personally didn’t do it, but my husband and kids did. They said it was wonderful. They were surrounded by so many different kinds of fish in the water and the water was actually warm, not cold. After spending 30 minutes here, everyone got back on the boat and we moved on. Right before we arrived at Saona Island we stopped again, this time at the shallow turquoise waters. Here the water is literally Turquoise and not so deep. This was different. Here we actually got to see starfish and take pictures with them
+On the way there we did the speed boat. They go half way to Saona Island and stop for people who want to Snorkel to allow them to Snorkel. I personally didn’t do it, but my husband and kids did. They said it was wonderful. They were surrounded by so many different kinds of fish in the water and the water was actually warm, not cold. After spending 30 minutes here, everyone got back on the boat and we moved on. Right before we arrived at Saona Island we stopped again, this time at the shallow turquoise waters. Here the water is literally Turquoise and not so deep. This was different. Here we actually got to see starfish and take pictures with them.
+
+{{< load_photoswipe >}} 
+
+{{< gallery >}} 
+
+{{< figure src="/uploads/Starfish.jpg" caption="Saona Island Starfish">}} 
+
+{{< figure src="/uploads/TripToSaonaIsland.jpg" caption="Trip To Saona Island" >}} 
+
+{{< figure src="/uploads/Snorkling.jpg" caption="Saona Island Snorkling" >}} 
+
+{{< /gallery >}}
+
+<center><img src="/uploads/SaonaIsland.jpg" alt="SaonaIsland"  style="width: 50%" /><figcaption> Saona Island </figcaption></center>
 
 Saona Island is perfect. You wouldn’t have seen anything like it. The sand is clean and white; the water is clear and blue. Fantastic spots to take pictures and as mentioned earlier they provide a professional photograph who actually take great pictures. I’m far from a model but have to say he took some great snaps.
 
@@ -67,6 +103,42 @@ They provide a fantastic buffet lunch on the island, which was included in the c
 
 They had salsa lessons and performances from people working on the island. It was great entertainment. We had a lot of fun here, definitely worth it. There are some great opportunities for some wonderful photos even if you are not a model.
 
+{{< load_photoswipe >}}
+
+{{< gallery >}}
+
+{{< figure src="/uploads/PalmTrees.jpg" caption="Palm Trees">}}
+
+{{< figure src="/uploads/PalmTreesSplit.jpg"  caption="Palm Trees">}}
+
+{{< figure src="/uploads/PosingOnTree.jpg"  caption="Palm Trees">}}
+
+{{< figure src="/uploads/SaonaIsland.jpg" caption="Saona Island">}}
+
+{{< figure src="/uploads/SaonaIslandShells.jpg"  caption="Saona Island Shells">}}
+
+{{< figure src="/uploads/SaonaIslandTree.jpg"  caption="Palm Trees">}}
+
+{{< /gallery >}}
+
 After a wonderful day on Saona Island, the trip back to Punta Cana was the highlight. The ride back on a Catamaran with so many people was so much fun. They served beer on the ride back with music and dancing. They had some great dancers who were awesome and danced with everyone and anyone. Kids had a ball too, they were so happy. The sun beat down on us it was beautiful. Great views of the ocean, with music, such a relaxing trip back to the land. We all had a wonderful time.
 
 I definitely recommend this trip to anyone who is looking for a fun excursion to do from Punta Cana. It was lots of fun, and well worth it.
+
+{{< load_photoswipe >}}
+
+{{< gallery >}}
+
+{{< figure src="/uploads/Catamaran1.jpg" caption="Fun on the Catamaran">}}
+
+{{< figure src="/uploads/Catamaran2.jpg" caption="Fun on the Catamaran">}}
+
+{{< figure src="/uploads/Catamaran3.jpg" caption="Fun on the Catamaran">}}
+
+{{< figure src="/uploads/Catamaran4.jpg" caption="Fun on the Catamaran">}}
+
+{{< figure src="/uploads/Catamaran5.jpg" caption="Fun on the Catamaran">}}
+
+{{< figure src="/uploads/Yacht.jpg" caption="Fun on the Catamaran">}}
+
+{{< /gallery >}}

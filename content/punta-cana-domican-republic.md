@@ -15,9 +15,11 @@ Punta Cana in Dominican Republic who would have guessed it would be so scenic. T
 
 Punta Cana is a place for people who love the outdoor activities. Great activities available for speed boating, catamaran sailing, , deep sea sport fishing, discovery cruises, private yachts, swimming with dolphins, snorkeling cruises, swimming with sharks and stingrays, whale watching, reef exploring and visiting small islands like Saona and Catalina.
 
+<h2><a href="[https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business_utm_content=h331_](https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331 "https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331")_" rel="nofollow">Barcelo Bavaro Palace Deluxe_ – All Inclusive </a></h2>
+
 ## Barcelo Bavaro Palace Deluxe – All Inclusive
 
-![Barcelo Bavaro Deluxe – All Inclusive](/uploads/Barcelo Bavaro Palace Deluxe.jpg "Barcelo Bavaro Deluxe – All Inclusive")
+<center><img src="/uploads/Barcelo Bavaro Palace Deluxe.jpg" alt="Barcelo Bavaro Deluxe – All Inclusive"  style="width: 50%" /><figcaption> Barcelo Bavaro Palace Deluxe – All Inclusive </figcaption></center>
 
 Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at <a href="[https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331](https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331 "https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331")" rel="nofollow">Barcelo Bavaro Palace Deluxe </a>, a great resort for families. The pools were beautiful, the beach was fantastic, and food was great, so many options to choose from. Many people I’m sure have destination weddings here. It’s a great place for some lovely photos. We actually saw a destination wedding happening in a little kiosk right in front of the beach. It was so beautiful. The bridal party looked wonderful in matching outfits, I’m sure there pictures come our exquisite.
 
@@ -27,11 +29,22 @@ The best part of the resort was the swim up to Bars. Kids loved it because they 
 
 Also close to the beach is a little gift shop. Looks like a hut, and very different looking. Great place to buy swim outfits, and beach gear.
 
-{{< load_photoswipe >}}
-{{< gallery >}}
-{{< figure src="/uploads/QueensCollege.jpg" caption="test">}}
-{{< figure src="/uploads/TrinityCollege.jpg" >}}
-{{< figure src="/uploads/Punting.jpg" >}}
+{{< load_photoswipe >}} 
+
+{{< gallery >}} 
+
+{{< figure src="/uploads/Barcelo Beach.jpg" caption="Barcelo Beach">}} 
+
+{{< figure src="/uploads/Barcelo Shopping.jpg" caption="Barcelo Shopping">}} 
+
+{{< figure src="/uploads/Barcelo Gazebo.jpg" caption ="Barcelo Gazebo" >}} 
+
+{{< figure src="/uploads/Barcelo Resort2.jpg" caption ="Barcelo Resort" >}} 
+
+{{< figure src="/uploads/Barcelo Games.jpg" caption ="Barcelo Games" >}} 
+
+{{< figure src="/uploads/Barcelo Resort1.jpg" caption ="Barcelo Resort2" >}} 
+
 {{< /gallery >}}
 
 Some of our favorite restaurants the Barcelo Bavaro were Kyoto (Japanese Restaurant that also did Hibachi), as well as Mexico Lindo. They have 2 wonderful buffet restaurants that are open during breakfast and dinner. It’s a great for kids who can be very picky as well as when you need to feed them when restaurant reservations are late.

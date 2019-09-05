@@ -12,6 +12,8 @@ tags:
 - Food
 - Caribbean
 - Punta Cana
+- beach
+- vacation
 
 ---
 Punta Cana in Dominican Republic who would have guessed it would be so scenic. This place is filled with Palm trees and Coconut trees. This was a family trip with our family parents and all for as a birthday celebration for my dad who turned 70. This was a fun vacation for all there, children, us and both mine and my husband’s parents. Everyone had a great time with plenty to do for everything. Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at <a href="[https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331](https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331 "https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331")" rel="nofollow">Barcelo Bavaro Palace Deluxe </a>, a great resort for families.

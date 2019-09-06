@@ -53,3 +53,5 @@ There are so many restaurants to choose from and the food is great. Great variet
 This trip happened to be during our 10 year anniversary. So my husband and I stayed in the Laguna Villa (which is in an adults only section of the resort), the kids stayed with my in-laws in a regular room at the resort.  
   
 The rooms were both very beautiful, but we loved the Laguna Villa room. It’s had a wonderful outdoor shower. I have never experienced anything like that before; it was cool, and so unique. In the first picture below is the outdoor showers behind those french doors. The top of the shower is open, so you have a natural daylight shining in. Also there is an in room Jacuzzi, right behind the bed. It’s a perfect room for a romantic getaway.
+
+<center> <div style=”width:40%”><img src="/uploads/AdultOnlyRoom.jpg" alt="Adult Only Room"  style="width: 45%" /><figcaption> Adult Only Room </figcaption> <img src="/uploads/OutdoorShower.jpg" alt="Outdoor Shower"  style="width: 45%" /><figcaption> Outdoor Shower </figcaption></div></center>

@@ -70,3 +70,5 @@ fields:
     description: Pin Description
   config:
     labelField: pin_description
+pages:
+- content/riviera-maya-mexico.md

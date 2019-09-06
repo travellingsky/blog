@@ -122,3 +122,27 @@ When we go to resorts I love the evening atmosphere. One night the resort had st
 <center> <div style=”width:40%”><img src="/uploads/Tulum between the trees.jpg" alt="Tulum Trees"  style="width: 45%" /><figcaption> Tulum </figcaption> <img src="/uploads/Tulum Lizard.jpg" alt="Tulum Lizard"  style="width: 45%" /><figcaption> Tulum </figcaption></div></center>
 
 <center> <div style=”width:40%”><img src="/uploads/Tulum Ocean View.jpg" alt="Tulum Ocean View"  style="width: 45%" /><figcaption> Tulum Ocean View </figcaption> <img src="/uploads/TulumSideView.jpg" alt="TulumSideView"  style="width: 45%" /><figcaption> Tulum Side View</figcaption></div></center>
+
+After spending so much time in a beautiful resort, who would have thought there was more beauty to see. Well I was wrong. A short bus ride away is Tulum. With ancient ruins and so much to learn about the history, it was a lovely experience. Only problem was it was way too hot, so we left a little earlier than I had hoped, but it was still a beautiful place. If you walk to the edge of the ruins, you will see the beautiful view over the ocean between the trees. The views were remarkable, and there were so many people there. Definitely a must see if you’re in that area.  
+  
+Outside of Tulum, are many little vendors selling hand crafted items, as well as performers performing little shows for the shoppers. The performers were kind of scary looking with masks and there makeup but the kids loved it.
+
+## Shopping
+
+{{< load_photoswipe >}}
+
+{{< gallery >}}
+
+{{< figure src="/uploads/Masks.jpg" caption="5th Avenue Shopping">}}
+
+{{< figure src="/uploads/5th Avenue.jpg" caption="5th Avenue Shopping">}}
+
+{{< figure src="/uploads/ChichenItza.jpg" caption="5th Avenue Shopping">}}
+
+{{< /gallery >}}
+
+For all females and some males, shopping is a must, even if you don’t plan to buy anything. I usually don’t buy anything outside of USA (I think everything is usually ridiculously priced), but I still like to go out and check out what a city has to offer.  
+  
+Well Riviera Maya has a beautiful market place on 5th Avenue, with lots of places to eat and a strip fill of clothing to souvenir shops. It was a nice half day excursion out of the resort. We did end up buying some souvenirs though.  
+  
+This is a brief summary of our time in Riviera Maya, it was a wonderful trip. We loved it.

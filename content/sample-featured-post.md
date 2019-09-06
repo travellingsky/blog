@@ -6,11 +6,6 @@ type: post
 image: "/uploads/CambridgeUniversity.jpg"
 categories:
 - Europe
-- London
-- cambridge
-- cotswold
-- Cambridge University
-- Cotswold Villages
 tags: []
 keywords:
 - Beach Vacation

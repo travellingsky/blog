@@ -27,7 +27,7 @@ They have:
 * Kids Club - Night Entertainment for Children, Mini Disco, Mini  
   Theater, Room with Video games (ages 4 - 12 years)
 
-<center> <div style=”width:40%”><img src="/uploads/Grand Sunset Princess View.jpg" alt="Barcelo Bavaro Deluxe – All Inclusive"  style="width: 45%" /> <img src="/uploads/Grand Sunset Princess Lobby.jpg" alt="Barcelo Bavaro Deluxe – All Inclusive"  style="width: 45%" /></div></center>
+<center> <div style=”width:40%”><img src="/uploads/Grand Sunset Princess View.jpg" alt="Barcelo Bavaro Deluxe View"  style="width: 45%" /> <img src="/uploads/Grand Sunset Princess Lobby.jpg" alt="Barcelo Bavaro Deluxe Lobby"  style="width: 45%" /></div></center>
 
 After checking into the hotel, we decided to take a tour. It was beautiful place and so large. The grass was green, the walkways were spotless, well maintained which made the experience so pleasant.
 
@@ -104,3 +104,19 @@ Some resorts ask you to pick them up for lunch, but this one provided lunch to t
 OMG!!! The evenings are beautiful. These pictures are from our camera and we are not professional photographers at all. The resort looks fabulous at night. Even better than the day time. With clean floors, you can literally see the shine. The trees look great against the night sky.  
   
 When we go to resorts I love the evening atmosphere. One night the resort had stalls set up from multiple vendors. Vendors were selling jewelry (beaded and glass jewelry); to paintings and other art artifacts to so many other things. It was really nice and lively. Every evening they also had many different shows in the Princess theater. We saw the entertainment crew perform a Broadway Show, Grease, an International Show, Michael Jackson show and so many other shows that I don’t remember the names of. They were so entertaining and hats off to the entertainment team who work so hard during the day and finish the day off by performing for the people staying at the hotel. They really do, do a fantastic job.
+
+{{< load_photoswipe >}}
+
+{{< gallery >}}
+
+{{< figure src="/uploads/EveningInResort.jpg" caption="Evenings in the Resort">}}
+
+{{< figure src="/uploads/EveningHangout.jpg" caption="Evenings in the Resort">}}
+
+{{< figure src="/uploads/ResortAtNight.jpg" caption="Evenings in the Resort">}}
+
+{{< /gallery >}}
+
+## Tulum
+
+<center> <div style=”width:40%”><img src="/uploads/Tulum between the trees.jpg" alt="Tulum Trees"  style="width: 45%" /><figcaption> Tulum </figcaption> <img src="/uploads/Tulum Lizard.jpg" alt="Tulum Lizard"  style="width: 45%" /><figcaption> Tulum </figcaption></div></center>

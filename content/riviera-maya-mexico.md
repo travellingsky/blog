@@ -120,3 +120,5 @@ When we go to resorts I love the evening atmosphere. One night the resort had st
 ## Tulum
 
 <center> <div style=”width:40%”><img src="/uploads/Tulum between the trees.jpg" alt="Tulum Trees"  style="width: 45%" /><figcaption> Tulum </figcaption> <img src="/uploads/Tulum Lizard.jpg" alt="Tulum Lizard"  style="width: 45%" /><figcaption> Tulum </figcaption></div></center>
+
+<center> <div style=”width:40%”><img src="/uploads/Tulum Ocean View.jpg" alt="Tulum Ocean View"  style="width: 45%" /><figcaption> Tulum Ocean View </figcaption> <img src="/uploads/TulumSideView.jpg" alt="TulumSideView"  style="width: 45%" /><figcaption> Tulum Side View</figcaption></div></center>

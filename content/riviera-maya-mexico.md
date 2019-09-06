@@ -4,7 +4,7 @@ date = "2019-08-01T00:00:00-04:00"
 description = "Vacation with family and kids to Riviera Maya, Tulum & Beyond, Hotel Information and things to do."
 image = "/uploads/Tulum.jpg"
 pins = []
-tags = ["Photos", "Food", "Beach", "Resort", "Mexico"]
+tags = ["Photos", "Food", "Beach"]
 title = "Riviera Maya - Mexico"
 type = "post"
 
@@ -57,10 +57,10 @@ The rooms were both very beautiful, but we loved the Laguna Villa room. It’s h
 
 ## ​Pool Area & Beach
 
-Of course the best part of the resort is the pool. They have a great swim up bar which is perfect in the hot weather. They have little sitting areas within the pool which makes it a nice place to sit and relax with a drink, or even just do some people watching.  
-  
-They have great daytime entertainment at the resort. We had so much fun doing salsa lessons along the pool side, as well as doing pottery painting with the kids. It’s not something we had ever done before so we really enjoyed it. Always up for doing different things.  
-  
+Of course the best part of the resort is the pool. They have a great swim up bar which is perfect in the hot weather. They have little sitting areas within the pool which makes it a nice place to sit and relax with a drink, or even just do some people watching.
+
+They have great daytime entertainment at the resort. We had so much fun doing salsa lessons along the pool side, as well as doing pottery painting with the kids. It’s not something we had ever done before so we really enjoyed it. Always up for doing different things.
+
 By the pool, after a short walk is a beautiful beach. The water is clear, calm and warm, what more can you ask for. The sand is so clean; it’s so peaceful and pleasant. Kids loved making different animals and sand castles in the sand. We all had a fantastic time, and on beach and there were so many people there. It was a great time indeed.
 
 {{< load_photoswipe >}}
@@ -83,8 +83,8 @@ By the pool, after a short walk is a beautiful beach. The water is clear, calm a
 
 ## Kids Club
 
-When a break is needed from the kids, this is the perfect place to be. The kids club at this resort was fantastic. The kids worked on Art projects, to playing on the beach, to playing in the pool with the teachers and playing other outdoor sports. They even had a kids disco in the evening right before the evening shows as well as a theater and video games for older kids. Kids wanted to go there every day, and never wanted to leave.  
-  
+When a break is needed from the kids, this is the perfect place to be. The kids club at this resort was fantastic. The kids worked on Art projects, to playing on the beach, to playing in the pool with the teachers and playing other outdoor sports. They even had a kids disco in the evening right before the evening shows as well as a theater and video games for older kids. Kids wanted to go there every day, and never wanted to leave.
+
 Some resorts ask you to pick them up for lunch, but this one provided lunch to them also, they ordered of the menu. It was great. Although we only left them there a few days during our stay since it was a family trip, but it was a nice break for them and us, and we didn't feel guilty because they loved it.
 
 {{< load_photoswipe >}}
@@ -101,8 +101,8 @@ Some resorts ask you to pick them up for lunch, but this one provided lunch to t
 
 ## ​Evenings & Entertainment at the Resort
 
-OMG!!! The evenings are beautiful. These pictures are from our camera and we are not professional photographers at all. The resort looks fabulous at night. Even better than the day time. With clean floors, you can literally see the shine. The trees look great against the night sky.  
-  
+OMG!!! The evenings are beautiful. These pictures are from our camera and we are not professional photographers at all. The resort looks fabulous at night. Even better than the day time. With clean floors, you can literally see the shine. The trees look great against the night sky.
+
 When we go to resorts I love the evening atmosphere. One night the resort had stalls set up from multiple vendors. Vendors were selling jewelry (beaded and glass jewelry); to paintings and other art artifacts to so many other things. It was really nice and lively. Every evening they also had many different shows in the Princess theater. We saw the entertainment crew perform a Broadway Show, Grease, an International Show, Michael Jackson show and so many other shows that I don’t remember the names of. They were so entertaining and hats off to the entertainment team who work so hard during the day and finish the day off by performing for the people staying at the hotel. They really do, do a fantastic job.
 
 {{< load_photoswipe >}}
@@ -119,12 +119,12 @@ When we go to resorts I love the evening atmosphere. One night the resort had st
 
 ## Tulum
 
-<center> <div style=”width:40%”><img src="/uploads/Tulum between the trees.jpg" alt="Tulum Trees"  style="width: 45%" /><figcaption> Tulum </figcaption> <img src="/uploads/Tulum Lizard.jpg" alt="Tulum Lizard"  style="width: 45%" /><figcaption> Tulum </figcaption></div></center>
+<center> <div style=”width:45%”><img src="/uploads/Tulum between the trees.jpg" alt="Adult "  style="width: 45%" />     <img src="/uploads/Tulum Lizard.jpg" alt="Tulum Lizard"  style="width: 45%" /></div></center>
 
-<center> <div style=”width:40%”><img src="/uploads/Tulum Ocean View.jpg" alt="Tulum Ocean View"  style="width: 45%" /><figcaption> Tulum Ocean View </figcaption> <img src="/uploads/TulumSideView.jpg" alt="TulumSideView"  style="width: 45%" /><figcaption> Tulum Side View</figcaption></div></center>
+<center> <div style=”width:45%”><img src="/uploads/Tulum Ocean View.jpg" alt="Tulum Ocean View"  style="width: 45%" />     <img src="/uploads/TulumSideView.jpg" alt="Tulum Outdoors"  style="width: 45%" /></div></center>
 
-After spending so much time in a beautiful resort, who would have thought there was more beauty to see. Well I was wrong. A short bus ride away is Tulum. With ancient ruins and so much to learn about the history, it was a lovely experience. Only problem was it was way too hot, so we left a little earlier than I had hoped, but it was still a beautiful place. If you walk to the edge of the ruins, you will see the beautiful view over the ocean between the trees. The views were remarkable, and there were so many people there. Definitely a must see if you’re in that area.  
-  
+After spending so much time in a beautiful resort, who would have thought there was more beauty to see. Well I was wrong. A short bus ride away is Tulum. With ancient ruins and so much to learn about the history, it was a lovely experience. Only problem was it was way too hot, so we left a little earlier than I had hoped, but it was still a beautiful place. If you walk to the edge of the ruins, you will see the beautiful view over the ocean between the trees. The views were remarkable, and there were so many people there. Definitely a must see if you’re in that area.
+
 Outside of Tulum, are many little vendors selling hand crafted items, as well as performers performing little shows for the shoppers. The performers were kind of scary looking with masks and there makeup but the kids loved it.
 
 ## Shopping
@@ -141,8 +141,8 @@ Outside of Tulum, are many little vendors selling hand crafted items, as well as
 
 {{< /gallery >}}
 
-For all females and some males, shopping is a must, even if you don’t plan to buy anything. I usually don’t buy anything outside of USA (I think everything is usually ridiculously priced), but I still like to go out and check out what a city has to offer.  
-  
-Well Riviera Maya has a beautiful market place on 5th Avenue, with lots of places to eat and a strip fill of clothing to souvenir shops. It was a nice half day excursion out of the resort. We did end up buying some souvenirs though.  
-  
+For all females and some males, shopping is a must, even if you don’t plan to buy anything. I usually don’t buy anything outside of USA (I think everything is usually ridiculously priced), but I still like to go out and check out what a city has to offer.
+
+Well Riviera Maya has a beautiful market place on 5th Avenue, with lots of places to eat and a strip fill of clothing to souvenir shops. It was a nice half day excursion out of the resort. We did end up buying some souvenirs though.
+
 This is a brief summary of our time in Riviera Maya, it was a wonderful trip. We loved it.

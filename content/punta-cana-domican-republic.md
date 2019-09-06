@@ -1,5 +1,5 @@
 ---
-title: Punta Cana – Dominican Republic
+title: Visit Punta Cana – Dominican Republic
 date: 2019-09-01
 description: Punta Cana – Dominican Republic - with beautiful weather and a great
   excursion to Saona Island

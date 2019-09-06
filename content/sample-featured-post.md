@@ -6,7 +6,8 @@ type: post
 image: "/uploads/CambridgeUniversity.jpg"
 categories:
 - Europe
-tags: []
+tags:
+- London
 keywords:
 - Beach Vacation
 

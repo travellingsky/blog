@@ -5,7 +5,7 @@ description = "Vacation with family and kids to Riviera Maya, Tulum & Beyond, Ho
 image = "/uploads/Tulum.jpg"
 pins = []
 tags = ["Photos", "Food", "Beach", "Mexico"]
-title = "Riviera Maya - Mexico"
+title = "Riviera Maya - Mexico Vacation"
 type = "post"
 
 +++

@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Sky Travel Blogger"
 theme = "parsa-hugo"
 disqusShortname = "travellingsky"
-summaryLength = "10"
+summaryLength = "60"
 paginate=6
 
 [outputs]
@@ -50,7 +50,6 @@ paginate=6
   
 # navigation
 [menu]
-    
   [[menu.main]]
   name = "About"
   URL = "about"

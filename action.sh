@@ -37,7 +37,7 @@ git clone "${TARGET_REPO_URL}" "${BUILD_DIR}"
 echo 'Moving the content over'
 cp -r public/* build/
 
-echo 'Committing the site to git and pushing'
+echo 'Committing the pages site to git and pushing'
 (
     if git config --get user.name; then
         git config --global user.name "${GITHUB_ACTOR}"

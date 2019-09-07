@@ -13,6 +13,10 @@ h3{
 	font-size: 1.5em;
 }
 
+section{
+	padding-bottom: 3em;
+}
+
 
 .about img{
 	margin-left: auto;

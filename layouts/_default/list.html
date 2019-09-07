@@ -18,19 +18,25 @@
     <div class="row">
       <div class="col-lg-8">
         <div class="row masonry-container pt-5">
-          {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-          {{ range $paginator.Pages }}
-          <div class="col-sm-6 mb-5">
-            <article class="text-center">
-              <img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb">
-              <p class="text-uppercase mb-2">{{.Params.Categories}}</p>
-              <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
-              <p>{{.Summary}}</p>
-              <a href="{{.Permalink}}" class="btn btn-transparent">Continue Reading</a>
-            </article>
+
+          <div class="card-deck">
+            {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+            {{ range $paginator.Pages }}
+            <div class="card">
+              <div class="card-header bg-transparent"><h5><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h5></div>
+              <img class="card-img-top" src="{{.Params.Image | absURL }}" alt="{{.Title}}">
+              <div class="card-body">
+                <p class="card-text">{{.Summary}}</p>
+                <a href="{{.Permalink}}" class="btn btn-transparent">Continue Reading →</a>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">{{.Params.Categories}}</small>
+              </div>
+            </div>
+            {{ end }}
           </div>
-          {{ end }}
         </div>
+
         <div class="row">
           {{"<!-- pagination -->" | safeHTML }}
           <div class="col-12">

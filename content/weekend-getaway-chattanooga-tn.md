@@ -17,27 +17,31 @@ We decided we were going to visit <a href="[https://www.lookoutmountain.com/](ht
 
 We arrived in Chattanooga at around 11am and headed straight to <a href="[https://www.rubyfalls.com/](https://www.rubyfalls.com/ "https://www.rubyfalls.com/")"rel="nofollow">Ruby Falls</a>. Having visited Ruby Falls many times more than 7-10 years ago, and never having issues with tickets, we hadn’t bought tickets ahead of time. Our mistake ☹
 
-{{< load_photoswipe >}} {{< gallery >}} {{< figure src="/uploads/CafeOnTheCorner Sign.jpg" caption="test">}} {{< figure src="/uploads/CafeOnTheCorner.jpg" caption="sample">}} {{< /gallery >}}
+<center><img src="/uploads/LookoutMountain.jpg" alt="Lookout Mountain"  style="width: 50%" /><figcaption> Lookout Mountain</figcaption></center>
 
-ADVICE: Buy tickets online ahead of time especially if you are planning to visit during a holiday weekend.
+**ADVICE:** Buy tickets online ahead of time especially if you are planning to visit during a holiday weekend.
 
 We were not able to get tickets until 6.45pm. A bit of a long wait but for us that was ok, since we had other things we could do in between. After buying the package deal for Ruby Falls and Rock City, we started to head to Rock City.
 
-On the way we came across this beautiful little cafe called **Café on the Corner**. It was the perfect spot to stop for brunch. The café is located on a Y intersection, with very tidy and clean indoor seating with lovely outdoor patio seating as well. We sat indoor due to the heat, but if it wasn’t so hot, outdoors would have been wonderful. A lot of people were sitting outdoors under the right red umbrellas.
+On the way we came across this beautiful little cafe called <a href="[http://www.cafeonthecornerlookoutmountain.com/menu](http://www.cafeonthecornerlookoutmountain.com/menu "http://www.cafeonthecornerlookoutmountain.com/menu")"rel="nofollow">Café on the Corner</a>. It was the perfect spot to stop for brunch. The cafe is located on a Y intersection, with very tidy and clean indoor seating with lovely outdoor patio seating as well. We sat indoor due to the heat, but if it wasn’t so hot, outdoors would have been wonderful. A lot of people were sitting outdoors under the right red umbrellas.
 
-<picture of cafe>
+{{< load_photoswipe >}} {{< gallery >}} {{< figure src="/uploads/CafeOnTheCorner Sign.jpg" caption="CafeOnTheCorner">}} {{< figure src="/uploads/CafeOnTheCorner.jpg" caption="CafeOnTheCorner">}} {{< /gallery >}}
 
-The little Café was very reasonable priced with many options for food to suit everyone’s taste buds. It was perfect. Chicken & Waffles was great for the kids, my 12-year-old loved it. The Poached Egg and Fried Green Tomato on Biscuit was fantastic. This place was a great choice for lunch. They also have $2 mimosa’s on Sunday which was a bonus on top of the great food. This is a place I would revisit next time we visit this area for sure.
+The little Cafe was very reasonable priced with many options for food to suit everyone’s taste buds. It was perfect. Chicken & Waffles was great for the kids, my 12-year-old loved it. The Poached Egg and Fried Green Tomato on Biscuit was fantastic. This place was a great choice for lunch. They also have $2 mimosa’s on Sunday which was a bonus on top of the great food. This is a place I would revisit next time we visit this area for sure.
 
-<pictures of food>
+<center><img src="/uploads/CafeOnTheCornerFood.jpg" alt="CafeOnTheCorner"  style="width: 50%" /><figcaption> Cafe On The Corner </figcaption></center>
 
-<h2> Rock City </h2>
+## Rock City 
 
-1400 Patten Rd, Lookout Mountain, GA 30750
+1400 Patten Rd
 
-We finally made it to Rock City. Rock City is one of my favorite spots in Chattanooga located on top of Lookout Mountain. I love the fact that each corner of the park is different, they make it fun for everyone with funny little names for the different sections that make it interesting to explore. Places like the Grand Corridor, Needle’s Eye, Gnome Valley and so many more make it fun and interesting. If you’re Gnome fan, then keep your eyes wide open, there are many of them hiding amongst the different bushes and spots.
+Lookout Mountain
 
-<pathways pic>
+GA 30750
+
+We finally made it to <a href="[https://www.seerockcity.com](https://www.seerockcity.com "https://www.seerockcity.com")"rel="nofollow">Rock City</a>. Rock City is one of my favorite spots in Chattanooga located on top of Lookout Mountain. I love the fact that each corner of the park is different, they make it fun for everyone with funny little names for the different sections that make it interesting to explore. Places like the Grand Corridor, Needle’s Eye, Gnome Valley and so many more make it fun and interesting. If you’re Gnome fan, then keep your eyes wide open, there are many of them hiding amongst the different bushes and spots.
+
+{{< load_photoswipe >}} {{< gallery >}} {{< figure src="/uploads/RockCityPathway.jpg" caption="Rock City">}} {{< figure src="/uploads/fatmanqueeze.jpg" caption="Rock City">}} {{< figure src="/uploads/RockCityPath.jpg" caption="Rock City">}} {{< /gallery >}}
 
 The park was a little busy since it was a holiday weekend and the heat was scorching, but nevertheless it was a fun afternoon in the sun. Kids loved the swing-a-long bridge and jumping on it making it shake just to scare me. They had fun with it. The pathways are so cute, it kind of makes you feel like your walking thru a fairytale. Its unique and looks so natural since everything is made from rocks.
 

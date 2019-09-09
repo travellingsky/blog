@@ -1,20 +1,23 @@
 ---
-title: Things to Do in Cambridge & Cotswold
+title: 20 Best Things to do in Cambridge, England
 date: 2019-09-02T08:46:10.000+00:00
-description: Travel Blog with Things to do, Travel Ideas, Recommendations and Itineraries
+description: When traveling to London, England, consider taking a day trip to explore
+  the English countryside.  Cambridge is only two hours away and offers beautiful
+  attractions to visit that differ from the London attractions.
 type: post
 image: "/uploads/CambridgeUniversity.jpg"
 categories:
 - Europe
 tags:
 - London
+- Day Trip
 keywords:
 - Beach Vacation
 
 ---
 Not knowing anything besides Cambridge being a College town, we were in total love with the place. Cambridge is such a beautiful historic town, with a Royal feel to it. Its almost 2 hours away by car from Heathrow Airport, it’s very compact and cozy with many little shops and boutiques. We strolled through the streets and visited so many little stores. My cousin and her family live there, which is why we made the trip to spend time with them, but the trips was fantastic. So glad we visited
 
-## Things to do in the town of Cambridge
+## Things to do in Cambridge
 
 {{< load_photoswipe >}}
 
@@ -58,7 +61,7 @@ The Bridge is actually made from straight timbers, even though the shape of the 
 
 <center><img src="/uploads/Mathematical Bridge.jpg" alt="Mathematical Bridge"  style="width: 50%" /><figcaption> Mathematical Bridge</figcaption></center>
 
-## Take a University Tour
+## Take a Cambridge University Tour
 
 You can take a University Tour, or do a Self Guided tour visiting as many or little of the University Institutions or Colleges that you like. Each college is unique in its own way, so a pleasant afternoon to check out what each college has to offer.
 

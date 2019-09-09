@@ -80,7 +80,7 @@ Of course, the highlight of the Cave is Ruby Falls. As you get closer to the end
 
 ## White Water Rafting – Ocoee River
 
-The following day before heading back home, we had bought a Groupon for White Water Rafting [https://www.groupon.com/deals/high-country-adventures-16-24](https://www.groupon.com/deals/high-country-adventures-16-24 "https://www.groupon.com/deals/high-country-adventures-16-24")
+The following day before heading back home, we had bought a <a href="[https://www.groupon.com/deals/high-country-adventures-16-24](https://www.groupon.com/deals/high-country-adventures-16-24 "https://www.groupon.com/deals/high-country-adventures-16-24")" rel="nofollow">Groupon</a> for White Water Rafting 
 
 {{< load_photoswipe >}}
 {{< gallery >}}

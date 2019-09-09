@@ -1,5 +1,5 @@
 ---
-title: 20 Best Things to do in Cambridge, England
+title: 20 Best Things To Do in Cambridge, England
 date: 2019-09-02T08:46:10.000+00:00
 description: When traveling to London, England, consider taking a day trip to explore
   the English countryside.  Cambridge is only two hours away and offers beautiful

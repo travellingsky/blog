@@ -59,7 +59,7 @@ After exploring the park more we made it to the end. The kids loved this part, 1
 
 Chattanooga, TN 37409
 
-<center><img src="/uploads/RubyFalls.jpg" alt="Ruby Falls"  style="width: 50%/><figcaption>Ruby Falls </figcaption></center>
+<center><img src="/uploads/RubyFalls.jpg" alt="RubyFalls"  style="width: 50%" /><figcaption>RubyFalls </figcaption></center>
 
   
 After a wonderful afternoon at <a href="[https://www.seerockcity.com](https://www.seerockcity.com "https://www.seerockcity.com")"rel="nofollow">Rock City</a>, we headed back to <a href="[https://www.rubyfalls.com/](https://www.rubyfalls.com/ "https://www.rubyfalls.com/")"rel="nofollow">Ruby Falls</a> (after we freshened up at our hotel).

@@ -5,7 +5,7 @@ description = "Read our expert resort review of the Grand Sunset Princess in Riv
 image = "/uploads/Tulum.jpg"
 pins = []
 tags = ["Beach", "Mexico", "Resorts"]
-title = "Picking the Grand Sunset Princess Resort in Riviera Maya Cancun"
+title = "The Grand Sunset Princess Resort in Riviera Maya Cancun"
 type = "post"
 
 +++

@@ -31,13 +31,11 @@ The little Cafe was very reasonable priced with many options for food to suit ev
 
 <center><img src="/uploads/CafeOnTheCornerFood.jpg" alt="CafeOnTheCorner"  style="width: 50%" /><figcaption> Cafe On The Corner </figcaption></center>
 
-## Rock City 
+## Rock City
 
 1400 Patten Rd
 
-Lookout Mountain
-
-GA 30750
+Lookout Mountain, GA 30750
 
 We finally made it to <a href="[https://www.seerockcity.com](https://www.seerockcity.com "https://www.seerockcity.com")"rel="nofollow">Rock City</a>. Rock City is one of my favorite spots in Chattanooga located on top of Lookout Mountain. I love the fact that each corner of the park is different, they make it fun for everyone with funny little names for the different sections that make it interesting to explore. Places like the Grand Corridor, Needle’s Eye, Gnome Valley and so many more make it fun and interesting. If you’re Gnome fan, then keep your eyes wide open, there are many of them hiding amongst the different bushes and spots.
 
@@ -47,18 +45,24 @@ The park was a little busy since it was a holiday weekend and the heat was scorc
 
 {{< load_photoswipe >}} {{< gallery >}} {{< figure src="/uploads/HighFalls.jpg" caption="High Falls">}} {{< figure src="/uploads/7states.jpg" caption="7 States">}} {{< figure src="/uploads/Eagle.jpg" caption="Eagle">}} {{< /gallery >}}
 
+<center><img src="/uploads/SwingBridge.jpg" alt="Swinging Bridge"  style="width: 50%" /><figcaption>Swinging Bridge </figcaption></center>
+
 The main attraction at Rock City is the Lovers Leap. The large open area high above on top of the mountains is the perfect spot to view 7 states (Tennessee, Kentucky, Virginia, South Carolina, North Carolina, Georgia, and Alabama.) This is a great hang out spot, perfect places to wait for others in your group to catch up and a great place to a bite to eat or grab an ice cream, while you enjoy the beauty of the surrounding area.
 
 The Observation Point is the perfect spot to see the High Falls waterfall. Great spot for pictures and viewing point for the mountains surrounding the wonderful city. I love looking at waterfalls, they just seem so peaceful, and the sound of the water running is just so surreal.
 
 After exploring the park more we made it to the end. The kids loved this part, 12 & 15-year-old boys, but they loved the fairytale section, it was kind of cute, watching them singing the nursery rhymes. This section is a cavern and within the openings little stories themes have been created. Everything is lighted up so well with neon colors, and the creativity of this section is so amazing. It’s worth checking out. After going thru the cavern, you enter a large room, where an entire city is created based of different nursery rhymes and riddles. I can’t even put into words how wonderful this is, even for grownups and older kids it takes you back in the day.
 
-## Ruby Falls 
+## Ruby Falls
 
-[1720 South Scenic Hwy Chattanooga, TN 37409  
-](https://www.rubyfalls.com/things-to-do/cave-tours/ruby-falls-history/)[423.821.2544](tel:423.821.2544)
+1720 South Scenic Hwy 
 
-After a wonderful afternoon at **Rock City**, we headed back to **Ruby Falls** (after we freshened up at our hotel).
+Chattanooga, TN 37409
+
+<center><img src="/uploads/RubyFalls.jpg" alt="Ruby Falls"  style="width: 50%" /><figcaption>Ruby Falls </figcaption></center>
+
+  
+After a wonderful afternoon at <a href="[https://www.seerockcity.com](https://www.seerockcity.com "https://www.seerockcity.com")"rel="nofollow">Rock City</a>, we headed back to <a href="[https://www.rubyfalls.com/](https://www.rubyfalls.com/ "https://www.rubyfalls.com/")"rel="nofollow">Ruby Falls</a> (after we freshened up at our hotel).
 
 I wasn’t sure if this is something the kids would like, but they loved it. They liked it more than Rock City even, but I think the heat had a lot to do with that.
 

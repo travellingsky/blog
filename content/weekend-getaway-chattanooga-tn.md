@@ -45,7 +45,7 @@ We finally made it to <a href="[https://www.seerockcity.com](https://www.seerock
 
 The park was a little busy since it was a holiday weekend and the heat was scorching, but nevertheless it was a fun afternoon in the sun. Kids loved the swing-a-long bridge and jumping on it making it shake just to scare me. They had fun with it. The pathways are so cute, it kind of makes you feel like your walking thru a fairytale. Its unique and looks so natural since everything is made from rocks.
 
-<7 states photo> < highfalls>
+{{< load_photoswipe >}} {{< gallery >}} {{< figure src="/uploads/HighFalls.jpg" caption="High Falls">}} {{< figure src="/uploads/7states.jpg" caption="7 States">}} {{< figure src="/uploads/Eagle.jpg" caption="Eagle">}} {{< /gallery >}}
 
 The main attraction at Rock City is the Lovers Leap. The large open area high above on top of the mountains is the perfect spot to view 7 states (Tennessee, Kentucky, Virginia, South Carolina, North Carolina, Georgia, and Alabama.) This is a great hang out spot, perfect places to wait for others in your group to catch up and a great place to a bite to eat or grab an ice cream, while you enjoy the beauty of the surrounding area.
 
@@ -53,7 +53,7 @@ The Observation Point is the perfect spot to see the High Falls waterfall. Great
 
 After exploring the park more we made it to the end. The kids loved this part, 12 & 15-year-old boys, but they loved the fairytale section, it was kind of cute, watching them singing the nursery rhymes. This section is a cavern and within the openings little stories themes have been created. Everything is lighted up so well with neon colors, and the creativity of this section is so amazing. It’s worth checking out. After going thru the cavern, you enter a large room, where an entire city is created based of different nursery rhymes and riddles. I can’t even put into words how wonderful this is, even for grownups and older kids it takes you back in the day.
 
-<h2> Ruby Falls </h2>
+## Ruby Falls 
 
 [1720 South Scenic Hwy Chattanooga, TN 37409  
 ](https://www.rubyfalls.com/things-to-do/cave-tours/ruby-falls-history/)[423.821.2544](tel:423.821.2544)

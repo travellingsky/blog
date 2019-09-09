@@ -77,4 +77,5 @@ fields:
   config:
     labelField: pin_description
 pages:
+- content/weekend-getaway-chattanooga-tn.md
 - content/riviera-maya-mexico.md

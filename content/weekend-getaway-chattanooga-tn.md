@@ -3,7 +3,7 @@ categories = []
 date = "2019-09-09T00:00:00-04:00"
 description = "Weekend Getaway to Lookout Mountain visiting Rock City, Ruby Falls and the Ocoee River doing some White Water Rafting"
 draft = true
-image = ""
+image = "/uploads/Ruby Falls.jpg"
 pins = []
 slug = "chattanoogagetaway"
 tags = ["Family", "Chattanooga", "Lookout Mountain", "Ruby Falls", "Rock City", "Ocoee River", "White Water Rafting"]
@@ -11,15 +11,13 @@ title = "Weekend Getaway – Chattanooga, TN"
 type = "post"
 
 +++
-Weekend Getaway – Chattanooga, TN
-
 Sometimes it’s the last-minute trips that are so much fun. Fortunately living in Atlanta, Georgia is the perfect distance away from so many nearby states. A holiday weekend approached and deciding what we should do was a small dilemma because we only had 1 night, we could spend away due to a family event that we had committed too.
 
-We decided we were going to visit Lookout Mountain in **Chattanooga, Tennessee**. A beautiful little city only about 2 hours away from downtown Atlanta was the perfect destination. So many great activities and things to do and the perfect little getaway for the kids after a busy month at school.
+We decided we were going to visit <a href="[https://www.lookoutmountain.com/](https://www.lookoutmountain.com/ "https://www.lookoutmountain.com/")" rel="nofollow">Lookout Mountain</a> in <a href="[https://www.chattanoogafun.com/](https://www.chattanoogafun.com/ "https://www.chattanoogafun.com/")"rel="nofollow">Chattanooga, Tennessee.</a> A beautiful little city only about 2 hours away from downtown Atlanta was the perfect destination. So many great activities and things to do and the perfect little getaway for the kids after a busy month at school.
 
-We arrived in Chattanooga at around 11am and headed straight to **Ruby Falls**. Having visited Ruby Falls many times more than 7-10 years ago, and never having issues with tickets, we hadn’t bought tickets ahead of time. Our mistake ☹
+We arrived in Chattanooga at around 11am and headed straight to <a href="[https://www.rubyfalls.com/](https://www.rubyfalls.com/ "https://www.rubyfalls.com/")"rel="nofollow">Ruby Falls</a>. Having visited Ruby Falls many times more than 7-10 years ago, and never having issues with tickets, we hadn’t bought tickets ahead of time. Our mistake ☹
 
-<sign photo>
+{{< load_photoswipe >}} {{< gallery >}} {{< figure src="/uploads/CafeOnTheCorner Sign.jpg" caption="test">}} {{< figure src="/uploads/CafeOnTheCorner.jpg" caption="sample">}} {{< /gallery >}}
 
 ADVICE: Buy tickets online ahead of time especially if you are planning to visit during a holiday weekend.
 
@@ -54,7 +52,7 @@ After exploring the park more we made it to the end. The kids loved this part, 1
 <h2> Ruby Falls </h2>
 
 [1720 South Scenic Hwy Chattanooga, TN 37409  
- ](https://www.rubyfalls.com/things-to-do/cave-tours/ruby-falls-history/)[423.821.2544](tel:423.821.2544)
+](https://www.rubyfalls.com/things-to-do/cave-tours/ruby-falls-history/)[423.821.2544](tel:423.821.2544)
 
 After a wonderful afternoon at **Rock City**, we headed back to **Ruby Falls** (after we freshened up at our hotel).
 

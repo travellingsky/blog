@@ -70,9 +70,11 @@ Ruby Falls is great, since we had booked our time slot, we were taken in right o
 
 Kids learned all about stalagmites and stalactites and managed to see many of them along the way.
 
-<onyx column pic>
+<center><img src="/uploads/Onyx.jpg" alt="Onyx"  style="width: 50%" /><figcaption>Ruby Falls Onyx</figcaption></center>
 
 The cave is made interesting for the young and the old, as there are labels everywhere with to give you a representation of different things. Very creatively thought of, you see things like Crystal Chandeliers, a Donkey, Leaning Tower, Dragons Foot, Beehives and so much more. The whole theme of this cave is very well thought out, but especially in the holidays its best to book in advance, since the tour guide told us there are approximately 3000+ people who travel through the cave daily.
+
+{{< load_photoswipe >}} {{< gallery >}} {{< figure src="/uploads/LeaningTower.jpg" caption="Ruby Falls">}} {{< figure src="/uploads/Chandeliar.jpg" caption="Ruby Falls">}} {{< figure src="/uploads/Beehive.jpg" caption="Ruby Falls">}} {{< /gallery >}}
 
 Of course, the highlight of the Cave is Ruby Falls. As you get closer to the end of the cave, the lights are switched off, and you enter this open area, where all you hear is the water. The lights get switched on and a breathtaking scene is in front of you. The beautiful waterfall right before your eyes, is extraordinarily perfect. You really don’t want to leave this area, but you must move on. Explorers are unsure where this water comes from, they have tried to follow the upstream flow but have been unsuccessful. Check out the history of Ruby Falls <a href="[https://www.rubyfalls.com/things-to-do/cave-tours/ruby-falls-history/](https://www.rubyfalls.com/things-to-do/cave-tours/ruby-falls-history/ "https://www.rubyfalls.com/things-to-do/cave-tours/ruby-falls-history/")" rel="nofollow">Here</a>
 

@@ -8,6 +8,12 @@ fields:
   hidden: false
   default: ''
   description: Blog Title (Use KeyWords)
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
+  description: URL slug (should be similar to the title but URL friendly)
 - name: description
   label: Description
   type: textarea

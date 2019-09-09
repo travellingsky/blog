@@ -5,6 +5,7 @@ theme = "parsa-hugo"
 disqusShortname = "travellingsky"
 summaryLength = "60"
 paginate=6
+enableRobotsTXT = true
 
 [outputs]
   home = ["HTML", "AMP", "RSS", "JSON"]

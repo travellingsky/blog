@@ -6,6 +6,7 @@ image = "/uploads/Tulum.jpg"
 pins = []
 tags = ["Beach", "Mexico", "Resorts"]
 title = "The Grand Sunset Princess Resort in Riviera Maya Cancun"
+slug = "the-grand-sunset-princess-resort-in-riviera-maya-cancun"
 type = "post"
 
 +++

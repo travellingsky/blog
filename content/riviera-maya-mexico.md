@@ -1,11 +1,11 @@
 +++
 categories = []
 date = "2019-08-01T00:00:00-04:00"
-description = "Vacation with family and kids to Riviera Maya, Tulum & Beyond, Hotel Information and things to do."
+description = "Read our expert resort review of the Grand Sunset Princess in Riviera Maya, and our best tips for enjoying the resort, and visiting Tulum & Beyond."
 image = "/uploads/Tulum.jpg"
 pins = []
 tags = ["Photos", "Food", "Beach", "Mexico"]
-title = "Riviera Maya - Mexico Vacation"
+title = "Grand Sunset Princess Cancun Riviera Maya"
 type = "post"
 
 +++
@@ -13,8 +13,9 @@ Picking the right resort is essential when vacationing, and for us the <a href="
 
 Right from the moment you walk into the foyer until the time you leave you feel like royalty. First we were greeted with a non alcoholic drink, which was nice and refreshing in the heat, before we even checked in for our room. The initial impression was "Wow".
 
-Important Facts about the Resort:  
-They have:
+## Important Facts about the Grand Sunset Princess Resort
+
+The Grand Sunset Princess resort in Riviera Maya consists of:
 
 * 12 swimming pools
 * 2 Buffet Restaurants
@@ -27,7 +28,11 @@ They have:
 * Kids Club - Night Entertainment for Children, Mini Disco, Mini  
   Theater, Room with Video games (ages 4 - 12 years)
 
-<center> <div style=”width:40%”><img src="/uploads/Grand Sunset Princess View.jpg" alt="Barcelo Bavaro Deluxe View"  style="width: 45%" /> <img src="/uploads/Grand Sunset Princess Lobby.jpg" alt="Barcelo Bavaro Deluxe Lobby"  style="width: 45%" /></div></center>
+{{< load_photoswipe >}}
+{{< gallery >}}
+{{< figure src="/uploads/Grand Sunset Princess View.jpg" caption="Barcelo Bavaro Deluxe View">}}
+{{< figure src="/uploads/Grand Sunset Princess Lobby.jpg" caption="Barcelo Bavaro Deluxe Lobby">}}
+{{< /gallery >}}
 
 After checking into the hotel, we decided to take a tour. It was beautiful place and so large. The grass was green, the walkways were spotless, well maintained which made the experience so pleasant.
 
@@ -47,7 +52,7 @@ There are so many restaurants to choose from and the food is great. Great variet
 
 {{< /gallery >}}
 
-## ​The Room - Laguna Villa
+## ​Laguna Villa at The Grand Sunset Princess Resort
 
 This trip happened to be during our 10 year anniversary. So my husband and I stayed in the Laguna Villa (which is in an adults only section of the resort), the kids stayed with my in-laws in a regular room at the resort.
 
@@ -127,7 +132,7 @@ After spending so much time in a beautiful resort, who would have thought there 
 
 Outside of Tulum, are many little vendors selling hand crafted items, as well as performers performing little shows for the shoppers. The performers were kind of scary looking with masks and there makeup but the kids loved it.
 
-## Shopping
+## Shopping in Riviera Maya
 
 {{< load_photoswipe >}}
 

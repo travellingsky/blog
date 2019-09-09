@@ -14,7 +14,7 @@ keywords:
 ---
 Not knowing anything besides Cambridge being a College town, we were in total love with the place. Cambridge is such a beautiful historic town, with a Royal feel to it. Its almost 2 hours away by car from Heathrow Airport, it’s very compact and cozy with many little shops and boutiques. We strolled through the streets and visited so many little stores. My cousin and her family live there, which is why we made the trip to spend time with them, but the trips was fantastic. So glad we visited
 
-# THE TOWN OF CAMBRIDGE UNIVERSITY - THINGS TO DO
+## Things to do in the town of Cambridge
 
 {{< load_photoswipe >}}
 
@@ -40,17 +40,17 @@ We spent a lot of time around The Backs area, it was so peaceful, and the weathe
 
 ​Also, I think it must have been graduation time. There were a lot of gatherings going on inside the buildings, we even got to peak into one of the dining halls. They were setting up for an event. Not sure if we were allowed in, so we quickly strolled thru. My son managed to grab a picture though.
 
-## PUNTING ALONG THE BACKS
+## Punting along the Backs
 
 The backs is known as Little Venice. Punting is a great way to see the River Cams which separates Cambridge into 2 sections. With a glass of bubbly in your hands its a great way to view the inside of many of the Colleges right from the River and see the many exotic bridges the city has to offer.​
 
 <center><img src="/uploads/TheBacks.jpg" alt="Punting along The Backs"  style="width: 50%" /><figcaption> Punting along the Backs</figcaption></center>
 
-## VISIT THE BRIDGE OF SIGHS
+## Visit the Bridge of Sighs
 
 This is apparently Queen Victoria’s favorite spot in Cambridge. It links the new court and the original college building of St John’s College. Its used daily by people or live or work around there. Its very similar to its name sack in Venice, Italy.
 
-## VISIT THE MATHEMATICAL BRIDGE
+## Visit the Mathematical Bridge
 
 This is a very interesting looking bridge that connects 2 parts of Queens College together. Its official name is the “Wooden Bridge”, as its a wooden footbridge, but its derived the name of a Mathematical Bridge due to interesting situations.  
 ​  
@@ -58,7 +58,7 @@ The Bridge is actually made from straight timbers, even though the shape of the 
 
 <center><img src="/uploads/Mathematical Bridge.jpg" alt="Mathematical Bridge"  style="width: 50%" /><figcaption> Mathematical Bridge</figcaption></center>
 
-## TAKE A UNIVERSITY TOUR
+## Take a University Tour
 
 You can take a University Tour, or do a Self Guided tour visiting as many or little of the University Institutions or Colleges that you like. Each college is unique in its own way, so a pleasant afternoon to check out what each college has to offer.
 
@@ -98,13 +98,13 @@ Countess of Pembroke founded this college in 1347 but many improvements of the c
 
 Kings College is the most read about in Cambridge. Founded in 1441 by Henry VI. The Kings College Chapel is a great work of art. Its a must see when visiting Cambridge.
 
-## FIND THE CORPUS CLOCK
+## Find the Corpus Clock
 
 Lets see if you can find the Corpus Clock within the city of Cambridge. Its a beautiful invention, its mechanically controlled, no programming involved at all. You wont spend long looking at the clock but definitely nice to check out.
 
 <center><img src="/uploads/Corpus Clock.jpg" alt="Corpus Clock"  style="width: 50%" /><figcaption> Corpus Clock</figcaption></center>
 
-## FITZWILLIAM MUSEUM
+## Fitzwilliam Museum
 
 This is a free museum if you like to visit museums, this one is fill of antiques, and art.  
 There are 5 areas in the museum,
@@ -115,21 +115,21 @@ There are 5 areas in the museum,
 * Applied Arts
 * Antiquities
 
-## ST MARY’S CHURCH
+## St Mary's Church
 
 This is one of the most beautiful viewpoints of Cambridge. You can climb to the top of the tower of the church for a stunning view of Cambridge.  
 This church is known better as the Round Church, and its only 1 of 4 Norman Round Churches left in England. It was built in 1131 with more modifications done to it in the 15th century.
 
-## CAMBRIDGE UNIVERSITY BOTANIC GARDEN
+## Cambridge University Botanic Gardens
 
 Acres of area, for people who gardening its a must see. Over 8,000 types of plants from around the world, and many glasshouses and trails to visit. You can take a guided tour or a self guided tour. Its free to visit on Sundays. Lovely Café and Botanic Garden Shop to visit inside too.
 
-## MUSEUM OF ARCHAEOLOGY AND ANTHROPOLOGY
+## Museum of Archaeology and Anthropology
 
 Great museum for those who love Archaeology and Anthropology. So much human history displayed in this museum. It this is your cup of tea, then definitely check it out. Some amazing artifacts from explorer Captain James Cook and his 3 expeditions are also on display here as well as unearthed diggings from around Cambridge and East Anglia.  
 If you fit Cambridge into your schedule its definitely worth a visit. Visit the inside of the Colleges (Trinity College, St Johns College, Corpus Christi College…), go Punting in the Backs, check out the coolest Mathematical Bridge and visit the Bridge of Sighs, among many other things to do in Cambridge.
 
-# VISIT NEARLY COTSWOLD VILLAGES
+## Visit the nearby Cotswold Villages
 
 Cotswold for us was a day trip. We had a car at our disposal which was great since there were a lot of us. We packed a picnic of sandwiches, chips and drinks and we were off. Cotswold is an not too far from Cambridge fill of scenic rolling hills. Its actually quite amazing the way the hills lay. Cotswold is made up of many tiny villages. We visited a couple of them. Both very different from each other, which gave them there own sense of uniqueness. This was a fun trip, and the kids had a place.
 
@@ -146,7 +146,6 @@ First we visited <a href="[https://www.bourtoninfo.com/](https://www.bourtoninfo
 * Dragon Maze
 * Great walking Trails and Paths along the river
 
-  
 After strolling along the river and kids playing in the clean stream of water, we found the perfect spot to enjoy our lunch and enjoy the lively atmosphere of our surroundings. Definitely a lovely spot for relaxation and just a wonderful day out. There are some great ice cream shops right along the river too, so don’t forget to grab a cone throughout the day.
 
 {{< load_photoswipe >}}

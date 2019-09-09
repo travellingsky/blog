@@ -14,11 +14,11 @@ tags:
 - Beach
 
 ---
-Punta Cana in Dominican Republic who would have guessed it would be so scenic. This place is filled with Palm trees and Coconut trees. This was a family trip with our family parents and all for as a birthday celebration for my dad who turned 70. This was a fun vacation for all there, children, us and both mine and my husband’s parents. Everyone had a great time with plenty to do for everything. Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at <a href="[https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331](https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331 "https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331")" rel="nofollow">Barcelo Bavaro Palace Deluxe </a>, a great resort for families.
+Who would have guessed that Punta Cana in the Dominican Republic would be so scenic. This gorgeous island is filled with Palm trees and Coconut trees. This was a family trip with our family parents and all for as a birthday celebration for my dad who turned 70. This was a fun vacation for all there, children, us and both mine and my husband’s parents. Everyone had a great time with plenty to do for everything. Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at <a href="[https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331](https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331 "https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331")" rel="nofollow">Barcelo Bavaro Palace Deluxe </a>, a great resort for families.
 
 Punta Cana is a place for people who love the outdoor activities. Great activities available for speed boating, catamaran sailing, , deep sea sport fishing, discovery cruises, private yachts, swimming with dolphins, snorkeling cruises, swimming with sharks and stingrays, whale watching, reef exploring and visiting small islands like Saona and Catalina.
 
-<h2><a href="[https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business_utm_content=h331_](https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331 "https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331")_" rel="nofollow">Barcelo Bavaro Palace Deluxe_ – All Inclusive </a></h2>
+<h2><a href="[https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business_utm_content=h331_](https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331 "https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331")_"_ rel="nofollow">Barcelo Bavaro Palace Deluxe – All Inclusive</a></h2>
 
 <center><img src="/uploads/Barcelo Bavaro Palace Deluxe.jpg" alt="Barcelo Bavaro Deluxe – All Inclusive"  style="width: 50%" /><figcaption> Barcelo Bavaro Palace Deluxe – All Inclusive </figcaption></center>
 
@@ -30,21 +30,21 @@ The best part of the resort was the swim up to Bars. Kids loved it because they 
 
 Also close to the beach is a little gift shop. Looks like a hut, and very different looking. Great place to buy swim outfits, and beach gear.
 
-{{< load_photoswipe >}} 
+{{< load_photoswipe >}}
 
-{{< gallery >}} 
+{{< gallery >}}
 
-{{< figure src="/uploads/Barcelo Beach.jpg" caption="Barcelo Beach">}} 
+{{< figure src="/uploads/Barcelo Beach.jpg" caption="Barcelo Beach">}}
 
-{{< figure src="/uploads/Barcelo Shopping.jpg" caption="Barcelo Shopping" >}} 
+{{< figure src="/uploads/Barcelo Shopping.jpg" caption="Barcelo Shopping" >}}
 
-{{< figure src="/uploads/Barcelo Resort1.jpg" caption="Barcelo Resort 1" >}} 
+{{< figure src="/uploads/Barcelo Resort1.jpg" caption="Barcelo Resort 1" >}}
 
-{{< figure src="/uploads/Barcelo Games.jpg" caption="Barcelo Games">}} 
+{{< figure src="/uploads/Barcelo Games.jpg" caption="Barcelo Games">}}
 
-{{< figure src="/uploads/Barcelo Resort2.jpg" caption="Barcelo Resort 2" >}} 
+{{< figure src="/uploads/Barcelo Resort2.jpg" caption="Barcelo Resort 2" >}}
 
-{{< figure src="/uploads/Barcelo Gazebo.jpg" caption="Barcelo Gazebo" >}} 
+{{< figure src="/uploads/Barcelo Gazebo.jpg" caption="Barcelo Gazebo" >}}
 
 {{< /gallery >}}
 
@@ -52,29 +52,29 @@ Some of our favorite restaurants the Barcelo Bavaro were Kyoto (Japanese Restaur
 
 There is a special kids club at the resort for kids to spend the day especially if you want a break or some alone time. They have outdoor activities and arcades as well as movie time for kids. My kids loved spending the time there. Also there is a water park area with a pirate ship close to the kids club. This is an additional cost (not included in the all inclusive package), if was a little secluded if you ask me, and not many people were there, but was a nice hang out place for a few hours.
 
-{{< load_photoswipe >}} 
+{{< load_photoswipe >}}
 
-{{< gallery >}} 
+{{< gallery >}}
 
-{{< figure src="/uploads/BarceloKidsPool1.jpg" caption="Barcelo Kids Pool 1">}} 
+{{< figure src="/uploads/BarceloKidsPool1.jpg" caption="Barcelo Kids Pool 1">}}
 
-{{< figure src="/uploads/PirateShip.jpg" caption="Barcelo Pirate Ship" >}} 
+{{< figure src="/uploads/PirateShip.jpg" caption="Barcelo Pirate Ship" >}}
 
-{{< figure src="/uploads/BarceloKidsPool2.jpg" caption="Barcelo Kids Pool 2" >}} 
+{{< figure src="/uploads/BarceloKidsPool2.jpg" caption="Barcelo Kids Pool 2" >}}
 
 {{< /gallery >}}
 
 The beach water was nice and warm, only part that I didn’t like was the seaweed. I don’t like seaweed that’s washed up on shore, but once we were past that, the water was clear, blue and beautiful. We got some lively pictures from there, it was lovely. The dock was great too. It was nice to hang out at the end of the dock, and watch the boats go by smell the fresh air.
 
-{{< load_photoswipe >}} 
+{{< load_photoswipe >}}
 
-{{< gallery >}} 
+{{< gallery >}}
 
-{{< figure src="/uploads/WalkOnTheDock.jpg" caption="Barcelo Dockside">}} 
+{{< figure src="/uploads/WalkOnTheDock.jpg" caption="Barcelo Dockside">}}
 
-{{< figure src="/uploads/PirateShipInOcean.jpg" caption="Barcelo Pirate Ship In The Ocean" >}} 
+{{< figure src="/uploads/PirateShipInOcean.jpg" caption="Barcelo Pirate Ship In The Ocean" >}}
 
-{{< figure src="/uploads/Kayak.jpg" caption="Barcelo Kayak" >}} 
+{{< figure src="/uploads/Kayak.jpg" caption="Barcelo Kayak" >}}
 
 {{< /gallery >}}
 
@@ -84,15 +84,15 @@ While in Punta Cana, we decided to do a full day excursion. After flipping some 
 
 On the way there we did the speed boat. They go half way to Saona Island and stop for people who want to Snorkel to allow them to Snorkel. I personally didn’t do it, but my husband and kids did. They said it was wonderful. They were surrounded by so many different kinds of fish in the water and the water was actually warm, not cold. After spending 30 minutes here, everyone got back on the boat and we moved on. Right before we arrived at Saona Island we stopped again, this time at the shallow turquoise waters. Here the water is literally Turquoise and not so deep. This was different. Here we actually got to see starfish and take pictures with them.
 
-{{< load_photoswipe >}} 
+{{< load_photoswipe >}}
 
-{{< gallery >}} 
+{{< gallery >}}
 
-{{< figure src="/uploads/Starfish.jpg" caption="Saona Island Starfish">}} 
+{{< figure src="/uploads/Starfish.jpg" caption="Saona Island Starfish">}}
 
-{{< figure src="/uploads/TripToSaonaIsland.jpg" caption="Trip To Saona Island" >}} 
+{{< figure src="/uploads/TripToSaonaIsland.jpg" caption="Trip To Saona Island" >}}
 
-{{< figure src="/uploads/Snorkling.jpg" caption="Saona Island Snorkling" >}} 
+{{< figure src="/uploads/Snorkling.jpg" caption="Saona Island Snorkling" >}}
 
 {{< /gallery >}}
 

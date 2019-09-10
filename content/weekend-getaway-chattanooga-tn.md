@@ -2,7 +2,6 @@
 categories = ["United States"]
 date = "2019-09-09T00:00:00-04:00"
 description = "Weekend Getaway to Lookout Mountain visiting Rock City, Ruby Falls and the Ocoee River doing some White Water Rafting"
-draft = true
 image = "/uploads/ChattanoogaCover.jpg"
 pins = []
 slug = "chattanoogagetaway"

@@ -47,6 +47,16 @@ _TIP: buy the_ <a href="[https://tickets.lookoutmountain.com/Info.aspx?EventID=4
 
 Time Needed – 2-4 hours
 
+{{< load_photoswipe >}}
+
+{{< gallery >}}
+
+{{< figure src="/uploads/7states.jpg" caption="Rock City Gardens">}}
+
+{{< figure src="/uploads/HighFalls.jpg" caption="Rock City Gardens">}}
+
+{{< /gallery >}}
+
 Great morning or afternoon to spend in the <a href="[https://www.seerockcity.com/](https://www.seerockcity.com/ "https://www.seerockcity.com/")" rel="nofollow">Rock City Gardens</a>. Located on top of Lookout Mountain on the Georgia Side on the border of Georgia and Tennessee, this beautiful garden sits. The 4,100-foot path leads a trail through fun boulders with funny names like Needle’s Eye, Fat Man’s Squeeze and along the Enchanted Trail. The enticing 180-foot-long swing-a-long suspension bridge is always a delight, ending with the fairyland caverns and Mother Goose’s Village.
 
 Lovers Leap is a great lookout point to view 7 states from where you stand, and don’t forget to check out High Falls which is a 90-foot waterfall right against the lovers point viewpoint.

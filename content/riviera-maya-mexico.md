@@ -1,12 +1,12 @@
 +++
-categories = ["Beach"]
+categories = []
 date = "2019-08-01T00:00:00-04:00"
 description = "Read our expert resort review of the Grand Sunset Princess in Riviera Maya, and our best tips for enjoying the resort, and visiting Tulum & Beyond."
-image = "/uploads/Tulum.jpg"
+image = "/uploads/OutdoorSeating.jpg"
 pins = []
+slug = "the-grand-sunset-princess-resort-in-riviera-maya-cancun"
 tags = ["Beach", "Mexico", "Resorts"]
 title = "The Grand Sunset Princess Resort in Riviera Maya Cancun"
-slug = "the-grand-sunset-princess-resort-in-riviera-maya-cancun"
 type = "post"
 
 +++

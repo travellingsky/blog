@@ -6,8 +6,9 @@ description: Visit Punta Cana in the Dominican Republic with beautiful weather a
   a great excursion to Saona Island. Read our 10 best activities to do while in Punta
   Cana for a vacation of a lifetime.
 type: post
-image: "/uploads/PalmTrees.jpg"
-categories: []
+image: "/uploads/PuntaCanaCover.jpg"
+categories:
+- Caribbean Islands
 tags:
 - Caribbean
 - Beach

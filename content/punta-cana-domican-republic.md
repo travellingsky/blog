@@ -1,12 +1,12 @@
 ---
 title: 10 Fun Things To Do in Punta Cana
-slug: '10-fun-things-to-do-in-punta-cana'
+slug: 10-fun-things-to-do-in-punta-cana
 date: 2019-09-01
 description: Visit Punta Cana in the Dominican Republic with beautiful weather and
   a great excursion to Saona Island. Read our 10 best activities to do while in Punta
   Cana for a vacation of a lifetime.
 type: post
-image: "/uploads/puntacana.jpg"
+image: "/uploads/PalmTrees.jpg"
 categories:
 - Caribbean Islands
 tags:

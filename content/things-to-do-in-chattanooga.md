@@ -25,13 +25,13 @@ The staff are very knowledgeable and there are plenty of Keeper Talks and a Secr
 
 Time Needed – 1-2 hours
 
-It takes approximately 1-2 hours to explore the **Bluff View Art District** gardens. Its located overlooking the Tennessee River in Downtown Chattanooga. The part has so much character to it, with a great deal of public artwork, vines that hug the buildings and so many small eateries to give the homely effect. The art district is also home to 3 art institutions, **The Houston Museum of Decorative Arts** which displays Victorian Art Glass and Antiques. The Hunter Museum of American Art which is the biggest institution here which features housework from Andy Warhol and Monet, and **The River Gallery** which displays a lovely sculpture Garden.
+It takes approximately 1-2 hours to explore the <a href="[https://bluffviewartdistrictchattanooga.com/](https://bluffviewartdistrictchattanooga.com/ "https://bluffviewartdistrictchattanooga.com/")" rel="nofollow">Bluff View Art District</a> gardens. Its located overlooking the Tennessee River in Downtown Chattanooga. The part has so much character to it, with a great deal of public artwork, vines that hug the buildings and so many small eateries to give the homely effect. The art district is also home to 3 art institutions, <a href="[https://www.thehoustonmuseum.org/](https://www.thehoustonmuseum.org/ "https://www.thehoustonmuseum.org/")" rel="nofollow">The Houston Museum of Decorative Arts</a> which displays Victorian Art Glass and Antiques. The Hunter Museum of American Art which is the biggest institution here which features housework from Andy Warhol and Monet, and <a href="[https://www.river-gallery.com/](https://www.river-gallery.com/ "https://www.river-gallery.com/")" rel="nofollow">The River Gallery</a> which displays a lovely sculpture Garden.
 
-Chattanooga Choo Choo
+## Chattanooga Choo Choo
 
 Time Needed – 1-2 hours
 
-The **Chattanooga Choo Choo** is a hotel located in an old Terminal station. With Victorian train cars to rooms and suites, with make you feel like you’ve gone back in time. Kids can enjoy the Chattanooga Choo Choo Trolley while there is plenty of shopping, strolling thru the gardens and so much to do there.
+The<a href="[https://www.choochoo.com/?cmpid=ppc&srcid=ppc&gclid=CjwKCAjwk93rBRBLEiwAcMapUXwDw7i5NgelfZR6cPTS1EFAHJ11zjghxNUhXaYGNxnnesah7FoldxoCOl8QAvD_BwE](https://www.choochoo.com/?cmpid=ppc&srcid=ppc&gclid=CjwKCAjwk93rBRBLEiwAcMapUXwDw7i5NgelfZR6cPTS1EFAHJ11zjghxNUhXaYGNxnnesah7FoldxoCOl8QAvD_BwE "https://www.choochoo.com/?cmpid=ppc&srcid=ppc&gclid=CjwKCAjwk93rBRBLEiwAcMapUXwDw7i5NgelfZR6cPTS1EFAHJ11zjghxNUhXaYGNxnnesah7FoldxoCOl8QAvD_BwE")" rel="nofollow"> Chattanooga Choo Choo </a>is a hotel located in an old Terminal station. With Victorian train cars to rooms and suites, with make you feel like you’ve gone back in time. Kids can enjoy the Chattanooga Choo Choo Trolley while there is plenty of shopping, strolling thru the gardens and so much to do there.
 
 Its free to visit, so check out the historian train hotel. Something different than the regular hotel most are use to staying at.
 

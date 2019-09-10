@@ -2,12 +2,11 @@
 categories = ["United States"]
 date = "2019-09-10T00:00:00-04:00"
 description = "So many things to do in Chattanooga, from the river side to exploring the many different waterfalls. Its a perfect getaway from many neighboring cities & states for a day or 2"
-draft = true
 image = "/uploads/LookoutMountain.jpg"
 pins = []
 slug = "10- fun-things-to-do-in-chattanooga"
 tags = [" chattanooga", " tennessee", "lookout mountain", "getaway"]
-title = "10 fun things to do in Chattanooga"
+title = "10 Fun Things To Do In Chattanooga"
 type = "post"
 
 +++

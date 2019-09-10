@@ -11,7 +11,7 @@ title = "10 fun things to do in Chattanooga"
 type = "post"
 
 +++
-<a href="[https://www.chattanoogafun.com](https://www.chattanoogafun.com "https://www.chattanoogafun.com")" rel="nofollow">Chattanooga</a>is a great vacation spot to get away from the busy life of the neighboring cities and states. Perfect destination especially for us who live in Atlanta because there is so much culture and so many things to do for people of all ages. The night life is great and so many great restaurants to choose from. So many places to visit from art galleries to beautiful scenic gardens and see exotic waterfalls.
+<a href="[https://www.chattanoogafun.com](https://www.chattanoogafun.com "https://www.chattanoogafun.com")" rel="nofollow">Chattanooga</a> is a great vacation spot to get away from the busy life of the neighboring cities and states. Perfect destination especially for us who live in Atlanta because there is so much culture and so many things to do for people of all ages. The night life is great and so many great restaurants to choose from. So many places to visit from art galleries to beautiful scenic gardens and see exotic waterfalls.
 
 ## Tennessee Aquarium
 

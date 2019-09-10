@@ -47,36 +47,36 @@ _TIP: buy the_ <a href="[https://tickets.lookoutmountain.com/Info.aspx?EventID=4
 
 Time Needed – 2-4 hours
 
-Great morning or afternoon to spend in the <a href="[https://www.seerockcity.com/](https://www.seerockcity.com/ "https://www.seerockcity.com/")" rel="nofollow">**Rock City Gardens**</a>. Located on top of Lookout Mountain on the Georgia Side on the border of Georgia and Tennessee, this beautiful garden sits. The 4,100-foot path leads a trail through fun boulders with funny names like Needle’s Eye, Fat Man’s Squeeze and along the Enchanted Trail. The enticing 180-foot-long swing-a-long suspension bridge is always a delight, ending with the fairyland caverns and Mother Goose’s Village.
+Great morning or afternoon to spend in the <a href="[https://www.seerockcity.com/](https://www.seerockcity.com/ "https://www.seerockcity.com/")" rel="nofollow">Rock City Gardens</a>. Located on top of Lookout Mountain on the Georgia Side on the border of Georgia and Tennessee, this beautiful garden sits. The 4,100-foot path leads a trail through fun boulders with funny names like Needle’s Eye, Fat Man’s Squeeze and along the Enchanted Trail. The enticing 180-foot-long swing-a-long suspension bridge is always a delight, ending with the fairyland caverns and Mother Goose’s Village.
 
 Lovers Leap is a great lookout point to view 7 states from where you stand, and don’t forget to check out High Falls which is a 90-foot waterfall right against the lovers point viewpoint.
 
-Ruby Falls
+## Ruby Falls
 
 Time Needed – 1-2 hours
 
-Another popular Chattanooga attraction is **Ruby Falls.** Located on Lookout Mountain also not too far from Rock City Gardens. The waterfall is located 1,120 feet below the surface of the mountain, its is America’s deepest commercial cave and largest underground waterfall. You cannot go into the cave along you have to purchase a tour, but the guide helps you navigate the cave showing you different spots and explaining the history before you reach the cave. The tour takes about 1.5-2 hours, but well worth the money.
+Another popular Chattanooga attraction is <a href="[https://www.rubyfalls.com/](https://www.rubyfalls.com/ "https://www.rubyfalls.com/")" rel="nofollow">Ruby Falls</a>**.** Located on Lookout Mountain also not too far from Rock City Gardens. The waterfall is located 1,120 feet below the surface of the mountain, its is America’s deepest commercial cave and largest underground waterfall. You cannot go into the cave along you have to purchase a tour, but the guide helps you navigate the cave showing you different spots and explaining the history before you reach the cave. The tour takes about 1.5-2 hours, but well worth the money.
 
-Lookout Mountain Incline Railway
+## Lookout Mountain Incline Railway
 
 Time Needed – Less than 1 hour
 
-This is the most memorable way to get up lookout mountain. The **Lookout Mountain Incline Railway** has a 73% grade track which means its one of the steepest passenger railways in the world. Once on top of the mountain you less than a mile away from the north railway station, point park, the site of the 1893 Civil War and the Battles for Chattanooga Museum.
+This is the most memorable way to get up lookout mountain. The <a href="[http://www.ridetheincline.com/](http://www.ridetheincline.com/ "http://www.ridetheincline.com/")" rel="nofollow">Lookout Mountain Incline Railway</a> has a 73% grade track which means its one of the steepest passenger railways in the world. Once on top of the mountain you less than a mile away from the north railway station, point park, the site of the 1893 Civil War and the Battles for Chattanooga Museum.
 
-Tennessee Riverpark
+## Tennessee Riverpark
 
 Time Needed – ½ Day
 
-This is a beautiful walk along the **Tennessee Riverpark** starting at Chickamauga Dam for 10 miles until you reach downtown Chattanooga. It’s a narrow and linear 8-10 fee wide trail but have lovely landscaped grounds which you enjoy the view of the river. Its also known for its 6 fishing piers and boat ramps, and several public art pieces on display along the path in the park.
+This is a beautiful walk along the <a href="[https://parks.hamiltontn.gov/196/Tennessee-Riverpark](https://parks.hamiltontn.gov/196/Tennessee-Riverpark "https://parks.hamiltontn.gov/196/Tennessee-Riverpark")" rel="nofollow">Tennessee Riverpark </a>starting at Chickamauga Dam for 10 miles until you reach downtown Chattanooga. It’s a narrow and linear 8-10 fee wide trail but have lovely landscaped grounds which you enjoy the view of the river. Its also known for its 6 fishing piers and boat ramps, and several public art pieces on display along the path in the park.
 
-Chattanooga Market
+## Chattanooga Market
 
 Time Needed – 2-4 Hours
 
-The **Chattanooga Market** is held every Sunday between April and December, with so many arts and crafts and farmers market items with more than 300 vendors. This market is a must as its known for the entertaining events they hold in the weekends like Celebrity Chef Competitions and Art events, Oktoberfest and so much more.
+The <a href="[https://chattanoogamarket.com](https://chattanoogamarket.com "https://chattanoogamarket.com")" rel="nofollow">Chattanooga Market</a> is held every Sunday between April and December, with so many arts and crafts and farmers market items with more than 300 vendors. This market is a must as its known for the entertaining events they hold in the weekends like Celebrity Chef Competitions and Art events, Oktoberfest and so much more.
 
-Tennessee Stillhouse
+## Tennessee Stillhouse
 
 Time Needed – 2 Hours
 
-If you enjoy visiting distilleries than this is the place to visit. The distillery uses barley, corn and rye to process through cooking, fermenting, distilling and bottling to make a great tasting local whiskey.
+If you enjoy visiting distilleries than this is the place to visit. This <a href="[https://chattanoogawhiskey.com/](https://chattanoogawhiskey.com/ "https://chattanoogawhiskey.com/")" rel="nofollow">distillery</a> uses barley, corn and rye to process through cooking, fermenting, distilling and bottling to make a great tasting local whiskey.

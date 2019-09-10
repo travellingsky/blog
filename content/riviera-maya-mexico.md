@@ -5,7 +5,7 @@ description = "Read our expert resort review of the Grand Sunset Princess in Riv
 image = "/uploads/OutdoorSeating.jpg"
 pins = []
 slug = "the-grand-sunset-princess-resort-in-riviera-maya-cancun"
-tags = ["Beach", "Mexico", "Resorts"]
+tags = ["Beach", "Mexico", "Resorts", "Caribbean"]
 title = "The Grand Sunset Princess Resort in Riviera Maya Cancun"
 type = "post"
 

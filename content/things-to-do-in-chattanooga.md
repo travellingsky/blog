@@ -69,9 +69,9 @@ Time Needed – 1-2 hours
 
 {{< figure src="/uploads/RubyFalls.jpg" caption="RubyFalls">}}
 
-{{< figure src="/uploads/RubyFallsCave.jpg" caption="RubyFalls2">}}
+{{< figure src="/uploads/RubyFallsCave.jpg" caption="RubyFalls">}}
 
-{{< figure src="/uploads/RubyFallsWaterfall.jpg" caption="RubyFalls3">}}
+{{< figure src="/uploads/RubyFallsWaterfall.jpg" caption="RubyFalls">}}
 
 {{< /gallery >}}
 

@@ -30,13 +30,13 @@ The little Cafe was very reasonable priced with many options for food to suit ev
 
 <center><img src="/uploads/CafeOnTheCornerFood.jpg" alt="CafeOnTheCorner"  style="width: 50%" /><figcaption> Cafe On The Corner </figcaption></center>
 
-## Rock City
+## Rock City Gardens
 
 1400 Patten Rd
 
 Lookout Mountain, GA 30750
 
-We finally made it to <a href="[https://www.seerockcity.com](https://www.seerockcity.com "https://www.seerockcity.com")"rel="nofollow">Rock City</a>. Rock City is one of my favorite spots in Chattanooga located on top of Lookout Mountain. I love the fact that each corner of the park is different, they make it fun for everyone with funny little names for the different sections that make it interesting to explore. Places like the Grand Corridor, Needle’s Eye, Gnome Valley and so many more make it fun and interesting. If you’re Gnome fan, then keep your eyes wide open, there are many of them hiding amongst the different bushes and spots.
+We finally made it to <a href="[https://www.seerockcity.com](https://www.seerockcity.com "https://www.seerockcity.com")"rel="nofollow">Rock City</a>. Rock City Gardens is one of my favorite spots in Chattanooga located on top of Lookout Mountain. I love the fact that each corner of the park is different, they make it fun for everyone with funny little names for the different sections that make it interesting to explore. Places like the Grand Corridor, Needle’s Eye, Gnome Valley and so many more make it fun and interesting. If you’re Gnome fan, then keep your eyes wide open, there are many of them hiding amongst the different bushes and spots.
 
 {{< load_photoswipe >}} {{< gallery >}} {{< figure src="/uploads/RockCityPathway.jpg" caption="Rock City">}} {{< figure src="/uploads/FatManSqueeze.jpg" caption="Rock City">}} {{< figure src="/uploads/RockCityPath.jpg" caption="Rock City">}} {{< /gallery >}}
 
@@ -54,13 +54,12 @@ After exploring the park more we made it to the end. The kids loved this part, 1
 
 ## Ruby Falls
 
-1720 South Scenic Hwy 
+1720 South Scenic Hwy
 
 Chattanooga, TN 37409
 
 <center><img src="/uploads/RubyFalls.jpg" alt="RubyFalls"  style="width: 50%" /><figcaption>RubyFalls </figcaption></center>
 
-  
 After a wonderful afternoon at <a href="[https://www.seerockcity.com](https://www.seerockcity.com "https://www.seerockcity.com")"rel="nofollow">Rock City</a>, we headed back to <a href="[https://www.rubyfalls.com/](https://www.rubyfalls.com/ "https://www.rubyfalls.com/")"rel="nofollow">Ruby Falls</a> (after we freshened up at our hotel).
 
 I wasn’t sure if this is something the kids would like, but they loved it. They liked it more than Rock City even, but I think the heat had a lot to do with that.
@@ -79,7 +78,7 @@ Of course, the highlight of the Cave is Ruby Falls. As you get closer to the end
 
 ## White Water Rafting – Ocoee River
 
-The following day before heading back home, we had bought a <a href="[https://www.groupon.com/deals/high-country-adventures-16-24](https://www.groupon.com/deals/high-country-adventures-16-24 "https://www.groupon.com/deals/high-country-adventures-16-24")" rel="nofollow">Groupon</a> for White Water Rafting 
+The following day before heading back home, we had bought a <a href="[https://www.groupon.com/deals/high-country-adventures-16-24](https://www.groupon.com/deals/high-country-adventures-16-24 "https://www.groupon.com/deals/high-country-adventures-16-24")" rel="nofollow">Groupon</a> for White Water Rafting
 
 {{< load_photoswipe >}}
 {{< gallery >}}

@@ -5,23 +5,23 @@ description = "So many things to do in Chattanooga, from the river side to explo
 draft = true
 image = ""
 pins = []
-slug = "things-to-do-in-chattanooga"
+slug = "10- fun-things-to-do-in-chattanooga"
 tags = [" chattanooga", " tennessee", "lookout mountain", "getaway"]
-title = "Things to do in Chattanooga"
+title = "10 fun things to do in Chattanooga"
 type = "post"
 
 +++
-**Chattanooga** is a great vacation spot to get away from the busy life of the neighboring cities and states. Perfect destination especially for us who live in Atlanta because there is so much culture and so many things to do for people of all ages. The night life is great and so many great restaurants to choose from. So many places to visit from art galleries to beautiful scenic gardens and see exotic waterfalls.
+<a href="[https://www.chattanoogafun.com](https://www.chattanoogafun.com "https://www.chattanoogafun.com")" rel="nofollow">Chattanooga</a>is a great vacation spot to get away from the busy life of the neighboring cities and states. Perfect destination especially for us who live in Atlanta because there is so much culture and so many things to do for people of all ages. The night life is great and so many great restaurants to choose from. So many places to visit from art galleries to beautiful scenic gardens and see exotic waterfalls.
 
-Tennessee Aquarium
+## Tennessee Aquarium
 
 Time Needed – 2 to 4 hours
 
-Who doesn’t love the aquarium? The **Tennessee Aquarium** is on the world’s largest freshwater aquariums and one of Chattanooga’s main attractions. The aquarium is unique because of its theme, it takes your through a journey from atop of a mountain stream right down to the ocean below. There are many little exhibits along the water. River Journey Exhibit, Ocean Journey and so much more.
+Who doesn’t love the aquarium? The <a href="[https://www.tnaqua.org](https://www.tnaqua.org "https://www.tnaqua.org")" rel="nofollow">Tennessee Aquarium</a> is on the world’s largest freshwater aquariums and one of Chattanooga’s main attractions. The aquarium is unique because of its theme, it takes your through a journey from atop of a mountain stream right down to the ocean below. There are many little exhibits along the water. River Journey Exhibit, Ocean Journey and so much more.
 
 The staff are very knowledgeable and there are plenty of Keeper Talks and a Secret Reef Dive Show, where the divers answer visitors’ questions from within the tanks.
 
-Bluff View Art District
+## Bluff View Art District
 
 Time Needed – 1-2 hours
 

@@ -7,8 +7,7 @@ description: Visit Punta Cana in the Dominican Republic with beautiful weather a
   Cana for a vacation of a lifetime.
 type: post
 image: "/uploads/PalmTrees.jpg"
-categories:
-- Caribbean Islands
+categories: []
 tags:
 - Caribbean
 - Beach

@@ -35,19 +35,19 @@ The<a href="[https://www.choochoo.com/?cmpid=ppc&srcid=ppc&gclid=CjwKCAjwk93rBRB
 
 Its free to visit, so check out the historian train hotel. Something different than the regular hotel most are use to staying at.
 
-Chickamauga & Chattanooga National Military Park
+## Chickamauga & Chattanooga National Military Park
 
 Time Needed – 4-8 hours
 
-Chattanooga is well known for its Civil War battleground. **The Chickamauga & Chattanooga National Military Park** is one of the oldest and largest of Americans Civil War Parks. Located 9 miles south of downtown Chattanooga its worth visiting if you have the time in Chattanooga, but if time is limited then visit **Point Park** which is the site located on Lookout mountain while you visit the other attractions. Note: the Chickamauga & Chattanooga National Military Park is free entry for all, but the Point Park has a $5 fee per adult.
+Chattanooga is well known for its Civil War battleground. <a href="[https://en.wikipedia.org/wiki/Chickamauga_and_Chattanooga_National_Military_Park](https://en.wikipedia.org/wiki/Chickamauga_and_Chattanooga_National_Military_Park "https://en.wikipedia.org/wiki/Chickamauga_and_Chattanooga_National_Military_Park")" rel="nofollow">The Chickamauga & Chattanooga National Military Park</a> is one of the oldest and largest of Americans Civil War Parks. Located 9 miles south of downtown Chattanooga its worth visiting if you have the time in Chattanooga, but if time is limited then visit Point Park which is the site located on Lookout mountain while you visit the other attractions. Note: the Chickamauga & Chattanooga National Military Park is free entry for all, but the Point Park has a $5 fee per adult.
 
-TIP: buy the **combo tickets** for Rock City Garden, Ruby Falls & the Incline as tickets will be cheaper
+_TIP: buy the_ <a href="[https://tickets.lookoutmountain.com/Info.aspx?EventID=4&gclid=CjwKCAjwk93rBRBLEiwAcMapUUjSNXXf29bYve_yYzKhsaXBViEBZuGV2asb4UGo-av__5dvOV5IshoC1hcQAvD_BwE](https://tickets.lookoutmountain.com/Info.aspx?EventID=4&gclid=CjwKCAjwk93rBRBLEiwAcMapUUjSNXXf29bYve_yYzKhsaXBViEBZuGV2asb4UGo-av__5dvOV5IshoC1hcQAvD_BwE "https://tickets.lookoutmountain.com/Info.aspx?EventID=4&gclid=CjwKCAjwk93rBRBLEiwAcMapUUjSNXXf29bYve_yYzKhsaXBViEBZuGV2asb4UGo-av__5dvOV5IshoC1hcQAvD_BwE")" rel="nofollow">Combo</a> _tickets for Rock City Garden, Ruby Falls & the Incline as tickets will be cheaper_
 
-Rock City Gardens
+## Rock City Gardens
 
 Time Needed – 2-4 hours
 
-Great morning or afternoon to spend in the **Rock City Gardens**. Located on top of Lookout Mountain on the Georgia Side on the border of Georgia and Tennessee, this beautiful garden sits. The 4,100-foot path leads a trail through fun boulders with funny names like Needle’s Eye, Fat Man’s Squeeze and along the Enchanted Trail. The enticing 180-foot-long swing-a-long suspension bridge is always a delight, ending with the fairyland caverns and Mother Goose’s Village.
+Great morning or afternoon to spend in the <a href="[https://www.seerockcity.com/](https://www.seerockcity.com/ "https://www.seerockcity.com/")" rel="nofollow">**Rock City Gardens**</a>. Located on top of Lookout Mountain on the Georgia Side on the border of Georgia and Tennessee, this beautiful garden sits. The 4,100-foot path leads a trail through fun boulders with funny names like Needle’s Eye, Fat Man’s Squeeze and along the Enchanted Trail. The enticing 180-foot-long swing-a-long suspension bridge is always a delight, ending with the fairyland caverns and Mother Goose’s Village.
 
 Lovers Leap is a great lookout point to view 7 states from where you stand, and don’t forget to check out High Falls which is a 90-foot waterfall right against the lovers point viewpoint.
 

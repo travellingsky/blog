@@ -3,7 +3,7 @@ categories = ["United States"]
 date = "2019-09-10T00:00:00-04:00"
 description = "So many things to do in Chattanooga, from the river side to exploring the many different waterfalls. Its a perfect getaway from many neighboring cities & states for a day or 2"
 draft = true
-image = ""
+image = "/uploads/LookoutMountain.jpg"
 pins = []
 slug = "10- fun-things-to-do-in-chattanooga"
 tags = [" chattanooga", " tennessee", "lookout mountain", "getaway"]
@@ -54,6 +54,16 @@ Lovers Leap is a great lookout point to view 7 states from where you stand, and 
 ## Ruby Falls
 
 Time Needed – 1-2 hours
+
+{{< gallery >}}
+
+{{< figure src="/uploads/RubyFalls.jpg.jpg" caption="RubyFalls">}}
+
+{{< figure src="/uploads/RubyFallsCave.jpg" caption="caption="RubyFalls">}}
+
+{{< figure src="/uploads/RubyFallsWaterfall.jpg" caption="caption="RubyFalls">}}
+
+{{< /gallery >}}
 
 Another popular Chattanooga attraction is <a href="[https://www.rubyfalls.com/](https://www.rubyfalls.com/ "https://www.rubyfalls.com/")" rel="nofollow">Ruby Falls</a>**.** Located on Lookout Mountain also not too far from Rock City Gardens. The waterfall is located 1,120 feet below the surface of the mountain, its is America’s deepest commercial cave and largest underground waterfall. You cannot go into the cave along you have to purchase a tour, but the guide helps you navigate the cave showing you different spots and explaining the history before you reach the cave. The tour takes about 1.5-2 hours, but well worth the money.
 

@@ -18,18 +18,20 @@ Who would have guessed that Punta Cana in the Dominican Republic would be so sce
 
 ## Things to do in Punta Cana
 
-Punta Cana is a place for people who love the outdoor activities. Great activities are available for 
+Punta Cana is a place for people who love the outdoor activities. Great activities are available for
 
-* speed boating, 
-* catamaran sailing, 
+* speed boating,
+* catamaran sailing,
 * deep sea sport fishing,
-* discovery cruises, 
-* private yachts, 
-* swimming with dolphins, 
-* snorkeling cruises, 
-* swimming with sharks and stingrays, whale watching, 
-* reef exploring, 
+* discovery cruises,
+* private yachts,
+* swimming with dolphins,
+* snorkeling cruises,
+* swimming with sharks and stingrays, whale watching,
+* reef exploring,
 * and visiting small islands like Saona and Catalina.
+
+Check out some great <a href=" [http://www.kqzyfj.com/click-9165033-12931579?sid=5224213](http://www.kqzyfj.com/click-9165033-12931579?sid=5224213 "http://www.kqzyfj.com/click-9165033-12931579?sid=5224213")" rel="nofollow"> hotels</a> to stay in Punta Cana for under $200. Click here for some great hotels <a href=" [http://www.kqzyfj.com/click-9165033-12931579?sid=5224213](http://www.kqzyfj.com/click-9165033-12931579?sid=5224213 "http://www.kqzyfj.com/click-9165033-12931579?sid=5224213")" rel="nofollow"> Click here for some great hotels</a>
 
 ## The Resort: Barcelo Bavaro Palace Deluxe – All Inclusive
 
@@ -95,9 +97,9 @@ The beach water was nice and warm, only part that I didn’t like was the seawee
 
 While in Punta Cana, we decided to do a full day excursion. After flipping some ideas around, we thought going to <a href="[https://en.wikipedia.org/wiki/Saona_Island](https://en.wikipedia.org/wiki/Saona_Island "https://en.wikipedia.org/wiki/Saona_Island")" rel="nofollow">Saona Island</a> would be fun. This was fantastic, definitely well worth the money and a day well spent. We absolutely love it. The trip there was on a speed boat, return was on a catamaran. You have a professional photography with you the whole time, and you will have the time of your life. We sure did.
 
-On the way there we did the speed boat. They go half way to Saona Island and stop for people who want to Snorkel to allow them to Snorkel. I personally didn’t do it, but my husband and kids did. They said it was wonderful. They were surrounded by so many different kinds of fish in the water and the water was actually warm, not cold. After spending 30 minutes here, everyone got back on the boat and we moved on. 
+On the way there we did the speed boat. They go half way to Saona Island and stop for people who want to Snorkel to allow them to Snorkel. I personally didn’t do it, but my husband and kids did. They said it was wonderful. They were surrounded by so many different kinds of fish in the water and the water was actually warm, not cold. After spending 30 minutes here, everyone got back on the boat and we moved on.
 
-Right before we arrived at Saona Island we stopped again, this time at the shallow turquoise waters. Here the water is literally Turquoise and not so deep. This was different. 
+Right before we arrived at Saona Island we stopped again, this time at the shallow turquoise waters. Here the water is literally Turquoise and not so deep. This was different.
 
 Here we actually got to see starfish and take pictures with them.
 

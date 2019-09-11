@@ -168,5 +168,3 @@ I definitely recommend this trip to anyone who is looking for a fun excursion to
 {{< figure src="/uploads/Yacht.jpg" caption="Fun on the Catamaran">}}
 
 {{< /gallery >}}
-
-    <script type="text/javascript" language="javascript" src="http://www.anrdoezrs.net/placeholder-40034671?sid=5224213&target=_top&mouseover=N"></script>

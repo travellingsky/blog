@@ -31,7 +31,9 @@ Punta Cana is a place for people who love the outdoor activities. Great activiti
 * reef exploring,
 * and visiting small islands like Saona and Catalina.
 
-Check out some great <a href=" [http://www.kqzyfj.com/click-9165033-12931579?sid=5224213](http://www.kqzyfj.com/click-9165033-12931579?sid=5224213 "http://www.kqzyfj.com/click-9165033-12931579?sid=5224213")" rel="nofollow"> hotels</a> to stay in Punta Cana for under $200. Click here for some great hotels <a href=" [http://www.kqzyfj.com/click-9165033-12931579?sid=5224213](http://www.kqzyfj.com/click-9165033-12931579?sid=5224213 "http://www.kqzyfj.com/click-9165033-12931579?sid=5224213")" rel="nofollow"> Click here for some great hotels</a>
+Check out some great <a href=" [http://www.kqzyfj.com/click-9165033-12931579?sid=5224213](http://www.kqzyfj.com/click-9165033-12931579?sid=5224213 "http://www.kqzyfj.com/click-9165033-12931579?sid=5224213")" rel="nofollow"> hotels</a> to stay in Punta Cana for under $200. 
+
+Click here for some great hotels <a href=" [http://www.kqzyfj.com/click-9165033-12931579?sid=5224213](http://www.kqzyfj.com/click-9165033-12931579?sid=5224213 "http://www.kqzyfj.com/click-9165033-12931579?sid=5224213")" rel="nofollow"> Click here</a>  for some great hotels.
 
 ## The Resort: Barcelo Bavaro Palace Deluxe – All Inclusive
 

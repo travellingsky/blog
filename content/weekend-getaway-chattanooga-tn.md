@@ -94,4 +94,4 @@ The rapids were between level 2-4, so it was a nice mix of rapids which made it 
 
 Our weekend getaway was then over and we headed back home. This trip was an overnight getaway for couples of families if you are short on time, and live close to one of the neighboring states. Definitely a trip doing at least once.
 
-    <script type="text/javascript" language="javascript" src="http://www.kqzyfj.com/placeholder-40034569?sid=5224213&target=_top&mouseover=N"></script>
+    http://www.tkqlhce.com/click-9165033-13268017?sid=5224213

@@ -30,6 +30,8 @@ The little Cafe was very reasonable priced with many options for food to suit ev
 
 <center><img src="/uploads/CafeOnTheCornerFood.jpg" alt="CafeOnTheCorner"  style="width: 50%" /><figcaption> Cafe On The Corner </figcaption></center>
 
+Check out some great  <a href="[http://www.anrdoezrs.net/click-9165033-13526556?sid=5224213](http://www.anrdoezrs.net/click-9165033-13526556?sid=5224213 "http://www.anrdoezrs.net/click-9165033-13526556?sid=5224213")" >weekend getaway deals</a>
+
 ## Rock City Gardens
 
 1400 Patten Rd

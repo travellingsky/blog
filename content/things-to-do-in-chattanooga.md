@@ -34,6 +34,8 @@ The<a href="[https://www.choochoo.com/?cmpid=ppc&srcid=ppc&gclid=CjwKCAjwk93rBRB
 
 Its free to visit, so check out the historian train hotel. Something different than the regular hotel most are use to staying at.
 
+Click the link for great [Chattanooga Hotels](http://www.tkqlhce.com/click-9165033-13268017?sid=5224213 "Chattanooga Hotels")
+
 ## Chickamauga & Chattanooga National Military Park
 
 Time Needed – 4-8 hours

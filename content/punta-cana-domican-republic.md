@@ -31,7 +31,7 @@ Punta Cana is a place for people who love the outdoor activities. Great activiti
 * reef exploring,
 * and visiting small islands like Saona and Catalina.
 
-Check out some great <a href=" [http://www.kqzyfj.com/click-9165033-12931579?sid=5224213](http://www.kqzyfj.com/click-9165033-12931579?sid=5224213 "http://www.kqzyfj.com/click-9165033-12931579?sid=5224213")" rel="nofollow"> hotels</a> to stay in Punta Cana for under $200. 
+Check out some great <a href=" [http://www.kqzyfj.com/click-9165033-12931579?sid=5224213](http://www.kqzyfj.com/click-9165033-12931579?sid=5224213 "http://www.kqzyfj.com/click-9165033-12931579?sid=5224213")" rel="nofollow"> hotels</a> to stay in Punta Cana for under $200.
 
 Click here for some great hotels <a href=" [http://www.kqzyfj.com/click-9165033-12931579?sid=5224213](http://www.kqzyfj.com/click-9165033-12931579?sid=5224213 "http://www.kqzyfj.com/click-9165033-12931579?sid=5224213")" rel="nofollow"> Click here</a>  for some great hotels.
 
@@ -168,3 +168,5 @@ I definitely recommend this trip to anyone who is looking for a fun excursion to
 {{< figure src="/uploads/Yacht.jpg" caption="Fun on the Catamaran">}}
 
 {{< /gallery >}}
+
+    <script type="text/javascript" language="javascript" src="http://www.anrdoezrs.net/placeholder-40034671?sid=5224213&target=_top&mouseover=N"></script>

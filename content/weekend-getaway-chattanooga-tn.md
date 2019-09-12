@@ -30,7 +30,7 @@ The little Cafe was very reasonable priced with many options for food to suit ev
 
 <center><img src="/uploads/CafeOnTheCornerFood.jpg" alt="CafeOnTheCorner"  style="width: 50%" /><figcaption> Cafe On The Corner </figcaption></center>
 
-Check out some great  <a href="http://www.anrdoezrs.net/click-9165033-13526556?sid=5224213" >weekend getaway </a> deals
+Check out some great  <a href="http://www.anrdoezrs.net/click-9165033-13526556?sid=5224213" rel="nofollow" >weekend getaway </a> deals
 
 <a href="http://shrsl.com/1talq" rel="nofollow">Click </a> for day activities & tours in Chattanooga
 

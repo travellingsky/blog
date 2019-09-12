@@ -81,8 +81,6 @@ There is a special kids club at the resort for kids to spend the day especially 
 
 {{< figure src="/uploads/PirateShip.jpg" caption="Barcelo Pirate Ship" >}}
 
-{{< figure src="/uploads/BarceloKidsPool2.jpg" caption="Barcelo Kids Pool 2" >}}
-
 {{< /gallery >}}
 
 The beach water was nice and warm, only part that I didn’t like was the seaweed. I don’t like seaweed that’s washed up on shore, but once we were past that, the water was clear, blue and beautiful. We got some lively pictures from there, it was lovely. The dock was great too. It was nice to hang out at the end of the dock, and watch the boats go by smell the fresh air.
@@ -95,11 +93,11 @@ The beach water was nice and warm, only part that I didn’t like was the seawee
 
 {{< figure src="/uploads/PirateShipInOcean.jpg" caption="Barcelo Pirate Ship In The Ocean" >}}
 
-{{< figure src="/uploads/Kayak.jpg" caption="Barcelo Kayak" >}}
-
 {{< /gallery >}}
 
 ## Sail and Snorkel at Soana Island
+
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=612120362" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/17793/SITours/saona-island-day-trip-from-punta-cana-in-punta-cana-341335.jpg" border="0"><br/>Saona Island Day Trip From Punta Cana</a><br>from: <b>Viator</b></center>
 
 While in Punta Cana, we decided to do a full day excursion. After flipping some ideas around, we thought going to <a href="https://en.wikipedia.org/wiki/Saona_Island" rel="nofollow">Saona Island</a> would be fun. This was fantastic, definitely well worth the money and a day well spent. We absolutely love it. The trip there was on a speed boat, return was on a catamaran. You have a professional photography with you the whole time, and you will have the time of your life. We sure did.
 
@@ -114,8 +112,6 @@ Here we actually got to see starfish and take pictures with them.
 {{< gallery >}}
 
 {{< figure src="/uploads/Starfish.jpg" caption="Saona Island Starfish">}}
-
-{{< figure src="/uploads/TripToSaonaIsland.jpg" caption="Trip To Saona Island" >}}
 
 {{< figure src="/uploads/Snorkling.jpg" caption="Saona Island Snorkling" >}}
 

@@ -65,6 +65,8 @@ The rooms were both very beautiful, but we loved the Laguna Villa room. It’s h
 
 Of course the best part of the resort is the pool. They have a great swim up bar which is perfect in the hot weather. They have little sitting areas within the pool which makes it a nice place to sit and relax with a drink, or even just do some people watching.
 
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=689203835" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/6200/SITours/luxury-sailing-and-snorkeling-in-the-riviera-maya-including-lunch-in-playa-del-carmen-380646.jpg" border="0"><br/>Luxury Sailing and Snorkeling in the Riviera Maya Including Lunch</a><br>from: <b>Viator</b>
+
 They have great daytime entertainment at the resort. We had so much fun doing salsa lessons along the pool side, as well as doing pottery painting with the kids. It’s not something we had ever done before so we really enjoyed it. Always up for doing different things.
 
 By the pool, after a short walk is a beautiful beach. The water is clear, calm and warm, what more can you ask for. The sand is so clean; it’s so peaceful and pleasant. Kids loved making different animals and sand castles in the sand. We all had a fantastic time, and on beach and there were so many people there. It was a great time indeed.
@@ -100,8 +102,6 @@ Some resorts ask you to pick them up for lunch, but this one provided lunch to t
 {{< figure src="/uploads/KidsClubBasketball.jpg" caption="Kids Club">}}
 
 {{< figure src="/uploads/KidsClub.jpg" caption="Kids Club">}}
-
-{{< figure src="/uploads/KidsDisco.jpg" caption="Kids Club">}}
 
 {{< /gallery >}}
 

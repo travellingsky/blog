@@ -42,7 +42,7 @@ Lookout Mountain, GA 30750
 
 We finally made it to <a href="https://www.seerockcity.com"rel="nofollow">Rock City</a>. Rock City Gardens is one of my favorite spots in Chattanooga located on top of Lookout Mountain. I love the fact that each corner of the park is different, they make it fun for everyone with funny little names for the different sections that make it interesting to explore. Places like the Grand Corridor, Needle’s Eye, Gnome Valley and so many more make it fun and interesting. If you’re Gnome fan, then keep your eyes wide open, there are many of them hiding amongst the different bushes and spots.
 
-{{< load_photoswipe >}} {{< gallery >}} {{< figure src="/uploads/RockCityPathway.jpg" caption="Rock City">}} {{< figure src="/uploads/FatManSqueeze.jpg" caption="Rock City">}} {{< figure src="/uploads/RockCityPath.jpg" caption="Rock City">}} {{< /gallery >}}
+{{< load_photoswipe >}} {{< gallery >}} {{< figure src="/uploads/RockCityPathway.jpg" caption="Rock City">}}  {{< figure src="/uploads/RockCityPath.jpg" caption="Rock City">}} {{< /gallery >}}
 
 The park was a little busy since it was a holiday weekend and the heat was scorching, but nevertheless it was a fun afternoon in the sun. Kids loved the swing-a-long bridge and jumping on it making it shake just to scare me. They had fun with it. The pathways are so cute, it kind of makes you feel like your walking thru a fairytale. Its unique and looks so natural since everything is made from rocks.
 

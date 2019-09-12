@@ -42,6 +42,12 @@ We spent a lot of time around The Backs area, it was so peaceful, and the weathe
 
 ​Also, I think it must have been graduation time. There were a lot of gatherings going on inside the buildings, we even got to peak into one of the dining halls. They were setting up for an event. Not sure if we were allowed in, so we quickly strolled thru. My son managed to grab a picture though.
 
+<center>
+
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=618980974" rel="nofollow" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/14229/SITours/combo-ticket-punting-and-walking-tour-in-cambridge-in-cambridge-516551.jpg" border="0"><br/>Combo ticket: Punting and Walking Tour in Cambridge</a><br>from: <b>Viator</b>
+
+</center>
+
 ## Punting along the Backs
 
 The backs is known as Little Venice. Punting is a great way to see the River Cams which separates Cambridge into 2 sections. With a glass of bubbly in your hands its a great way to view the inside of many of the Colleges right from the River and see the many exotic bridges the city has to offer.​
@@ -62,7 +68,7 @@ The Bridge is actually made from straight timbers, even though the shape of the 
 
 ## Take a Cambridge University Tour
 
-<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=705932541" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/47694/SITours/1-5-hour-cambridge-and-cambridge-colleges-walking-tour-in-cambridge-442847.jpg" border="0"><br/>1.5-hour Cambridge and Cambridge Colleges Walking Tour</a><br>from: <b>Viator</b></center>
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=705932541" rel="nofollow" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/47694/SITours/1-5-hour-cambridge-and-cambridge-colleges-walking-tour-in-cambridge-442847.jpg" border="0"><br/>1.5-hour Cambridge and Cambridge Colleges Walking Tour</a><br>from: <b>Viator</b></center>
 
 You can take a University Tour, or do a Self Guided tour visiting as many or little of the University Institutions or Colleges that you like. Each college is unique in its own way, so a pleasant afternoon to checkout what each college has to offer.
 

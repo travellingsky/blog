@@ -18,6 +18,8 @@ keywords:
 ---
 Not knowing anything besides Cambridge being a College town, we were in total love with the place. Cambridge is such a beautiful historic town, with a Royal feel to it. Its almost 2 hours away by car from Heathrow Airport, it’s very compact and cozy with many little shops and boutiques. We strolled through the streets and visited so many little stores. My cousin and her family live there, which is why we made the trip to spend time with them, but the trips was fantastic. So glad we visited
 
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=630755437" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/29076/SITours/arrival-or-departure-private-transfer-london-heathrow-airport-to-in-london-306442.jpg" border="0"><br/>Private Transfer: London Heathrow Airport to Cambridge</a><br>from: <b>Viator</b>
+
 ## Things to do in Cambridge
 
 {{< load_photoswipe >}}

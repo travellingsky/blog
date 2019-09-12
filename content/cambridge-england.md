@@ -18,7 +18,7 @@ keywords:
 ---
 Not knowing anything besides Cambridge being a College town, we were in total love with the place. Cambridge is such a beautiful historic town, with a Royal feel to it. Its almost 2 hours away by car from Heathrow Airport, it’s very compact and cozy with many little shops and boutiques. We strolled through the streets and visited so many little stores. My cousin and her family live there, which is why we made the trip to spend time with them, but the trips was fantastic. So glad we visited
 
-<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=630755437" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/29076/SITours/arrival-or-departure-private-transfer-london-heathrow-airport-to-in-london-306442.jpg" border="0"><br/>Private Transfer: London Heathrow Airport to Cambridge</a><br>from: <b>Viator</b></center>
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=630755437" rel="nofollow" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/29076/SITours/arrival-or-departure-private-transfer-london-heathrow-airport-to-in-london-306442.jpg" border="0"><br/>Private Transfer: London Heathrow Airport to Cambridge</a><br>from: <b>Viator</b></center>
 
 ## Things to do in Cambridge
 
@@ -143,7 +143,7 @@ If you fit Cambridge into your schedule its definitely worth a visit. Visit the 
 
 ## Visit the nearby Cotswold Villages
 
-<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=705936956" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/29947/SITours/private-cotswold-villages-from-london-burford-stow-on-the-wold-in-london-423877.jpg" border="0"><br/>Private Cotswold Villages from London: Burford, Stow-on-the-Wold</a><br>from: <b>Viator</b></center>
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=705936956" rel="nofollow" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/29947/SITours/private-cotswold-villages-from-london-burford-stow-on-the-wold-in-london-423877.jpg" border="0"><br/>Private Cotswold Villages from London: Burford, Stow-on-the-Wold</a><br>from: <b>Viator</b></center>
 
 Cotswold for us was a day trip. We had a car at our disposal which was great since there were a lot of us. We packed a picnic of sandwiches, chips and drinks and we were off. Cotswold is an not too far from Cambridge fill of scenic rolling hills. Its actually quite amazing the way the hills lay. Cotswold is made up of many tiny villages. We visited a couple of them. Both very different from each other, which gave them there own sense of uniqueness. This was a fun trip, and the kids had a place.
 
@@ -193,4 +193,4 @@ Its a wonderful place for a picnic or to pick up some small items from the villa
 
 {{< /gallery >}}
 
-<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781537072" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/67633/SITours/cambridge-food-tour-in-cambridge-573395.jpg" border="0"><br>Cambridge Food Tour</a></center>
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781537072" rel="nofollow" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/67633/SITours/cambridge-food-tour-in-cambridge-573395.jpg" border="0"><br>Cambridge Food Tour</a></center>

@@ -5,12 +5,12 @@ description = "So many things to do in Chattanooga, from the river side to explo
 image = "/uploads/LookoutMountain.jpg"
 pins = []
 slug = "10- fun-things-to-do-in-chattanooga"
-tags = [" chattanooga", " tennessee", "lookout mountain", "getaway"]
+tags = [" chattanooga", "tennessee", "lookout mountain", "getaway"]
 title = "10 Fun Things To Do In Chattanooga"
 type = "post"
 
 +++
-<a href="[https://www.chattanoogafun.com](https://www.chattanoogafun.com "https://www.chattanoogafun.com")" rel="nofollow">Chattanooga</a> is a great vacation spot to get away from the busy life of the neighboring cities and states. Perfect destination especially for us who live in Atlanta because there is so much culture and so many things to do for people of all ages. The night life is great and so many great restaurants to choose from. So many places to visit from art galleries to beautiful scenic gardens and see exotic waterfalls.
+<a href="https://www.chattanoogafun.com" rel="nofollow">Chattanooga</a> is a great vacation spot to get away from the busy life of the neighboring cities and states. Perfect destination especially for us who live in Atlanta because there is so much culture and so many things to do for people of all ages. The night life is great and so many great restaurants to choose from. So many places to visit from art galleries to beautiful scenic gardens and see exotic waterfalls.
 
 ## Tennessee Aquarium
 
@@ -52,9 +52,9 @@ Time Needed – 2-4 hours
 
 {{< gallery >}}
 
-{{< figure src="/uploads/7states.jpg" caption="Rock City Gardens">}}
+{{< figure src="/uploads/7states.jpg" caption="Rock City Gardens - Seven States Sign">}}
 
-{{< figure src="/uploads/HighFalls.jpg" caption="Rock City Gardens">}}
+{{< figure src="/uploads/HighFalls.jpg" caption="Rock City Gardens - High Waterfall">}}
 
 {{< /gallery >}}
 
@@ -68,11 +68,11 @@ Time Needed – 1-2 hours
 
 {{< gallery >}}
 
-{{< figure src="/uploads/RubyFalls.jpg" caption="RubyFalls">}}
+{{< figure src="/uploads/RubyFalls.jpg" caption="Entrance to Ruby Falls">}}
 
-{{< figure src="/uploads/RubyFallsCave.jpg" caption="RubyFalls">}}
+{{< figure src="/uploads/RubyFallsCave.JPG" caption="Ruby Falls Caves">}}
 
-{{< figure src="/uploads/RubyFallsWaterfall.jpg" caption="RubyFalls">}}
+{{< figure src="/uploads/RubyFallsWaterfall.JPG" caption="The Ruby Falls Waterfall">}}
 
 {{< /gallery >}}
 

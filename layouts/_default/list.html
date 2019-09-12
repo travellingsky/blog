@@ -17,12 +17,12 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8">
-        <div class="row masonry-container pt-5">
+        <div class="row pt-5">
 
-          <div class="card-deck">
-            {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-            {{ range $paginator.Pages }}
-            <div class="card">
+          {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+          {{ range $paginator.Pages }}
+          <div class="col-sm-6 py-2">
+            <div class="card h-100">
               <div class="card-header bg-transparent"><h5><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h5></div>
               <img class="card-img-top" src="{{.Params.Image | absURL }}" alt="{{.Title}}">
               <div class="card-body">
@@ -33,8 +33,8 @@
                 <small class="text-muted">{{.Params.Categories}}</small>
               </div>
             </div>
-            {{ end }}
           </div>
+          {{ end }}
         </div>
 
         <div class="row">

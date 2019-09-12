@@ -17,6 +17,23 @@ section{
 	padding-bottom: 3em;
 }
 
+.bg-secondary{
+	color: #fff;
+	background: #38A1F3 !important;
+}
+
+.bg-secondary h1, 
+.bg-secondary h6{
+	color: #fff;
+}
+
+@media only screen and (min-width : 365px) {
+    /* Tablet view: 2 tiles */
+    .gallery .box {
+        width: 50% !important;
+        padding-bottom: 50%;
+    }
+}
 
 .about img{
 	margin-left: auto;
@@ -75,3 +92,18 @@ section{
 .card{
 	border-radius: 25px;
 }
+
+
+@media (min-width: 576px) {
+    .card-columns {
+        column-count: 2;
+    }
+}
+
+@media (min-width: 768px) {
+    .card-columns {
+        column-count: 3;
+    }
+}
+
+

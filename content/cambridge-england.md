@@ -156,8 +156,6 @@ After strolling along the river and kids playing in the clean stream of water, w
 
 {{< gallery >}}
 
-{{< figure src="/uploads/BourtonOnTheWaterRiver.jpg" caption="Bourton On The Water">}}
-
 {{< figure src="/uploads/BourtonOnTheWaterRiverBank.jpg" caption="Bourton On The Water">}}
 
 {{< figure src="/uploads/BourtonOnTheWater.jpg" caption="Bourton On The Water">}}
@@ -182,7 +180,5 @@ Its a wonderful place for a picnic or to pick up some small items from the villa
 {{< figure src="/uploads/BiburyBridge.jpg" caption="Bibury Village">}}
 
 {{< figure src="/uploads/BiburyCottage.jpg" caption="Bibury Village">}}
-
-{{< figure src="/uploads/BiburyGardens.jpg" caption="Bibury Village">}}
 
 {{< /gallery >}}

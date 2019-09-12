@@ -33,7 +33,7 @@ Punta Cana is a place for people who love the outdoor activities. Great activiti
 * reef exploring,
 * and visiting small islands like Saona and Catalina.
 
-<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=601908879" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/17295/SITours/punta-cana-half-day-catamaran-cruise-with-snorkeling-in-punta-cana-321564.jpg" border="0"><br>Punta Cana Half-Day Catamaran Cruise with Snorkeling</a></center>
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=601908879" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/17295/SITours/punta-cana-half-day-catamaran-cruise-with-snorkeling-in-punta-cana-321564.jpg" border="0"><br/>Punta Cana Half-Day Catamaran Cruise with Snorkeling</a><br>from: <b>Viator</b></center>
 
 <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=538282233" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5953/SITours/punta-cana-combo-tour-speedboat-ride-snuba-and-snorkeling-in-punta-cana-145678.jpg" border="0"><br/>Punta Cana Combo Tour: Speedboat Ride, Snuba and Snorkeling</a><br>from: <b>Viator</b></center>
 

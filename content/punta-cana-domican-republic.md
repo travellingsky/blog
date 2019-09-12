@@ -16,7 +16,7 @@ tags:
 ---
 Who would have guessed that Punta Cana in the Dominican Republic would be so scenic. This gorgeous island is filled with Palm trees and Coconut trees. This was a family trip with our family parents and all for as a birthday celebration for my dad who turned 70. This was a fun vacation for all there, children, us and both mine and my husband’s parents. Everyone had a great time with plenty to do for everything. Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at <a href="https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331" rel="nofollow">Barcelo Bavaro Palace Deluxe </a>, a great resort for families.
 
-<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781513419" target="_blank">Private Transfer from Punta Cana Airport to or from Punta Cana and Bavaro Hotels</a>
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781513419" rel="nofollow" target="_blank">Private Transfer from Punta Cana Airport to or from Punta Cana and Bavaro Hotels</a>
 
 ## Things to do in Punta Cana
 
@@ -33,15 +33,15 @@ Punta Cana is a place for people who love the outdoor activities. Great activiti
 * reef exploring,
 * and visiting small islands like Saona and Catalina.
 
-<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=601908879" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/17295/SITours/punta-cana-half-day-catamaran-cruise-with-snorkeling-in-punta-cana-321564.jpg" border="0"><br/>Punta Cana Half-Day Catamaran Cruise with Snorkeling</a><br>from: <b>Viator</b></center>
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=601908879" rel="nofollow" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/17295/SITours/punta-cana-half-day-catamaran-cruise-with-snorkeling-in-punta-cana-321564.jpg" border="0"><br/>Punta Cana Half-Day Catamaran Cruise with Snorkeling</a><br>from: <b>Viator</b></center>
 
-<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=538282233" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5953/SITours/punta-cana-combo-tour-speedboat-ride-snuba-and-snorkeling-in-punta-cana-145678.jpg" border="0"><br/>Punta Cana Combo Tour: Speedboat Ride, Snuba and Snorkeling</a><br>from: <b>Viator</b></center>
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=538282233" rel="nofollow" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5953/SITours/punta-cana-combo-tour-speedboat-ride-snuba-and-snorkeling-in-punta-cana-145678.jpg" border="0"><br/>Punta Cana Combo Tour: Speedboat Ride, Snuba and Snorkeling</a><br>from: <b>Viator</b></center>
 
-Check out some great <a href="[http://www.kqzyfj.com/click-9165033-12931579?sid=5224213](http://www.kqzyfj.com/click-9165033-12931579?sid=5224213 "http://www.kqzyfj.com/click-9165033-12931579?sid=5224213")" rel="nofollow"> hotels</a> to stay in Punta Cana for under $200.
+Check out some great <a href="http://www.kqzyfj.com/click-9165033-12931579?sid=5224213" rel="nofollow"> hotels</a> to stay in Punta Cana for under $200.
 
 ## The Resort: Barcelo Bavaro Palace Deluxe – All Inclusive
 
-<center><img src="/uploads/Barcelo Bavaro Palace Deluxe.jpg" alt="Barcelo Bavaro Deluxe – All Inclusive"  style="width: 50%" /><figcaption> Barcelo Bavaro Palace Deluxe – All Inclusive </figcaption></center>
+<center><img src="/uploads/Barcelo Bavaro Palace Deluxe.jpg" alt="Barcelo Bavaro Deluxe – All Inclusive"  style="width: 50%" rel="nofollow" /><figcaption> Barcelo Bavaro Palace Deluxe – All Inclusive </figcaption></center>
 
 Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at <a href="https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331" rel="nofollow">Barcelo Bavaro Palace Deluxe</a>, a great resort for families. The pools were beautiful, the beach was fantastic, and food was great, so many options to choose from. Many people I’m sure have destination weddings here. It’s a great place for some lovely photos. We actually saw a destination wedding happening in a little kiosk right in front of the beach. It was so beautiful. The bridal party looked wonderful in matching outfits, I’m sure there pictures come our exquisite.
 
@@ -97,7 +97,7 @@ The beach water was nice and warm, only part that I didn’t like was the seawee
 
 ## Sail and Snorkel at Soana Island
 
-<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=612120362" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/17793/SITours/saona-island-day-trip-from-punta-cana-in-punta-cana-341335.jpg" border="0"><br/>Saona Island Day Trip From Punta Cana</a><br>from: <b>Viator</b></center>
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=612120362" rel="nofollow" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/17793/SITours/saona-island-day-trip-from-punta-cana-in-punta-cana-341335.jpg" border="0"><br/>Saona Island Day Trip From Punta Cana</a><br>from: <b>Viator</b></center>
 
 While in Punta Cana, we decided to do a full day excursion. After flipping some ideas around, we thought going to <a href="https://en.wikipedia.org/wiki/Saona_Island" rel="nofollow">Saona Island</a> would be fun. This was fantastic, definitely well worth the money and a day well spent. We absolutely love it. The trip there was on a speed boat, return was on a catamaran. You have a professional photography with you the whole time, and you will have the time of your life. We sure did.
 

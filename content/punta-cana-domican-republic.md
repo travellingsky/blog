@@ -117,8 +117,6 @@ Here we actually got to see starfish and take pictures with them.
 
 {{< /gallery >}}
 
-<center><img src="/uploads/SaonaIsland.jpg" alt="SaonaIsland"  style="width: 50%" /><figcaption> Saona Island </figcaption></center>
-
 Saona Island is perfect. You wouldn’t have seen anything like it. The sand is clean and white; the water is clear and blue. Fantastic spots to take pictures and as mentioned earlier they provide a professional photograph who actually take great pictures. I’m far from a model but have to say he took some great snaps.
 
 **​Hint:** always try and negotiate on the price if you decide to buy their pictures. The island is lovely. They had great people who did great massages, which were very inexpensive. Even the kids got great massages, they loved it.

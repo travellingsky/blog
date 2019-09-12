@@ -99,3 +99,5 @@ The rapids were between level 2-4, so it was a nice mix of rapids which made it 
 Our weekend getaway was then over and we headed back home. This trip was an overnight getaway for couples of families if you are short on time, and live close to one of the neighboring states. Definitely a trip doing at least once.
 
 <a href="http://shrsl.com/1talq" rel="nofollow">Click </a> for day activities & tours in Chattanooga
+
+Dont forget to check out my other blog [10 Fun Things To Do in Chattanooga](https://www.skytravelblogger.com/10-fun-things-to-do-in-chattanooga/ "10 Fun Things To Do in Chattanooga")

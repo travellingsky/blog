@@ -77,6 +77,6 @@ fields:
   config:
     labelField: pin_description
 pages:
+- content/riviera-maya-mexico.md
 - content/things-to-do-in-chattanooga.md
 - content/weekend-getaway-chattanooga-tn.md
-- content/riviera-maya-mexico.md

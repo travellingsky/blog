@@ -1,6 +1,6 @@
 ---
 title: 20 Best Things To Do in Cambridge, England
-slug: '20-best-things-to-do-in-cambridge-england'
+slug: 20-best-things-to-do-in-cambridge-england
 date: 2019-09-02T08:46:10.000+00:00
 description: When traveling to London, England, consider taking a day trip to explore
   the English countryside.  Cambridge is only two hours away and offers beautiful
@@ -141,7 +141,7 @@ Cotswold for us was a day trip. We had a car at our disposal which was great sin
 
 <center><img src="/uploads/BourtonOnTheWaterStream.jpg" alt="Bourton On The Water"  style="width: 50%" /><figcaption> Bourton On The Water</figcaption></center>
 
-First we visited <a href="[https://www.bourtoninfo.com/](https://www.bourtoninfo.com/ "https://www.bourtoninfo.com/")" rel="nofollow">Bourton on the Water</a>, its a small village with the cutest little river going thru it. Bourton has so many cute little tourist attractions to check out while there:
+First we visited <a href="https://www.bourtoninfo.com/" rel="nofollow">Bourton on the Water</a>, its a small village with the cutest little river going thru it. Bourton has so many cute little tourist attractions to check out while there:
 
 * Model Village – 1:9 replica of the village
 * Model Railway
@@ -166,13 +166,13 @@ After strolling along the river and kids playing in the clean stream of water, w
 
 ## Bibury Village
 
-A tiny little village in Gloucestershire, England was not a place I was expecting to spend the second part of my day. After spending the morning in Bourton on the Water we drove to <a href="[https://www.bibury.com/](https://www.bibury.com/ "https://www.bibury.com/")" rel="nofollow">Bibury</a>.
+A tiny little village in Gloucestershire, England was not a place I was expecting to spend the second part of my day. After spending the morning in Bourton on the Water we drove to <a href="https://www.bibury.com/" rel="nofollow">Bibury</a>.
 
 I don’t think i had ever visited a village quite like this one.
 
 <center><img src="/uploads/BiburyVillage.jpg" alt="Bibury Village"  style="width: 50%" /><figcaption> Bibury Village</figcaption></center>
 
-<a href="[https://www.bibury.com/](https://www.bibury.com/ "https://www.bibury.com/")" rel="nofollow">Bibury</a> is a small little town in the rural part of Cotswold. If you like quiet places then this place is definitely for you. It has a nice country feel to the town, which little path ways, a stream going thru the center, and Cotswold stone cottages and walls giving the wonderful feel of the town.  
+<a href="https://www.bibury.com/" rel="nofollow">Bibury</a> is a small little town in the rural part of Cotswold. If you like quiet places then this place is definitely for you. It has a nice country feel to the town, which little path ways, a stream going thru the center, and Cotswold stone cottages and walls giving the wonderful feel of the town.  
 Its a wonderful place for a picnic or to pick up some small items from the village shops. The main attraction in Bibury is the Bibury Trout Farm right off the main road. Its one of the oldest trout farms in the country, and has visitors from afar.
 
 {{< load_photoswipe >}}

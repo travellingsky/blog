@@ -49,8 +49,6 @@ There are so many restaurants to choose from and the food is great. Great variet
 
 {{< figure src="/uploads/OutdoorSeating.jpg" caption="Outdoor Seating">}}
 
-{{< figure src="/uploads/Walkway.jpg" caption="Resort Walkway">}}
-
 {{< /gallery >}}
 
 ## ​Laguna Villa at The Grand Sunset Princess Resort

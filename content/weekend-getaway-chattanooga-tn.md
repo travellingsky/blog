@@ -32,7 +32,7 @@ The little Cafe was very reasonable priced with many options for food to suit ev
 
 Check out some great  <a href="http://www.anrdoezrs.net/click-9165033-13526556?sid=5224213" >weekend getaway </a> deals
 
-<a href="[http://shrsl.com/1talq](http://shrsl.com/1talq "http://shrsl.com/1talq")" rel="nofollow">Click </a> for day activities & tours in Chattanooga
+<a href="http://shrsl.com/1talq" rel="nofollow">Click </a> for day activities & tours in Chattanooga
 
 ## Rock City Gardens
 

@@ -104,4 +104,4 @@ Time Needed – 2 Hours
 
 If you enjoy visiting distilleries than this is the place to visit. This <a href="https://chattanoogawhiskey.com/" rel="nofollow">distillery</a> uses barley, corn and rye to process through cooking, fermenting, distilling and bottling to make a great tasting local whiskey.
 
-<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781537072" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/67633/SITours/cambridge-food-tour-in-cambridge-573395.jpg" border="0"><br>Cambridge Food Tour</a>
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781537072" rel="nofollow" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/67633/SITours/cambridge-food-tour-in-cambridge-573395.jpg" border="0"><br>Cambridge Food Tour</a>

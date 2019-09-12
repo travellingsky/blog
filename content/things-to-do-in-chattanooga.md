@@ -74,8 +74,6 @@ Time Needed – 1-2 hours
 
 {{< figure src="/uploads/RubyFalls.jpg" caption="Entrance to Ruby Falls">}}
 
-{{< figure src="/uploads/RubyFallsCave.JPG" caption="Ruby Falls Caves">}}
-
 {{< figure src="/uploads/RubyFallsWaterfall.JPG" caption="The Ruby Falls Waterfall">}}
 
 {{< /gallery >}}

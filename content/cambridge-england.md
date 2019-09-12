@@ -143,7 +143,7 @@ If you fit Cambridge into your schedule its definitely worth a visit. Visit the 
 
 ## Visit the nearby Cotswold Villages
 
-<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=705936956" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/29947/SITours/private-cotswold-villages-from-london-burford-stow-on-the-wold-in-london-423877.jpg" border="0"><br/>Private Cotswold Villages from London: Burford, Stow-on-the-Wold</a><br>from: <b>Viator</b>
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=705936956" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/29947/SITours/private-cotswold-villages-from-london-burford-stow-on-the-wold-in-london-423877.jpg" border="0"><br/>Private Cotswold Villages from London: Burford, Stow-on-the-Wold</a><br>from: <b>Viator</b></center>
 
 Cotswold for us was a day trip. We had a car at our disposal which was great since there were a lot of us. We packed a picnic of sandwiches, chips and drinks and we were off. Cotswold is an not too far from Cambridge fill of scenic rolling hills. Its actually quite amazing the way the hills lay. Cotswold is made up of many tiny villages. We visited a couple of them. Both very different from each other, which gave them there own sense of uniqueness. This was a fun trip, and the kids had a place.
 

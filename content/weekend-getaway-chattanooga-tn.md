@@ -12,9 +12,9 @@ type = "post"
 +++
 Sometimes it’s the last-minute trips that are so much fun. Fortunately living in Atlanta, Georgia is the perfect distance away from so many nearby states. A holiday weekend approached and deciding what we should do was a small dilemma because we only had 1 night, we could spend away due to a family event that we had committed too.
 
-We decided we were going to visit <a href="[https://www.lookoutmountain.com/](https://www.lookoutmountain.com/ "https://www.lookoutmountain.com/")" rel="nofollow">Lookout Mountain</a> in <a href="[https://www.chattanoogafun.com/](https://www.chattanoogafun.com/ "https://www.chattanoogafun.com/")"rel="nofollow">Chattanooga, Tennessee.</a> A beautiful little city only about 2 hours away from downtown Atlanta was the perfect destination. So many great activities and things to do and the perfect little getaway for the kids after a busy month at school.
+We decided we were going to visit <a href="https://www.lookoutmountain.com/" rel="nofollow">Lookout Mountain</a> in <a href="https://www.chattanoogafun.com/"rel="nofollow">Chattanooga, Tennessee.</a> A beautiful little city only about 2 hours away from downtown Atlanta was the perfect destination. So many great activities and things to do and the perfect little getaway for the kids after a busy month at school.
 
-We arrived in Chattanooga at around 11am and headed straight to <a href="[https://www.rubyfalls.com/](https://www.rubyfalls.com/ "https://www.rubyfalls.com/")"rel="nofollow">Ruby Falls</a>. Having visited Ruby Falls many times more than 7-10 years ago, and never having issues with tickets, we hadn’t bought tickets ahead of time. Our mistake ☹
+We arrived in Chattanooga at around 11am and headed straight to <a href="https://www.rubyfalls.com/"rel="nofollow">Ruby Falls</a>. Having visited Ruby Falls many times more than 7-10 years ago, and never having issues with tickets, we hadn’t bought tickets ahead of time. Our mistake ☹
 
 <center><img src="/uploads/LookoutMountain.jpg" alt="Lookout Mountain"  style="width: 50%" /><figcaption> Lookout Mountain</figcaption></center>
 
@@ -22,7 +22,7 @@ We arrived in Chattanooga at around 11am and headed straight to <a href="[https:
 
 We were not able to get tickets until 6.45pm. A bit of a long wait but for us that was ok, since we had other things we could do in between. After buying the package deal for Ruby Falls and Rock City, we started to head to Rock City.
 
-On the way we came across this beautiful little cafe called <a href="[http://www.cafeonthecornerlookoutmountain.com/menu](http://www.cafeonthecornerlookoutmountain.com/menu "http://www.cafeonthecornerlookoutmountain.com/menu")"rel="nofollow">Café on the Corner</a>. It was the perfect spot to stop for brunch. The cafe is located on a Y intersection, with very tidy and clean indoor seating with lovely outdoor patio seating as well. We sat indoor due to the heat, but if it wasn’t so hot, outdoors would have been wonderful. A lot of people were sitting outdoors under the right red umbrellas.
+On the way we came across this beautiful little cafe called <a href="http://www.cafeonthecornerlookoutmountain.com/menu"rel="nofollow">Café on the Corner</a>. It was the perfect spot to stop for brunch. The cafe is located on a Y intersection, with very tidy and clean indoor seating with lovely outdoor patio seating as well. We sat indoor due to the heat, but if it wasn’t so hot, outdoors would have been wonderful. A lot of people were sitting outdoors under the right red umbrellas.
 
 {{< load_photoswipe >}} {{< gallery >}} {{< figure src="/uploads/CafeOnTheCorner Sign.jpg" caption="CafeOnTheCorner">}} {{< figure src="/uploads/CafeOnTheCorner.jpg" caption="CafeOnTheCorner">}} {{< /gallery >}}
 
@@ -30,7 +30,7 @@ The little Cafe was very reasonable priced with many options for food to suit ev
 
 <center><img src="/uploads/CafeOnTheCornerFood.jpg" alt="CafeOnTheCorner"  style="width: 50%" /><figcaption> Cafe On The Corner </figcaption></center>
 
-Check out some great  <a href="[http://www.anrdoezrs.net/click-9165033-13526556?sid=5224213](http://www.anrdoezrs.net/click-9165033-13526556?sid=5224213 "http://www.anrdoezrs.net/click-9165033-13526556?sid=5224213")" >weekend getaway </a> deals
+Check out some great  <a href="http://www.anrdoezrs.net/click-9165033-13526556?sid=5224213" >weekend getaway </a> deals
 
 ## Rock City Gardens
 
@@ -38,7 +38,7 @@ Check out some great  <a href="[http://www.anrdoezrs.net/click-9165033-13526556?
 
 Lookout Mountain, GA 30750
 
-We finally made it to <a href="[https://www.seerockcity.com](https://www.seerockcity.com "https://www.seerockcity.com")"rel="nofollow">Rock City</a>. Rock City Gardens is one of my favorite spots in Chattanooga located on top of Lookout Mountain. I love the fact that each corner of the park is different, they make it fun for everyone with funny little names for the different sections that make it interesting to explore. Places like the Grand Corridor, Needle’s Eye, Gnome Valley and so many more make it fun and interesting. If you’re Gnome fan, then keep your eyes wide open, there are many of them hiding amongst the different bushes and spots.
+We finally made it to <a href="https://www.seerockcity.com"rel="nofollow">Rock City</a>. Rock City Gardens is one of my favorite spots in Chattanooga located on top of Lookout Mountain. I love the fact that each corner of the park is different, they make it fun for everyone with funny little names for the different sections that make it interesting to explore. Places like the Grand Corridor, Needle’s Eye, Gnome Valley and so many more make it fun and interesting. If you’re Gnome fan, then keep your eyes wide open, there are many of them hiding amongst the different bushes and spots.
 
 {{< load_photoswipe >}} {{< gallery >}} {{< figure src="/uploads/RockCityPathway.jpg" caption="Rock City">}} {{< figure src="/uploads/FatManSqueeze.jpg" caption="Rock City">}} {{< figure src="/uploads/RockCityPath.jpg" caption="Rock City">}} {{< /gallery >}}
 
@@ -62,7 +62,7 @@ Chattanooga, TN 37409
 
 <center><img src="/uploads/RubyFalls.jpg" alt="RubyFalls"  style="width: 50%" /><figcaption>RubyFalls </figcaption></center>
 
-After a wonderful afternoon at <a href="[https://www.seerockcity.com](https://www.seerockcity.com "https://www.seerockcity.com")"rel="nofollow">Rock City</a>, we headed back to <a href="[https://www.rubyfalls.com/](https://www.rubyfalls.com/ "https://www.rubyfalls.com/")"rel="nofollow">Ruby Falls</a> (after we freshened up at our hotel).
+After a wonderful afternoon at <a href="https://www.seerockcity.com"rel="nofollow">Rock City</a>, we headed back to <a href="https://www.rubyfalls.com/"rel="nofollow">Ruby Falls</a> (after we freshened up at our hotel).
 
 I wasn’t sure if this is something the kids would like, but they loved it. They liked it more than Rock City even, but I think the heat had a lot to do with that.
 
@@ -76,11 +76,11 @@ The cave is made interesting for the young and the old, as there are labels ever
 
 {{< load_photoswipe >}} {{< gallery >}} {{< figure src="/uploads/LeaningTower.jpg" caption="Ruby Falls">}} {{< figure src="/uploads/Chandeliar.jpg" caption="Ruby Falls">}} {{< figure src="/uploads/Beehive.jpg" caption="Ruby Falls">}} {{< /gallery >}}
 
-Of course, the highlight of the Cave is Ruby Falls. As you get closer to the end of the cave, the lights are switched off, and you enter this open area, where all you hear is the water. The lights get switched on and a breathtaking scene is in front of you. The beautiful waterfall right before your eyes, is extraordinarily perfect. You really don’t want to leave this area, but you must move on. Explorers are unsure where this water comes from, they have tried to follow the upstream flow but have been unsuccessful. Check out the history of Ruby Falls <a href="[https://www.rubyfalls.com/things-to-do/cave-tours/ruby-falls-history/](https://www.rubyfalls.com/things-to-do/cave-tours/ruby-falls-history/ "https://www.rubyfalls.com/things-to-do/cave-tours/ruby-falls-history/")" rel="nofollow">Here</a>
+Of course, the highlight of the Cave is Ruby Falls. As you get closer to the end of the cave, the lights are switched off, and you enter this open area, where all you hear is the water. The lights get switched on and a breathtaking scene is in front of you. The beautiful waterfall right before your eyes, is extraordinarily perfect. You really don’t want to leave this area, but you must move on. Explorers are unsure where this water comes from, they have tried to follow the upstream flow but have been unsuccessful. Check out the history of Ruby Falls <a href="https://www.rubyfalls.com/things-to-do/cave-tours/ruby-falls-history/" rel="nofollow">Here</a>
 
 ## White Water Rafting – Ocoee River
 
-The following day before heading back home, we had bought a <a href="[https://www.groupon.com/deals/high-country-adventures-16-24](https://www.groupon.com/deals/high-country-adventures-16-24 "https://www.groupon.com/deals/high-country-adventures-16-24")" rel="nofollow">Groupon</a> for White Water Rafting
+The following day before heading back home, we had bought a <a href="https://www.groupon.com/deals/high-country-adventures-16-24" rel="nofollow">Groupon</a> for White Water Rafting
 
 {{< load_photoswipe >}}
 {{< gallery >}}

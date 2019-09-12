@@ -16,6 +16,8 @@ tags:
 ---
 Who would have guessed that Punta Cana in the Dominican Republic would be so scenic. This gorgeous island is filled with Palm trees and Coconut trees. This was a family trip with our family parents and all for as a birthday celebration for my dad who turned 70. This was a fun vacation for all there, children, us and both mine and my husband’s parents. Everyone had a great time with plenty to do for everything. Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at <a href="https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331" rel="nofollow">Barcelo Bavaro Palace Deluxe </a>, a great resort for families.
 
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781513419" target="_blank">Private Transfer from Punta Cana Airport to or from Punta Cana and Bavaro Hotels</a>
+
 ## Things to do in Punta Cana
 
 Punta Cana is a place for people who love the outdoor activities. Great activities are available for
@@ -31,9 +33,11 @@ Punta Cana is a place for people who love the outdoor activities. Great activiti
 * reef exploring,
 * and visiting small islands like Saona and Catalina.
 
-Check out some great <a href="http://www.kqzyfj.com/click-9165033-12931579?sid=5224213" rel="nofollow"> hotels</a> to stay in Punta Cana for under $200.
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=601908879" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/17295/SITours/punta-cana-half-day-catamaran-cruise-with-snorkeling-in-punta-cana-321564.jpg" border="0"><br>Punta Cana Half-Day Catamaran Cruise with Snorkeling</a></center>
 
-Click here for some great hotels <a href="http://www.kqzyfj.com/click-9165033-12931579?sid=5224213" rel="nofollow"> Click here</a>  for some great hotels.
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=538282233" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5953/SITours/punta-cana-combo-tour-speedboat-ride-snuba-and-snorkeling-in-punta-cana-145678.jpg" border="0"><br/>Punta Cana Combo Tour: Speedboat Ride, Snuba and Snorkeling</a><br>from: <b>Viator</b></center>
+
+Check out some great <a href="[http://www.kqzyfj.com/click-9165033-12931579?sid=5224213](http://www.kqzyfj.com/click-9165033-12931579?sid=5224213 "http://www.kqzyfj.com/click-9165033-12931579?sid=5224213")" rel="nofollow"> hotels</a> to stay in Punta Cana for under $200.
 
 ## The Resort: Barcelo Bavaro Palace Deluxe – All Inclusive
 

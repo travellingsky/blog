@@ -139,8 +139,6 @@ Outside of Tulum, are many little vendors selling hand crafted items, as well as
 
 {{< figure src="/uploads/Masks.jpg" caption="5th Avenue Shopping">}}
 
-{{< figure src="/uploads/5th Avenue.jpg" caption="5th Avenue Shopping">}}
-
 {{< figure src="/uploads/ChichenItza.jpg" caption="5th Avenue Shopping">}}
 
 {{< /gallery >}}

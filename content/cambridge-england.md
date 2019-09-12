@@ -64,6 +64,8 @@ The Bridge is actually made from straight timbers, even though the shape of the 
 
 ## Take a Cambridge University Tour
 
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=705932541" target="_blank"><img alt="" src="![](https://cache-graphicslib.viator.com/graphicslib/thumbs75/47694/SITours/1-5-hour-cambridge-and-cambridge-colleges-walking-tour-in-cambridge-442847.jpg)" border="0"><br/>1.5-hour Cambridge and Cambridge Colleges Walking Tour</a><br>from: <b>Viator</b>
+
 You can take a University Tour, or do a Self Guided tour visiting as many or little of the University Institutions or Colleges that you like. Each college is unique in its own way, so a pleasant afternoon to check out what each college has to offer.
 
 <center><img src="/uploads/Cambridge University Tour.jpg" alt="Cambridge University Tour"  style="width: 70%" /><figcaption> Queens College</figcaption></center>

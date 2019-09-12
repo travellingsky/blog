@@ -28,8 +28,6 @@ Not knowing anything besides Cambridge being a College town, we were in total lo
 
 {{< figure src="/uploads/TrinityCollege.jpg" caption="Trinity College">}}
 
-{{< figure src="/uploads/QueensCollege.jpg" caption="Queens College">}}
-
 {{< /gallery >}}
 
 As we walked, we checked out many of the colleges along the way, Trinity Hall, Trinity College, Kings College. Even saw the Corpus Clock which was very interesting.

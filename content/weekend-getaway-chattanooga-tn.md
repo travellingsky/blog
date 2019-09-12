@@ -32,6 +32,8 @@ The little Cafe was very reasonable priced with many options for food to suit ev
 
 Check out some great  <a href="http://www.anrdoezrs.net/click-9165033-13526556?sid=5224213" >weekend getaway </a> deals
 
+<a href="[http://shrsl.com/1talq](http://shrsl.com/1talq "http://shrsl.com/1talq")" rel="nofollow">Click </a> for day activities & tours in Chattanooga
+
 ## Rock City Gardens
 
 1400 Patten Rd
@@ -95,3 +97,5 @@ Kids had the thrill of their life, they sat in the front of the raft because tha
 The rapids were between level 2-4, so it was a nice mix of rapids which made it fun and enjoyable without being too crazy especially for first timers and luckily no one in our raft fell out. There were several fall outs from other rafts, but no injuries. In the middle in a calm spot all the guides did stop to let people jump off the raft and enjoy the cold 65-degree water. The staff were fun, and very helpful. They made it entertaining and enjoyable for everyone there. I know for sure we will be back here again very shortly.
 
 Our weekend getaway was then over and we headed back home. This trip was an overnight getaway for couples of families if you are short on time, and live close to one of the neighboring states. Definitely a trip doing at least once.
+
+<a href="http://shrsl.com/1talq" rel="nofollow">Click </a> for day activities & tours in Chattanooga

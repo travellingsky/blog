@@ -113,8 +113,6 @@ When we go to resorts I love the evening atmosphere. One night the resort had st
 
 {{< gallery >}}
 
-{{< figure src="/uploads/EveningInResort.jpg" caption="Evenings in the Resort">}}
-
 {{< figure src="/uploads/EveningHangout.jpg" caption="Evenings in the Resort">}}
 
 {{< figure src="/uploads/ResortAtNight.jpg" caption="Evenings in the Resort">}}

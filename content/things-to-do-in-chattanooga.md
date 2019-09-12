@@ -12,6 +12,8 @@ type = "post"
 +++
 <a href="https://www.chattanoogafun.com" rel="nofollow">Chattanooga</a> is a great vacation spot to get away from the busy life of the neighboring cities and states. Perfect destination especially for us who live in Atlanta because there is so much culture and so many things to do for people of all ages. The night life is great and so many great restaurants to choose from. So many places to visit from art galleries to beautiful scenic gardens and see exotic waterfalls.
 
+<a href="http://shrsl.com/1talq" rel="nofollow">Click </a> for day activities & tours in Chattanooga.
+
 ## Tennessee Aquarium
 
 Time Needed – 2 to 4 hours
@@ -24,7 +26,7 @@ The staff are very knowledgeable and there are plenty of Keeper Talks and a Secr
 
 Time Needed – 1-2 hours
 
-It takes approximately 1-2 hours to explore the <a href="https://bluffviewartdistrictchattanooga.com/" rel="nofollow">Bluff View Art District</a> gardens. Its located overlooking the Tennessee River in Downtown Chattanooga. The part has so much character to it, with a great deal of public artwork, vines that hug the buildings and so many small eateries to give the homely effect. The art district is also home to 3 art institutions, <a href="https://www.thehoustonmuseum.org/" rel="nofollow">The Houston Museum of Decorative Arts</a> which displays Victorian Art Glass and Antiques. The Hunter Museum of American Art which is the biggest institution here which features housework from Andy Warhol and Monet, and <a href="https://www.river-gallery.com/" rel="nofollow">The River Gallery</a> which displays a lovely sculpture Garden.  
+It takes approximately 1-2 hours to explore the <a href="https://bluffviewartdistrictchattanooga.com/" rel="nofollow">Bluff View Art District</a> gardens. Its located overlooking the Tennessee River in Downtown Chattanooga. The part has so much character to it, with a great deal of public artwork, vines that hug the buildings and so many small eateries to give the homely effect. The art district is also home to 3 art institutions, <a href="https://www.thehoustonmuseum.org/" rel="nofollow">The Houston Museum of Decorative Arts</a> which displays Victorian Art Glass and Antiques. The Hunter Museum of American Art which is the biggest institution here which features housework from Andy Warhol and Monet, and <a href="https://www.river-gallery.com/" rel="nofollow">The River Gallery</a> which displays a lovely sculpture Garden.
 
 ## Chattanooga Choo Choo
 

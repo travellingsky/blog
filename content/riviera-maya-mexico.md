@@ -65,7 +65,7 @@ The rooms were both very beautiful, but we loved the Laguna Villa room. It’s h
 
 Of course the best part of the resort is the pool. They have a great swim up bar which is perfect in the hot weather. They have little sitting areas within the pool which makes it a nice place to sit and relax with a drink, or even just do some people watching.
 
-<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=689203835" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/6200/SITours/luxury-sailing-and-snorkeling-in-the-riviera-maya-including-lunch-in-playa-del-carmen-380646.jpg" border="0"><br/>Luxury Sailing and Snorkeling in the Riviera Maya Including Lunch</a><br>from: <b>Viator</b>
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=689203835"rel="nofollow"  target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/6200/SITours/luxury-sailing-and-snorkeling-in-the-riviera-maya-including-lunch-in-playa-del-carmen-380646.jpg" border="0"><br/>Luxury Sailing and Snorkeling in the Riviera Maya Including Lunch</a><br>from: <b>Viator</b></center>
 
 They have great daytime entertainment at the resort. We had so much fun doing salsa lessons along the pool side, as well as doing pottery painting with the kids. It’s not something we had ever done before so we really enjoyed it. Always up for doing different things.
 
@@ -130,6 +130,8 @@ When we go to resorts I love the evening atmosphere. One night the resort had st
 <center> <div style=”width:45%”><img src="/uploads/Tulum Ocean View.jpg" alt="Tulum Ocean View"  style="width: 45%" />     <img src="/uploads/TulumSideView.jpg" alt="Tulum Outdoors"  style="width: 45%" /></div></center>
 
 After spending so much time in a beautiful resort, who would have thought there was more beauty to see. Well I was wrong. A short bus ride away is Tulum. With ancient ruins and so much to learn about the history, it was a lovely experience. Only problem was it was way too hot, so we left a little earlier than I had hoped, but it was still a beautiful place. If you walk to the edge of the ruins, you will see the beautiful view over the ocean between the trees. The views were remarkable, and there were so many people there. Definitely a must see if you’re in that area.
+
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781517227" rel="nofollow" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/23698/SITours/tulum-mayan-ruins-and-playa-del-carmen-shopping-tour-combo-from-in-playa-del-carmen-568616" border="0"><br/>Tulum Mayan Ruins & Playa del Carmen Shopping Tour Combo from Riviera Maya</a><br>from: <b>Viator</b></center>
 
 Outside of Tulum, are many little vendors selling hand crafted items, as well as performers performing little shows for the shoppers. The performers were kind of scary looking with masks and there makeup but the kids loved it.
 

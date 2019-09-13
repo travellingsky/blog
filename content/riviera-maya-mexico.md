@@ -14,6 +14,8 @@ Picking the right resort is essential when vacationing, and for us the <<a href=
 
 Right from the moment you walk into the foyer until the time you leave you feel like royalty. First we were greeted with a non alcoholic drink, which was nice and refreshing in the heat, before we even checked in for our room. The initial impression was "Wow".
 
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=30272&userID=2167244&productID=475915641" target="_blank" rel="nofollow"><img alt="" src="http://www.hotelingo.com/idb/fe5926ddbfd22165.png" border="0"><br/>Hotel Grand Sunset Princess</a><br>from: <b>Princess Hotels</b></center>
+
 ## Important Facts about the Grand Sunset Princess Resort
 
 The Grand Sunset Princess resort in Riviera Maya consists of:
@@ -52,6 +54,8 @@ There are so many restaurants to choose from and the food is great. Great variet
 {{< /gallery >}}
 
 ## ​Laguna Villa at The Grand Sunset Princess Resort
+
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=30272&userID=2167244&productID=475915641" target="_blank" rel="nofollow"><img alt="" src="http://www.hotelingo.com/idb/fe5926ddbfd22165.png" border="0"><br/>Hotel Grand Sunset Princess</a><br>from: <b>Princess Hotels</b></center>
 
 This trip happened to be during our 10 year anniversary. So my husband and I stayed in the Laguna Villa (which is in an adults only section of the resort), the kids stayed with my in-laws in a regular room at the resort.
 

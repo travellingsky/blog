@@ -18,6 +18,8 @@ Who would have guessed that Punta Cana in the Dominican Republic would be so sce
 
 <a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781513419" rel="nofollow" target="_blank">Private Transfer from Punta Cana Airport to or from Punta Cana and Bavaro Hotels</a>
 
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=30272&userID=2167244&productID=475915637" target="_blank" rel="nofollow"><img alt="" src="http://www.hotelingo.com/idb/f81a32a63c3400a7.png" border="0"><br/>Great deals at Hotel Punta Cana Princess</a><br>from: <b>Princess Hotels</b></center>
+
 ## Things to do in Punta Cana
 
 Punta Cana is a place for people who love the outdoor activities. Great activities are available for
@@ -41,7 +43,7 @@ Check out some great <a href="http://www.kqzyfj.com/click-9165033-12931579?sid=5
 
 ## The Resort: Barcelo Bavaro Palace Deluxe – All Inclusive
 
-<center><img src="/uploads/Barcelo Bavaro Palace Deluxe.jpg" alt="Barcelo Bavaro Deluxe – All Inclusive"  style="width: 50%" rel="nofollow" /><figcaption> Barcelo Bavaro Palace Deluxe – All Inclusive </figcaption></center>
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=30272&userID=2167244&productID=475915636" target="_blank" rel="nofollow"><img alt="" src="http://www.hotelingo.com/idb/f038c7d7459f6751.png" border="0"><br/>Hotel Bavaro Princess - All Inclusive</a><br>from: <b>Princess Hotels</b></center>
 
 Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at <a href="https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331" rel="nofollow">Barcelo Bavaro Palace Deluxe</a>, a great resort for families. The pools were beautiful, the beach was fantastic, and food was great, so many options to choose from. Many people I’m sure have destination weddings here. It’s a great place for some lovely photos. We actually saw a destination wedding happening in a little kiosk right in front of the beach. It was so beautiful. The bridal party looked wonderful in matching outfits, I’m sure there pictures come our exquisite.
 

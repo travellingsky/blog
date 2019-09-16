@@ -194,3 +194,5 @@ Its a wonderful place for a picnic or to pick up some small items from the villa
 {{< /gallery >}}
 
 <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781537072" rel="nofollow" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/67633/SITours/cambridge-food-tour-in-cambridge-573395.jpg" border="0"><br>Cambridge Food Tour</a></center>
+
+<div id="amzn-assoc-ad-3d9ffdca-5340-43d5-a158-69e87e65f116"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3d9ffdca-5340-43d5-a158-69e87e65f116"></script>

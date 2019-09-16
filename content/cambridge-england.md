@@ -195,4 +195,32 @@ Its a wonderful place for a picnic or to pick up some small items from the villa
 
 <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781537072" rel="nofollow" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/67633/SITours/cambridge-food-tour-in-cambridge-573395.jpg" border="0"><br>Cambridge Food Tour</a></center>
 
-<div id="amzn-assoc-ad-39d57895-4766-4bc5-a602-648863b0607b"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=39d57895-4766-4bc5-a602-648863b0607b"></script>
+<script type="text/javascript">
+
+amzn_assoc_placement = "adunit0";
+
+amzn_assoc_search_bar = "true";
+
+amzn_assoc_tracking_id = "sky77-20";
+
+amzn_assoc_search_bar_position = "bottom";
+
+amzn_assoc_ad_mode = "search";
+
+amzn_assoc_ad_type = "smart";
+
+amzn_assoc_marketplace = "amazon";
+
+amzn_assoc_region = "US";
+
+amzn_assoc_title = "Shop Related Products";
+
+amzn_assoc_default_search_phrase = "Cambridge University";
+
+amzn_assoc_default_category = "All";
+
+amzn_assoc_linkid = "5d3b1a5626f3ac61319318a7ab081f71";
+
+</script>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>

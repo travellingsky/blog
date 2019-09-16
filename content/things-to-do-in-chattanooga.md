@@ -107,3 +107,5 @@ If you enjoy visiting distilleries than this is the place to visit. This <a href
 <a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781537072" rel="nofollow" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/67633/SITours/cambridge-food-tour-in-cambridge-573395.jpg" border="0"><br>Cambridge Food Tour</a>
 
 [Check out](https://www.skytravelblogger.com/chattanoogagetaway/ "Weekend Getaway to Chattanooga") our vacation to Chattanooga and our time with the family
+
+<div id="amzn-assoc-ad-3be00226-1bb8-4f60-92fb-a2b47aa9593c"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3be00226-1bb8-4f60-92fb-a2b47aa9593c"></script>

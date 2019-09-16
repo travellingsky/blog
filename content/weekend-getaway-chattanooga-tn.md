@@ -101,3 +101,5 @@ Our weekend getaway was then over and we headed back home. This trip was an over
 <a href="http://shrsl.com/1talq" rel="nofollow">Click </a> for day activities & tours in Chattanooga
 
 Dont forget to check out my other blog [10 Fun Things To Do in Chattanooga](https://www.skytravelblogger.com/10-fun-things-to-do-in-chattanooga/ "10 Fun Things To Do in Chattanooga")
+
+<div id="amzn-assoc-ad-3be00226-1bb8-4f60-92fb-a2b47aa9593c"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3be00226-1bb8-4f60-92fb-a2b47aa9593c"></script>

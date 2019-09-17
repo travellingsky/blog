@@ -76,6 +76,14 @@ fields:
     description: Pin Description
   config:
     labelField: pin_description
+- name: aliases
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Aliases
+  description: Old URLs that should redirect to this page so users don't get a 404.
 pages:
 - content/weekend-getaway-chattanooga-tn.md
 - content/things-to-do-in-chattanooga.md

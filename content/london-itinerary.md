@@ -5,9 +5,9 @@ description = "Short amount of time, See London sights and how long it takes to 
 draft = true
 image = ""
 pins = []
-slug = "3-day-london-itinerary"
+slug = "5-day-london-itinerary"
 tags = ["London", "London City", "River Thames", "Buckingham Palace", "Royal Parks", "Canary Wharf", "Westminster Cathedral"]
-title = "3 Day - London Itinerary"
+title = "5 Day - London Itinerary"
 type = "post"
 
 +++

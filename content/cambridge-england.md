@@ -14,6 +14,7 @@ tags:
 - Day Trip
 keywords:
 - Beach Vacation
+aliases: ['/cambridgecotswold']
 
 ---
 Not knowing anything besides Cambridge being a College town, we were in total love with the place. Cambridge is such a beautiful historic town, with a Royal feel to it. Its almost 2 hours away by car from Heathrow Airport, it’s very compact and cozy with many little shops and boutiques. We strolled through the streets and visited so many little stores. My cousin and her family live there, which is why we made the trip to spend time with them, but the trips was fantastic. So glad we visited

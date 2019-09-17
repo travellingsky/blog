@@ -15,5 +15,6 @@ jobs:
         uses: benmatselby/hugo-deploy-gh-pages@master
         env:
           HUGO_VERSION: 0.57.2
-          TARGET_REPO: travellingsky/blog
+          TARGET_REPO: travellingsky/travellingsky.github.io
           TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_ACTOR: forestry.io

@@ -7,7 +7,7 @@ image = ""
 pins = []
 slug = ""
 tags = []
-title = "To Do in London - Incomplete"
+title = "To Do in London"
 type = "post"
 
 +++

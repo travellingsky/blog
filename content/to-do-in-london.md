@@ -6,7 +6,7 @@ draft = true
 image = ""
 pins = []
 slug = ""
-tags = []
+tags = ["London", " London City"]
 title = "To Do in London"
 type = "post"
 
@@ -23,7 +23,7 @@ This is the business district of London. So many high rises that surround the di
 
 The <a href="http://www.westminstercathedral.org.uk/" rel="nofollow"> Westminster Cathedral </a> is where the seat of the Cardinal Archbishop of Westminster is located and it’s also known as the Mother Church for Roman Catholics of Wales and England. The Cathedral is free to visit and worth checking out. It has beautiful high altars and grand mosaics inside. The chapel of the Blessed Sacrament is on the north side of the sanctuary, and the Lady Chapel on the south.
 
-## 3) Buckingham Palace
+## 3) Buckingham Palace & Changing of the Guard
 
 The home of the Queen and the Royal family. The <a href=" https://www.rct.uk/visit/the-state-rooms-buckingham-palace" rel="nofollow"> Buckingham Palace </a> you have to see while visiting London. Its mostly crowded with people but never the less checking out this palace is a must see in London. There are also tours available if interested in going inside. Tours of the interior of the palace is only available in the summer from late July until the end of September which the queen is on holiday in Scotland. If the Royal Standard Flag is flying that means the queen is in residences. If its not flying then the Union Jack is flown.
 

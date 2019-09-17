@@ -77,6 +77,7 @@ fields:
   config:
     labelField: pin_description
 pages:
+- content/to-do-in-london-incomplete.md
 - content/weekend-getaway-chattanooga-tn.md
 - content/things-to-do-in-chattanooga.md
 - content/riviera-maya-mexico.md

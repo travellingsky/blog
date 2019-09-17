@@ -1,0 +1,29 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ $title := .Title }}
+{{ $url := printf "%s" .URL | absLangURL }}
+{{ $body := print .Title " - " .Params.description }}
+{{ $pins := .Params.pins }}
+
+{{ if $pins }}
+        <div class="panelShare">
+            {{ range first 1 $pins }}
+                <a href="https://www.pinterest.com/pin/create/button/" data-pin-do="buttonPin" data-pin-custom="true" data-pin-media="{{ .pin_image }}" data-pin-description="{{ .pin_description }}">
+                    <span class="button primary" id="btnShare">Pin This For Later</span>
+                </a>
+            {{ end }}
+                    
+            <div class="accordion" id="pinView">
+                <div class="row">
+                    {{ if $pins }}
+                        {{ range $pins }}
+                        <div class="col-12 post-thumb"><img class="post-thumb" data-src="{{ .pin_image }}" data-pin-description="{{ .pin_description }}"></div>
+                        {{ end }}
+                    {{ end }}
+                </div>
+            </div>
+
+        </div>
+
+{{ end }}
+
+

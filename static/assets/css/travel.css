@@ -35,6 +35,28 @@ section{
     }
 }
 
+.button {
+	background-color: #e60023;
+	box-shadow: none;
+	color: #fff !important;
+	border: 1px solid #e60023;
+	padding: 1em;
+	border-radius: 0.5em;
+	font-weight: bolder;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.panelShare{
+	display: block;
+	text-align: center;
+	padding-bottom: 1em;
+}
+
+#pinView img{
+	padding: 1em;
+}
+
 .about img{
 	margin-left: auto;
 	margin-right: auto;

@@ -13,7 +13,19 @@ type = "post"
 +++
 # Itinerary
 
-We stayed in the Westminster District so this itinerary is from there
+We stayed in the Westminster District so this itinerary is routed from there, but feel free to adjust from wherever you are staying from
+
+We highly recommend you buy these tickets beforehand for these Attractions :
+
+* Buckingham Palace Tour
+* Kensington Palace Tour
+* Westminster Abbey
+* London Eye
+* Tower of London
+* Madam Tussaud's
+* St Paul’s Cathedral
+* Book your afternoon Tea experience
+* And which Day tour you decide to do via Viator
 
 ## Day 1  - Day of Arrival
 

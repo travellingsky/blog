@@ -104,3 +104,31 @@ For us this was the highlight of our time in London. The Tower Bridge is just as
 Tours can be taken of the towers of the tower bridge. We did not do it, but tickets are available for those interested. The bridge also opens up to large boats that travel the River Thames, so if you are able to catch that iconic moment its remarkable.
 
 Spend a few hours hanging out on the lawns on the Southbank side of the bridge. For us it was a wonderful relaxing afternoon.
+
+## Day 4
+
+Check out my Blog Post on things to do in London, there are many 1 day tours to pick from and it’s a nice time away so you can come back finish off what your missed seeing.
+
+## Day 5 - this is essential the day to finish off anything you missed.
+
+* Madame Tussaud's London (We did not do these since we have seen it elsewhere, and we were short on time)
+
+This museum has now become a chain, but it’s a fun walk thru to check out many famous live like statues and great place to take pictures with wax figured celebrities. The old and young both have fun with it.
+
+* Tower of London (Bus or Uber ride or Underground from Madame Tussaud's)
+
+This is a distance from Madame Tussaud's but you most likely won’t have enough time on Day 3 to complete this, so we had to push it out to our left-over day.
+
+I personally didn’t know anything about the Tower of London. I didn’t think much off it, but boy was I wrong. The exterior and village surrounding the Tower of London is lovely, but after you walk inside its like visiting a whole new town.
+
+You will be able to view the Crown Jewels, the Royal Mint, and so many other interesting breathtaking sections, even the kids were all intrigued.
+
+* Afternoon Tea at the Swan (25 Min Walk from Tower of London)
+
+Grand Afternoon Tea at Shakespeare’s Globe after a full-on morning at the Tower of London, is what we needed. A variety of teas to choose from, as well as an option for Mimosa’s in the afternoon with a nice selection of Pastries, sandwiches and desserts to push us thru the afternoon.
+
+* St Paul’s Cathedral (25 Min Walk from Tower of London or 11 Mins Walk from The Swan)
+
+This is an Anglican Cathedral, and the seat of the Bishop of London. It as the highest point of the City of London and has held many funerals and weddings of people. Prince Charles and Princess Diana got married there.
+
+**NOTE:** You may not have enough time to do all of this on Day 5, because Tower of London takes a bit of time, so pick and choose carefully what you decide is important to you. We did the Tower of London, Afternoon Tea and decided to spend the afternoon on the lawns in front of the Tower Bridge because we were not interested in Madame Tussauds and we didn’t have enough time to go to the Cathedral.

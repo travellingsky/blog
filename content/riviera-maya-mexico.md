@@ -1,5 +1,5 @@
 +++
-aliases = ["/rivieramaya/"]
+aliases = ["/rivieramaya", "/rivieramaya/"]
 categories = ["Caribbean Islands"]
 date = "2019-08-01T00:00:00-04:00"
 description = "Read our expert resort review of the Grand Sunset Princess in Riviera Maya, and our best tips for enjoying the resort, and visiting Tulum & Beyond."

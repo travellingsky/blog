@@ -14,7 +14,29 @@ tags:
 - Day Trip
 keywords:
 - Beach Vacation
-aliases: ['/cambridgecotswold']
+aliases:
+- "/cambridgecotswold"
+pins:
+- pin_image: "/uploads/2-day-travel-guide-cambridge.png"
+  pin_description: 'Consider taking a day trip to explore the English countryside
+    when traveling to London England.  Cambridge is a short train ride away and offers
+    beautiful attractions to visit that differ from the usual London attractions.
+    Venture off the beaten path and go punting along the backs or enjoy a tour around
+    the gorgeous Cambridge University while enjoying the traditional English culture.
+    #daytrip #cambridge #england #uk #travel #familytravel #culturetravel'
+- pin_image: "/uploads/ultimate-guide-to-cambridge-england.png"
+  pin_description: 'Our ultimate guide to Cambridge, England guides you on a little
+    known attraction which is just is a short train ride away from London, and offers
+    beautiful attractions to visit that differ from the usual attractions. Enjoy punting
+    along the backs or visit the nearby Cotswold villages while enjoying the traditional
+    English culture. #daytrip #cambridge #england #uk #travel #familytravel #culturetravel
+    #travelguide'
+- pin_image: "/uploads/top-20-things-to-do-in-cambridge-england.png"
+  pin_description: 'Top 20 things to do in Cambridge, England. Enjoy punting along
+    the backs or visit the nearby Cotswold villages while enjoying the traditional
+    English culture. Visit the world renowned Cambridge University with an amazing
+    walking tour. Check out our list of the top 20 things to do in Cambridge.  #daytrip
+    #cambridge #england #uk #travel #familytravel #culturetravel #travelguide'
 
 ---
 Not knowing anything besides Cambridge being a College town, we were in total love with the place. Cambridge is such a beautiful historic town, with a Royal feel to it. Its almost 2 hours away by car from Heathrow Airport, it’s very compact and cozy with many little shops and boutiques. We strolled through the streets and visited so many little stores. My cousin and her family live there, which is why we made the trip to spend time with them, but the trips was fantastic. So glad we visited

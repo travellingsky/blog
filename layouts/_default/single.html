@@ -23,6 +23,10 @@
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
           {{.Content}}
         </article>
+
+        {{ if not (eq .Params.disableComments true) }}
+        {{ template "_internal/disqus.html" . }}
+        {{ end }}
       </div>
       {{partial "sidebar.html" . }}
     </div>

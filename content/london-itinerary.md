@@ -13,7 +13,7 @@ type = "post"
 +++
 # Itinerary
 
-We stayed in the Westminster District so this itinerary is there
+We stayed in the Westminster District so this itinerary is from there
 
 ## Day 1  - Day of Arrival
 

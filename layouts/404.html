@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+  
+
+
+ <section class="section">
+    <div class="container">
+      <div class="row">
+        <header>
+            <h1>Page not found</h1>
+            <p>Anyone seen my passport?</p>
+        </header>
+        {{ if .Params.image }}
+        <div class="image main"><img src="{{ .Params.image | relURL }}" alt="" /></div>
+        {{ end }}
+        {{ .Content }}
+    </div>
+</div>
+        
+    </section>
+
+
+      
+     
+
+{{ end }}

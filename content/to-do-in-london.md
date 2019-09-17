@@ -61,4 +61,18 @@ NOTE: Forbidden items include uniforms; cycling shorts; high-cut shorts, Bermuda
 
 ## 9) Kensington Palace/Kensington Gardens
 
-This was the birthplace for Queen Victoria and the home of many of the Royal family members over the years. Currently the palace is the official residence for the Duke and Duchess of Cambridge (Prince William & Kate) and their children. You are allowed to visit the inside of the palace (buying the tickets before hand is highly recommended though). You can visit the right side of the palace along with the display areas, and state rooms as well as visit some of Queen Victoria’s exhibits. Kensington Garden is part of the palace surrounding the outer rim of the palace. Grand lake and ducks and birds love to hand out there. Is a nice walk
+This was the birthplace for Queen Victoria and the home of many of the Royal family members over the years. Currently the palace is the official residence for the Duke and Duchess of Cambridge (Prince William & Kate) and their children. You are allowed to visit the inside of the palace (buying the tickets before hand is highly recommended though). You can visit the right side of the palace along with the display areas, and state rooms as well as visit some of Queen Victoria’s exhibits. Kensington Garden is part of the palace surrounding the outer rim of the palace. Grand lake and ducks and birds love to hand out there. Is a nice walk.
+
+## 10) Westminster Abbey
+
+This is where it all happens. The Westminster Abbey is located very close to the Buckingham Palace and its where most of the big ceremony’s take place, whether it’s a Royal Wedding, Coronations, such big royal events. The Queen & Prince Phillip got married at Westminster Abbey as well as Prince William and Princess Kate. The Abbey is a Gothic church and has rules that only people allowed to marry in the Abbey are members of the royal family, members of the Order of the Bath and their children and anyone who lives in the Abbey’s precincts. So, weddings here are very rare, but when they happen, they are very special.
+
+The Abbey also has a burial ground next to it, where some of the Monarch is buried, others are buried in Frogmore in Windsor.
+
+## 11) Parliament Square
+
+Located minutes away from Westminster Abbey, this home of parliament in central London is a beautifully structured building, which embraces statues of 12 statesmen and other notable people in parliament. Many demonstrations and protests occur here also. You will find statues of people like Winston Churchill, David Lloyd George, Jan Smuts, Henry John Temple, Edward Smith-Stanley, Benjamin Disraeli, Sir Robert Peel, George Canning, Abraham Lincoln, Nelson Mandela, Mahatma Gandhi & Millicent Fawcett.
+
+## 12) Big Ben
+
+Big Ben is actually called the Great Bell of the Clock, also known as the Clock Tower. Currently the clock is under construction as well as Parliament House but the face of the clock is still visible between the scaffolding. Tours of Big Ben are usually available but are currently suspended due to refurbishment. They are schedule to start back up in 2021.

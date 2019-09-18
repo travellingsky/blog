@@ -128,6 +128,8 @@ This one above is the tour we took and loved it. Below are other options to look
 
 <a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781540887" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/8965/SITours/oxford-stratford-and-cotswolds-villages-small-group-day-tour-from-in-london-250925.jpg" border="0"><br>Oxford Stratford and Cotswolds Villages Small Group Day Tour from London</a></center>
 
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=584111829" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5461/SITours/leeds-castle-canterbury-cathedral-dover-and-greenwich-with-thames-in-london-208365.jpg" border="0"><br/>Leeds Castle, Canterbury Cathedral, Dover and Greenwich with Thames River Cruise Tour from London</a><br>from: <b>Viator</b></center>
+
 ## Day 5 - this is essential the day to finish off anything you missed.
 
 * Madame Tussaud's London (We did not do these since we have seen it elsewhere, and we were short on time)

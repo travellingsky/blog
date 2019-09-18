@@ -1,4 +1,5 @@
 +++
+aliases = []
 categories = ["United States"]
 date = "2019-09-10T00:00:00-04:00"
 description = "So many things to do in Chattanooga, from the river side to exploring the many different waterfalls. Its a perfect getaway from many neighboring cities & states for a day or 2"
@@ -102,7 +103,7 @@ The <a href="https://chattanoogamarket.com" rel="nofollow">Chattanooga Market</a
 
 Time Needed – 2 Hours
 
-If you enjoy visiting distilleries than this is the place to visit. This <a href="https://chattanoogawhiskey.com/" rel="nofollow">distillery</a> uses barley, corn and rye to process through cooking, fermenting, distilling and bottling to make a great tasting local whiskey.
+If you enjoy visiting distilleries then this is the place to visit. This <a href="https://chattanoogawhiskey.com/" rel="nofollow">distillery</a> uses barley, corn and rye to process through cooking, fermenting, distilling and bottling to make a great tasting local whiskey.
 
 <a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781537072" rel="nofollow" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/67633/SITours/cambridge-food-tour-in-cambridge-573395.jpg" border="0"><br>Cambridge Food Tour</a>
 

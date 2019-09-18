@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v1
 
       - name: Checkout submodules
-        uses: chris-short/github-action-git-submodules@v0.1.0
+        uses: textbook/git-checkout-submodule-action@2.0.0
 
       - name: Deploy the site
         uses: amitgandhinz/hugo-deploy-gh-pages@master

@@ -2,7 +2,7 @@
 categories = ["Europe"]
 date = "2019-09-16T00:00:00-04:00"
 description = "Short amount of time, See London sights and how long it takes to get from 1 place to the next."
-image = "/uploads/Tower Bridge London.jpg"
+image = "/uploads/Tower Bridge London-NorthSide.jpg"
 pins = []
 slug = "5-day-london-itinerary"
 tags = ["London", "London City", "River Thames", "Buckingham Palace", "Royal Parks", "Canary Wharf", "Westminster Cathedral", "Itinerary"]

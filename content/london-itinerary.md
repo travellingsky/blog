@@ -6,7 +6,7 @@ draft = true
 image = ""
 pins = []
 slug = "5-day-london-itinerary"
-tags = ["London", "London City", "River Thames", "Buckingham Palace", "Royal Parks", "Canary Wharf", "Westminster Cathedral"]
+tags = ["London", "London City", "River Thames", "Buckingham Palace", "Royal Parks", "Canary Wharf", "Westminster Cathedral", "Itinerary"]
 title = "5 Day - London Itinerary"
 type = "post"
 

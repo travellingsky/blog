@@ -121,7 +121,13 @@ Spend a few hours hanging out on the lawns on the Southbank side of the bridge. 
 
 ## Day 4
 
-Check out my Blog Post on things to do in London, there are many 1 day tours to pick from and it’s a nice time away so you can come back finish off what your missed seeing.
+Check out my [Blog Post on things to do in London](24-things-to-see-in-london "Things to see in London"), there are many 1 day tours to pick from and it’s a nice time away so you can come back finish off what your missed seeing.
+
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781540940" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/8986/SITours/private-full-day-tour-of-windsor-stonehenge-and-bath-from-london-in-london-422879.jpg" border="0"><br>Private Full Day tour of Windsor Stonehenge and Bath from London</a></center>
+
+This one above is the tour we took and loved it
+
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781540882" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/8986/SITours/private-full-day-tour-of-stonehenge-and-bath-from-london-in-london-422847.jpg" border="0"><br>Private Full-Day Tour of  Stonehenge and Bath from London</a><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781540887" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/8965/SITours/oxford-stratford-and-cotswolds-villages-small-group-day-tour-from-in-london-250925.jpg" border="0"><br>Oxford Stratford and Cotswolds Villages Small Group Day Tour from London</a></center>
 
 ## Day 5 - this is essential the day to finish off anything you missed.
 

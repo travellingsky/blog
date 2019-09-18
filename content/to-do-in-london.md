@@ -17,7 +17,7 @@ We recently traveled to London with a group of family and friends. Check out my 
 
 Click [here ](www.skytravelblogger.com/5-day-london-itinerary "5 day Itinerary")for a copy of our 5 day Itinerary to London
 
-Flight <a href="http://www.tkqlhce.com/click-9165033-13252713?sid=5224213" target="_top"> deals </a> up to 50% off to Europe<img src="http://www.ftjcfx.com/image-9165033-13252713" width="1" height="1" border="0"/>
+<a href="http://www.jdoqocy.com/click-9165033-11126857?sid=5224213" target="_top">Looking for Cheap Flights to London? Check out these deals with Vayama. </a><img src="http://www.tqlkg.com/image-9165033-11126857" width="1" height="1" border="0"/>
 
 ## 1) Canary Wharf
 

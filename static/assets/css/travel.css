@@ -8,6 +8,8 @@ h1 {
 }
 h2{
 	font-size: 2em;
+	padding-top: 1em;
+	text-transform: uppercase;
 }
 h3{
 	font-size: 1.5em;
@@ -15,6 +17,11 @@ h3{
 
 section{
 	padding-bottom: 3em;
+}
+
+.content ul,
+.content ul li{
+	margin-bottom: 0 !important;
 }
 
 .bg-secondary{

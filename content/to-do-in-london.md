@@ -23,9 +23,33 @@ Click [here ](www.skytravelblogger.com/5-day-london-itinerary "5 day Itinerary")
 
 This is the business district of London. So many high rises that surround the district. <a href="https://canarywharf.com/" rel="nofollow">Canary Wharf</a> is a busy district especially during work hours with people working in the area. So, what is there to do in Canary wharf, there are many restaurants, gardens, museums all worth checking out. There are many events that happen at Canary Wharf, they have great venues for these events.
 
+{{< load_photoswipe >}}
+
+{{< gallery >}}
+
+{{< figure src="/uploads/Canary Wharf-1.jpg" caption="Canary Wharf">}}
+
+{{< figure src="/uploads/Canary Wharf-2.jpg" caption="Canary Wharf Gardens">}}
+
+{{< /gallery >}}
+
 ## 2) Westminster Cathedral
 
 The <a href="http://www.westminstercathedral.org.uk/" rel="nofollow"> Westminster Cathedral </a> is where the seat of the Cardinal Archbishop of Westminster is located and it’s also known as the Mother Church for Roman Catholics of Wales and England. The Cathedral is free to visit and worth checking out. It has beautiful high altars and grand mosaics inside. The chapel of the Blessed Sacrament is on the north side of the sanctuary, and the Lady Chapel on the south.
+
+{{< load_photoswipe >}}
+
+{{< gallery >}}
+
+{{< figure src="/uploads/Westminster-Cathedral-Outside.jpg" caption="Westminster Cathedral">}}
+
+{{< figure src="/uploads/Westminster-Cathedral-Inside.jpg" caption="Westminster Cathedral">}}
+
+{{< /gallery >}}
+
+Its also a great place to sit and chill with a cup of coffee
+
+<center><img src="/uploads/Westminster-Cathedral-Chlling.jpg" alt="WestminsterCathedral"  style="width: 50%" /><figcaption> Chilling outside the Cathedral </figcaption></center>
 
 ## 3) Buckingham Palace & Changing of the Guard
 
@@ -138,6 +162,14 @@ Some great Day Trips from London. We did a trip and covered so much area in a fu
 <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781540940" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/8986/SITours/private-full-day-tour-of-windsor-stonehenge-and-bath-from-london-in-london-422879.jpg" border="0"><br>Private Full Day tour of Windsor Stonehenge and Bath from London</a></center>
 
 Some other great options you can see in my [5 Day London Itinerary](www.skytravelblogger.com/5-day-london-itinerary "5 Day London Itinerary") or visit <a href="https://shareasale.com/r.cfm?b=828615&u=2167244&m=18208&urllink=&afftrack=">viator, here </a>  for some great prices on Day trips.
+
+ADVICE: 
+
+Buy tickets to attractions before hand
+
+Commuting from London Underground and/or Bus with the Bus pass is very easy to do and you get your money back on the bus pass for the money not spent. Well worth investing in.
+
+Use Google Maps for directions. It makes things easier on routes to take, whether to take the bus or underground. Its all there in the palm of your hand.
 
 Here are some <a href="http://www.anrdoezrs.net/click-9165033-13386346?sid=5224213" target="_top"> amazing flight deals </a> worth looking into for your next vacation to London.<img src="http://www.lduhtrp.net/image-9165033-13386346" width="1" height="1" border="0"/>
 

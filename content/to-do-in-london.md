@@ -17,6 +17,8 @@ We recently traveled to London with a group of family and friends. Check out my 
 
 Click [here ](www.skytravelblogger.com/5-day-london-itinerary "5 day Itinerary")for a copy of our 5 day Itinerary to London
 
+Flight <a href="http://www.tkqlhce.com/click-9165033-13252713?sid=5224213" target="_top"> deals </a> up to 50% off to Europe<img src="http://www.ftjcfx.com/image-9165033-13252713" width="1" height="1" border="0"/>
+
 ## 1) Canary Wharf
 
 This is the business district of London. So many high rises that surround the district. <a href="https://canarywharf.com/" rel="nofollow">Canary Wharf</a> is a busy district especially during work hours with people working in the area. So, what is there to do in Canary wharf, there are many restaurants, gardens, museums all worth checking out. There are many events that happen at Canary Wharf, they have great venues for these events.
@@ -131,4 +133,8 @@ Right next to the Shakespeare’s Globe is a restaurant called The Swan. This is
 
 ## 24) London Day Trips
 
-Some great Day Trips from London. We did a trip and covered so much area in a full day, money well spent. We visited Winsor, Stone Henge and Bath before heading back to London.
+Some great Day Trips from London. We did a trip and covered so much area in a full day, money well spent. We visited Windsor, Stone Henge and Bath before heading back to London.
+
+Here are some amazing flight deals worth looking into for your next vacation to London.
+
+Find the top <a href="http://www.anrdoezrs.net/click-9165033-13386346?sid=5224213" target="_top"> international flight deals to Europe </a> up to 55% off<img src="http://www.lduhtrp.net/image-9165033-13386346" width="1" height="1" border="0"/>

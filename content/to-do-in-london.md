@@ -241,11 +241,11 @@ Right next to the Shakespeare’s Globe is a restaurant called The Swan. This is
 
 {{< figure src="/uploads/Shakespeares Globe - The Swan - Afternoon Tea 1.jpg" caption="The Swan - Afternoon Tea">}}
 
-{{< figure src="/uploads/Shakespeares Globe - The Swan - Afternoon Tea 1.jpg" caption="The Swan - Afternoon Tea">}}
+{{< figure src="/uploads/Shakespeares Globe - The Swan - Afternoon Tea 2.jpg" caption="The Swan - Afternoon Tea">}}
 
-{{< figure src="/uploads/Shakespeares Globe - The Swan - Afternoon Tea 1.jpg" caption="The Swan - Afternoon Tea">}}
+{{< figure src="/uploads/Shakespeares Globe - The Swan - Afternoon Tea 3.jpg" caption="The Swan - Afternoon Tea">}}
 
-{{< figure src="/uploads/Shakespeares Globe - The Swan - Afternoon Tea 1.jpg" caption="The Swan - Afternoon Tea">}}
+{{< figure src="/uploads/Shakespeares Globe - The Swan - Afternoon Tea 4.jpg" caption="The Swan - Afternoon Tea">}}
 
 {{< /gallery >}}
 

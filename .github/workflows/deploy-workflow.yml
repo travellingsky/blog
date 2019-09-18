@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v1
+        with:
+          submodules: true
 
       - name: Deploy the site
         uses: amitgandhinz/hugo-deploy-gh-pages@master

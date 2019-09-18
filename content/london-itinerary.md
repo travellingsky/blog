@@ -105,6 +105,8 @@ You won’t need much time here. The London Bridge is not the Tower Bridge as it
 
 * Tower Bridge (15 Min Walk)
 
+  <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781540349" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/8606/SITours/tower-of-london-and-tower-bridge-walking-tour-in-london-190439.jpg" border="0"><br/>Tower of London and Tower Bridge Walking Tour</a><br>from: <b>Viator</b></center>
+
 For us this was the highlight of our time in London. The Tower Bridge is just as beautiful if not more in real life than on TV. The large bridge is breathtaking, and with stunning that words cannot describe.
 
 Tours can be taken of the towers of the tower bridge. We did not do it, but tickets are available for those interested. The bridge also opens up to large boats that travel the River Thames, so if you are able to catch that iconic moment its remarkable.
@@ -122,6 +124,8 @@ Check out my Blog Post on things to do in London, there are many 1 day tours to 
 This museum has now become a chain, but it’s a fun walk thru to check out many famous live like statues and great place to take pictures with wax figured celebrities. The old and young both have fun with it.
 
 * Tower of London (Bus or Uber ride or Underground from Madame Tussaud's)
+
+  <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=463294925" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/3251/SITours/tower-of-london-entrance-ticket-including-crown-jewels-and-beefeater-in-london-329484.jpg" border="0"><br/>Tower of London Entrance Ticket Including Crown Jewels and Beefeater Tour</a><br>from: <b>Viator</b></center>
 
 This is a distance from Madame Tussaud's but you most likely won’t have enough time on Day 3 to complete this, so we had to push it out to our left-over day.
 

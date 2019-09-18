@@ -221,9 +221,9 @@ Once you enter the Fortress, its tour at your own pace which is nice. So many li
 
 {{< /gallery >}}
 
-## 18) Madam Tussaud's
+## 18) Madame Tussaud's
 
-Tickets are required for Madam Tussaud's, and during holidays the lines are fairly large so book ahead of time. This is a great spot to see life-size wax replicas of icons from history as well as famous celebrities. Great options for picture taking for memories with your idols.
+Tickets are required for Madame Tussaud's, and during holidays the lines are fairly large so book ahead of time. This is a great spot to see life-size wax replicas of icons from history as well as famous celebrities. Great options for picture taking for memories with your idols.
 
 ## 19) Oxford Street Shopping
 

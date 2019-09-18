@@ -2,7 +2,6 @@
 categories = ["Europe"]
 date = "2019-09-16T00:00:00-04:00"
 description = "Short amount of time, See London sights and how long it takes to get from 1 place to the next."
-draft = true
 image = "/uploads/Tower Bridge London.jpg"
 pins = []
 slug = "5-day-london-itinerary"

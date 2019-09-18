@@ -28,6 +28,8 @@ Transportation : The easiest mode of Transportation within London is by Undergro
 
 The bus is actually very convenient, you have to buy a pass/card which most stores carry them. There is a $5 deposit which you get back when you return the card. Add money to the Card for the bus trips (you can use it on the underground too), and you just have to swipe it each time you catch the bus. The best part is, that any unused money on the card and the deposit is returned to you when you return the card at any location. 
 
+Google Maps is your friend. As long as you have roaming, it will direct you how to get from place to place and even which underground or bus to take from where. Carry your charger with you for your phone, since this makes traveling so much easier.
+
 Flight <a href="http://www.tkqlhce.com/click-9165033-13252713?sid=5224213" target="_top"> deals </a> up to 50% off to Europe Destinations<img src="http://www.ftjcfx.com/image-9165033-13252713" width="1" height="1" border="0"/>
 
 Getting around london is one thing but with luggage is another. Get a <a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=772657155" target="_blank">London Airports Roundtrip - Private Transfer to London Hotel Including Return Trip</a>

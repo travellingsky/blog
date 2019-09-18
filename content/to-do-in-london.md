@@ -19,6 +19,8 @@ Click [here ](www.skytravelblogger.com/5-day-london-itinerary "5 day Itinerary")
 
 <a href="http://www.jdoqocy.com/click-9165033-11126857?sid=5224213" target="_top">Looking for Cheap Flights to London? Check out these deals with Vayama. </a><img src="http://www.tqlkg.com/image-9165033-11126857" width="1" height="1" border="0"/>
 
+<a href="https://shareasale.com/r.cfm?b=1059628&u=2167244&m=18208&urllink=&afftrack=">Hop-on Hop-off Tours to help get around London City</a>
+
 ## 1) Canary Wharf
 
 This is the business district of London. So many high rises that surround the district. <a href="https://canarywharf.com/" rel="nofollow">Canary Wharf</a> is a busy district especially during work hours with people working in the area. So, what is there to do in Canary wharf, there are many restaurants, gardens, museums all worth checking out. There are many events that happen at Canary Wharf, they have great venues for these events.

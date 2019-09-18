@@ -11,8 +11,9 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v1
-        with:
-          submodules: true
+
+      - name: Checkout submodules
+        uses: chris-short/github-action-git-submodules#v0.1.0
 
       - name: Deploy the site
         uses: amitgandhinz/hugo-deploy-gh-pages@master

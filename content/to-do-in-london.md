@@ -6,7 +6,7 @@ draft = true
 image = ""
 pins = []
 slug = "24-things-to-see-in-london"
-tags = ["london england", "london city", "london day trips", "cathedrals"]
+tags = ["london england", "london city", "london day trips", "cathedrals", "things to do", "things to see", "Itinerary"]
 title = "24 Things to See in London"
 type = "post"
 
@@ -14,6 +14,8 @@ type = "post"
 London the city of dreams. It’s the place where everything happens. So many movies are filmed there, books are based there and it’s a place that people love to travel to and its usually a stop over destination to so many countries.
 
 We recently traveled to London with a group of family and friends. Check out my list of must-see places to visit in London and pictures from our travels
+
+Click [here ](www.skytravelblogger.com/5-day-london-itinerary "5 day Itinerary")for a copy of our 5 day Itinerary to London
 
 ## 1) Canary Wharf
 

@@ -143,6 +143,8 @@ The Abbey also has a burial ground next to it, where some of the Monarch is buri
 
 Located minutes away from Westminster Abbey, this home of parliament in central London is a beautifully structured building, which embraces statues of 12 statesmen and other notable people in parliament. Many demonstrations and protests occur here also. You will find statues of people like Winston Churchill, David Lloyd George, Jan Smuts, Henry John Temple, Edward Smith-Stanley, Benjamin Disraeli, Sir Robert Peel, George Canning, Abraham Lincoln, Nelson Mandela, Mahatma Gandhi & Millicent Fawcett.
 
+<center><img src="/uploads/Parliament Square.jpg" alt="Parliament Square"  style="width: 50%" /><figcaption>Parliament Square</figcaption></center>
+
 ## 12) Big Ben
 
 Big Ben is actually called the Great Bell of the Clock, also known as the Clock Tower. Currently the clock is under construction as well as Parliament House but the face of the clock is still visible between the scaffolding. Tours of Big Ben are usually available but are currently suspended due to refurbishment. They are schedule to start back up in 2021.

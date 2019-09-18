@@ -1,7 +1,7 @@
 +++
 categories = []
 date = "2019-09-16T00:00:00-04:00"
-description = "London England, many things to see in london. Access to my 5 day London Itinerary and pictures of our vacation to London City, as well as some great day trips from London"
+description = "London England, many things to see in London. Access to my 5 day London Itinerary and pictures of our vacation to London City, as well as some great day trips from London"
 draft = true
 image = ""
 pins = []
@@ -13,7 +13,7 @@ type = "post"
 +++
 London the city of dreams. It’s the place where everything happens. So many movies are filmed there, books are based there and it’s a place that people love to travel to and its usually a stop over destination to so many countries.
 
-We recently travelled to London with a group of family and friends. Check out my list of must-see places to visit in London and pictures from our travels
+We recently traveled to London with a group of family and friends. Check out my list of must-see places to visit in London and pictures from our travels
 
 ## 1) Canary Wharf
 

@@ -261,6 +261,24 @@ The Shard is actually the Shard of Glass. It’s a 95 story tall skyscraper, the
 
 Some great Day Trips from London. We did a trip and covered so much area in a full day, money well spent. We visited Windsor, Stonehenge and Bath before heading back to London.
 
+{{< load_photoswipe >}}
+
+{{< gallery >}}
+
+{{< figure src="/uploads/Bath - sign.jpg" caption="Roman Bath">}}
+
+{{< figure src="/uploads/Roman Baths.jpg" caption="Roman Bath">}}
+
+{{< figure src="/uploads/Stonehenge.jpg" caption="Stonehenge">}}
+
+{{< figure src="/uploads/Stonehenge-2.jpg" caption="Stonehenge">}}
+
+{{< figure src="/uploads/Windsor Castle Outside.jpg" caption="Windsor Castle">}}
+
+{{< figure src="/uploads/Windsor Castle Gardens.jpg" caption="Windsor Castle">}}
+
+{{< /gallery >}}
+
 <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781540940" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/8986/SITours/private-full-day-tour-of-windsor-stonehenge-and-bath-from-london-in-london-422879.jpg" border="0"><br>Private Full Day tour of Windsor Stonehenge and Bath from London</a></center>
 
 Some other great options you can see in my [5 Day London Itinerary](www.skytravelblogger.com/5-day-london-itinerary "5 Day London Itinerary") or visit <a href="https://shareasale.com/r.cfm?b=828615&u=2167244&m=18208&urllink=&afftrack=">viator, here </a>  for some great prices on Day trips.

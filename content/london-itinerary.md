@@ -75,11 +75,15 @@ Million Square Feet of retail space to shop until you drop. Harrods has over 330
 
 * Kensington Palace / Kensington Gardens (28 Min Walk or Uber/Bus Ride to the Palace)
 
+  <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=463294923" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/3251/SITours/kensington-palace-entrance-ticket-in-london-160338.jpg" border="0"><br/>Kensington Palace Entrance Ticket</a><br>from: <b>Viator</b></center>
+
 The current Royal residence for the Duke & Duchess of Cambridge (Prince William & Kate). Lovely gardens surround this palace, and for those interested you can check out the inside of the palace with a purchase of a ticket and see some of Queen Victoria’s childhood in the exhibitions they have there.
 
 ## Day 3 - Explore the River Thames Area of London
 
 * Westminster Abbey
+
+  <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=597338500" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/3858/SITours/westminster-abbey-entrance-ticket-including-audio-guide-in-london-316386.jpg" border="0"><br/>Westminster Abbey Entrance Ticket Including Audio Guide</a><br>from: <b>Viator</b></center>
 
 Start the day out at Westminster Abbey. Highly recommended you buy tickets online before hand if you plan to take a tour of the abbey. Here was a 2 hour wait when we got there first thing in the morning. This is the Abbey where some of the big Royal Weddings, Coronations have happened. It is also where the Queen & Prince Phillip as well as Prince William and Princess Kate got married.
 
@@ -92,6 +96,8 @@ Only a hop skip away from Westminster Abbey, is the home of the members of parli
 The Big Ben is located on the north corner of the House of Parliament. Its is located in the Elizabeth Tower overlooking the River Thames. Currently under refurbishment, but will be open in 2021. Currently you can see the clock thru the scaffolding, but because Parliament and the Big Ben are under construction its not really that impressive in my opinion. Will be nice when complete though.
 
 * London Eye (10 Min Walk from Big Ben)
+
+  <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=689203391" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/2988/SITours/london-eye-skip-the-line-ticket-in-london-312246.jpg" border="0"><br/>London Eye Skip-the-Line Ticket</a><br>from: <b>Viator</b></center>
 
 Cross over the bridge and as you observe the beauty of the river, you will see the London Eye in front of you on the left. Not far from the Big Ben is the wheel that will give you a 360-degree view of London’s skyline. We were short on time and lots to cover so we purchased the fast-track tickets and we didn’t have to wait too London to see the views from the skyline.
 
@@ -120,6 +126,8 @@ Check out my Blog Post on things to do in London, there are many 1 day tours to 
 ## Day 5 - this is essential the day to finish off anything you missed.
 
 * Madame Tussaud's London (We did not do these since we have seen it elsewhere, and we were short on time)
+
+  <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=591379433" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/2798/SITours/madame-tussauds-london-priority-entrance-ticket-including-star-wars-in-london-340056.jpg" border="0"><br/>Madame Tussauds London Priority Entrance Ticket Including Star Wars Exhibition</a><br>from: <b>Viator</b></center>
 
 This museum has now become a chain, but it’s a fun walk thru to check out many famous live like statues and great place to take pictures with wax figured celebrities. The old and young both have fun with it.
 

@@ -139,9 +139,7 @@ Some great Day Trips from London. We did a trip and covered so much area in a fu
 
 Some other great options you can see in my [5 Day London Itinerary](www.skytravelblogger.com/5-day-london-itinerary "5 Day London Itinerary") or visit <a href="https://shareasale.com/r.cfm?b=828615&u=2167244&m=18208&urllink=&afftrack=">viator, here </a>  for some great prices on Day trips.
 
-Here are some amazing flight deals worth looking into for your next vacation to London.
-
-Find the top <a href="http://www.anrdoezrs.net/click-9165033-13386346?sid=5224213" target="_top"> international flight deals to Europe </a> up to 55% off<img src="http://www.lduhtrp.net/image-9165033-13386346" width="1" height="1" border="0"/>
+Here are some <a href="http://www.anrdoezrs.net/click-9165033-13386346?sid=5224213" target="_top"> amazing flight deals </a> worth looking into for your next vacation to London.<img src="http://www.lduhtrp.net/image-9165033-13386346" width="1" height="1" border="0"/>
 
 <html><body>
 

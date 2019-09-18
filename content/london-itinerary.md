@@ -26,7 +26,7 @@ We highly recommend you buy these tickets beforehand for these Attractions if yo
 
 Transportation : The easiest mode of Transportation within London is by Underground and/or Bus.  If you think you are going to use the underground more than a couple of times during that particular day then a Day Pass is cheaper. Otherwise just do 1 ways or round trips.
 
-The bus is actually very convienent, you have to buy a pass/card which most stores carry them. There is a $5 deposit which you get back when you return the card. Add money to the Card for the bus trips (you can use it on the underground too), and you just have to swipe it each time you catch the bus. The best part is, that any unused money on the card and the deposit is returned to you when you return the card at any location. 
+The bus is actually very convenient, you have to buy a pass/card which most stores carry them. There is a $5 deposit which you get back when you return the card. Add money to the Card for the bus trips (you can use it on the underground too), and you just have to swipe it each time you catch the bus. The best part is, that any unused money on the card and the deposit is returned to you when you return the card at any location. 
 
 Flight <a href="http://www.tkqlhce.com/click-9165033-13252713?sid=5224213" target="_top"> deals </a> up to 50% off to Europe Destinations<img src="http://www.ftjcfx.com/image-9165033-13252713" width="1" height="1" border="0"/>
 

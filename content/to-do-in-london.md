@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Europe"]
 date = "2019-09-16T00:00:00-04:00"
 description = "London England, many things to see in London. Access to my 5 day London Itinerary and pictures of our vacation to London City, as well as some great day trips from London"
 draft = true
@@ -136,6 +136,8 @@ Right next to the Shakespeare’s Globe is a restaurant called The Swan. This is
 Some great Day Trips from London. We did a trip and covered so much area in a full day, money well spent. We visited Windsor, Stonehenge and Bath before heading back to London.
 
 <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781540940" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/8986/SITours/private-full-day-tour-of-windsor-stonehenge-and-bath-from-london-in-london-422879.jpg" border="0"><br>Private Full Day tour of Windsor Stonehenge and Bath from London</a></center>
+
+Some other great options you can see in my [5 Day London Itinerary](www.skytravelblogger.com/5-day-london-itinerary "5 Day London Itinerary") or visit <a href="https://shareasale.com/r.cfm?b=828615&u=2167244&m=18208&urllink=&afftrack=">viator, here </a>  for some great prices on Day trips.
 
 Here are some amazing flight deals worth looking into for your next vacation to London.
 

@@ -39,7 +39,7 @@ This park is located right between Trafalgar Square and Buckingham palace. It’
 
 ## 6) Trafalgar Square
 
-<a href="https://www.london.gov.uk/about-us/our-building-and-squares/trafalgar-square" rel="nofollow” > Trafalgar Square </a> is located in the middle of the city, right at the entrance to The Mall where the Royal Processions go thru. There are so many musuems and shops around this popular area, but the center piece of Trafalgar Square is the Fountains and Statue in the center. The Columns & Statue were designed to honour Admiral Nelson, after his victory in the Battle of Trafalgar in 1805 and the lions were designed to protect the Columns.
+<a href="https://www.london.gov.uk/about-us/our-building-and-squares/trafalgar-square" rel="nofollow” > Trafalgar Square </a> is located in the middle of the city, right at the entrance to The Mall where the Royal Processions go thru. There are so many museums and shops around this popular area, but the center piece of Trafalgar Square is the Fountains and Statue in the center. The Columns & Statue were designed to honor Admiral Nelson, after his victory in the Battle of Trafalgar in 1805 and the lions were designed to protect the Columns.
 
 ## 7) Hyde Park
 
@@ -49,7 +49,7 @@ I personally loved Princess Diana, so I wanted to check out the Diana Memorial F
 
 ## 8) Harrods
 
-Harrods is a large department store with over 330 branded stores, coffee shops and restaurants. You can easy spend a day here if you love all the brands. For us we had kids and the husbands so we weren’t able to spend too long here as they were all getting antsy, but the store is unique, it has a very classy feel to it.
+Harrods is a large department store with over 330 branded stores, coffee shops and restaurants. You can easily spend a day here if you love all the brands. For us we had kids and the husbands so we weren’t able to spend too long here as they were all getting antsy, but the store is unique, it has a very classy feel to it.
 
 You can find branded bags, purses, accessories, clothing, boots, food & wine whatever you desire if your wallet can afford it.
 
@@ -76,3 +76,53 @@ Located minutes away from Westminster Abbey, this home of parliament in central 
 ## 12) Big Ben
 
 Big Ben is actually called the Great Bell of the Clock, also known as the Clock Tower. Currently the clock is under construction as well as Parliament House but the face of the clock is still visible between the scaffolding. Tours of Big Ben are usually available but are currently suspended due to refurbishment. They are schedule to start back up in 2021.
+
+## 13) Coca-Cola London Eye
+
+You must buy tickets to ride the <a href="https://www.londoneye.com/" rel="nofollow” > London Eye</a> , but it’s the best way to see the skyline of the City of London. Located on the South Bank of the River Thames, it has become London’s most famous attraction. The London Eye stands 135 metres high of the group and allows you a great 25-kilometer view in every direction.
+
+## 14) Millennium Bridge
+
+This bridge is officially called the London Millennium Footbridge because its is a steel suspension bridge for people who want to cross the River Thames. The bridge is great access from the south bank to the north bank from the Shakespeare’s Globe to the St Paul’s Cathedral. The bridge looks really cool and the structure of it is unique.
+
+## 15) London Bridge
+
+The London Bridge often is confused with the Tower Bridge, but they look completely different. What we usually see in movies in the Tower Bridge. The London bridge is located not far from The Shard which is the tallest building in Europe.
+
+## 16) Tower Bridge
+
+<a href="https://www.towerbridge.org.uk/" rel="nofollow” >Tower Bridge</a> is the icon of London. When London is shown in a movie, the first scene usually is of the Tower Bridge. Its 125 years old, and lights up like Disneyland at night.
+
+Complete with Glass Flooring and tours available of the Towers on the bridge which takes you inside to show the engineering rooms and history of the bridge.
+
+The bridge opens to incoming boards on the River Thames, and traffic stops on both sides to let the boats pass through. It’s a beautiful site to see it all in motion.
+
+## 17) Tower of London
+
+This is the official Her Majesty’s Royal Palace and Fortress. It’s a historic castle located on the north bank of the River Thames. Make sure you book your tickets to tour the castle, I personally wasn’t that interested in it, but boy was I wrong. I really enjoyed the inside tour. While inside since we are Indian most of the group wanted to see the Kohinoor diamond, that was our main attraction. The Kohinoor was nice but there were so many other beautiful crowns inside the Crown Jewels exhibit, it was very impressive.
+
+Once you enter the Fortress, its tour at your own pace which is nice. So many little corners to check out. Kids love the Torture at the Tower and Bloody Tower exhibits. It’s a very interesting palace to explore and can easily take up a ½ day or more.
+
+## 18) Madam Tussauds
+
+Tickets are required for Madam Tussauds, and during holidays the lines are fairly large so book ahead of time. This is a great spot to see life-size wax replicas of icons from history as well as famous celebrities. Great options for picture taking for memories with your idols.
+
+## 19) Oxford Street Shopping
+
+Who doesn’t love shopping? Stroll down Oxford street to some great stores. You can find anything your looking for, whether it be souvenirs, clothing, household items, shoes you will find it all here. We had places to check out some of the British stores like Zara, Next …, but we were short on time. Some of the locals suggested a store called Primark and because it was recommended by many, we headed there first. Let’s just say 4 stories of shopping, we ran out of time. 4 Girls had a blast and bought so many things at great prices, that we had to revisit the store in Scotland, to buy more stuff. No affiliate with Primark, but definitely worth going to if you’re looking for deals. We all had to buy an extra carry on to bring back all our goodies.
+
+## 20) St Paul’s Cathedral
+
+<a href=”https://www.stpauls.co.uk/" rel="nofollow” > St Paul’s Cathedral</a> is the Cathedral with the large gold dome located in the center of the City of London. It is one of the most recognizable sites in London where many high profiles events also take place like the wedding of Prince Charles and Lady Diana Spencer as well as the 80th & 90th birthdays of Queen Elizabeth II were held. So much culture inside the Cathedral, and so many artworks, tombs and memorials to check out. Winston Churchill & Margaret Thatchers funerals were also held here.
+
+## 21) Shard
+
+The Shard is actually the Shard of Glass. It’s a 95 story tall skyscraper, the tallest building in Europe, hovering over The River Thames. Great place to wach the Sunrise or Sunset.
+
+## 22) Shakespeare’s Globe
+
+<a href=”https://www.shakespearesglobe.com/ " rel="nofollow” >Shakespeare’s Globe</a> is a performing arts venue, where cultural attractions and education seminars are held. There are so many productions you can go and see here at any time. This Globe was buld by an American actor Sam Wanamaker with the plan to build a recreation of Shakespeare’s Globe close to its original location which is at Bankside, Southwark.
+
+## 23) Afternoon Tea at The Swan
+
+Right next to the Shakespeare’s Globe is a restaurant called The Swan. This is where we had our afternoon tea. Make sure you book a time slot in advance. This afternoon tea was one of the cheaper ones we found, to try out the experience and we were not disappointed. We had a choice of the Midsummer Night’s Dream Afternoon Tea, which consisted of Savoury & Sweets items, and you could up charge for there signature drink in addition to the tea with a Love Potion Cocktail. Most of us up charged and loved it. We had so much food, and the scones were to die for.

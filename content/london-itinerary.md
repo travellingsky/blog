@@ -53,7 +53,7 @@ This is known as the Mother Church for Roman Catholics in England and Wales. Its
 
 * Buckingham Palace (10 Min Walk from Westminster Cathedral)
 
-  <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=615354616" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/6295/SITours/buckingham-palace-tour-including-afternoon-tea-in-london-172038.jpg" border="0"><br>Buckingham Palace Tour Including Afternoon Tea</a><br>from: <b>Viator</b></center>
+  <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781530358" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5461/SITours/small-group-london-with-changing-of-the-guard-and-buckingham-palace-in-london-461945.jpg" border="0"><br/>Small-Group London with Changing of the Guard and Buckingham Palace Access</a><br>from: <b>Viator</b></center>
 
 The most famous place to visit while in London and the home to the Queen and the royal family. If timed correctly you’ll even manage to see the changing of the guards.
 

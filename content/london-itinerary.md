@@ -160,8 +160,12 @@ This is an Anglican Cathedral, and the seat of the Bishop of London. It as the h
 
 **NOTE:** You may not have enough time to do all of this on Day 5, because Tower of London takes a bit of time, so pick and choose carefully what you decide is important to you. We did the Tower of London, Afternoon Tea and decided to spend the afternoon on the lawns in front of the Tower Bridge because we were not interested in Madame Tussauds and we didn’t have enough time to go to the Cathedral.
 
+<html><body>
+
 <div class="shrsl_ShareASale_productShowCaseTarget_34164"></div>
 
 <script type="text/javascript"  src="https://showcase.shareasale.com/shareASale_liveWidget_loader.js?dt=09172019210830"></script>
 
 <script type="text/javascript">shrsl_ShareASale_liveWid_Init(34164, 2167244, 'shrsl_ShareASale_liveWid_leaderBoard_populate');</script>
+
+</body></html>

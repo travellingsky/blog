@@ -40,6 +40,8 @@ The Jubilee Line Underground brings you straight to Canary Wharf.
 
 After spending as much time as you need at the Wharf, maybe even grabbing dinner
 
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=538284058" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/3542/SITours/river-thames-sunset-sightseeing-cruise-in-london-132213.jpg" border="0"><br>River Thames Sunset Sightseeing Cruise</a></center>
+
 * Catch a local ferry back to Westminster. Advanced booking is generally not required but a ride down the River Thames is a great way to start your vacation in London
 
 ## Day 2 - Explore the City Side of London
@@ -126,9 +128,9 @@ This one above is the tour we took and loved it. Below are other options to look
 
 <center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781540882" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/8986/SITours/private-full-day-tour-of-stonehenge-and-bath-from-london-in-london-422847.jpg" border="0"><br>Private Full-Day Tour of  Stonehenge and Bath from London</a>
 
-<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781540887" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/8965/SITours/oxford-stratford-and-cotswolds-villages-small-group-day-tour-from-in-london-250925.jpg" border="0"><br>Oxford Stratford and Cotswolds Villages Small Group Day Tour from London</a></center>
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=584111829" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5461/SITours/leeds-castle-canterbury-cathedral-dover-and-greenwich-with-thames-in-london-208365.jpg" border="0"><br>Leeds Castle, Canterbury Cathedral, Dover and Greenwich with Thames River Cruise Tour from London</a>
 
-<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=584111829" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5461/SITours/leeds-castle-canterbury-cathedral-dover-and-greenwich-with-thames-in-london-208365.jpg" border="0"><br/>Leeds Castle, Canterbury Cathedral, Dover and Greenwich with Thames River Cruise Tour from London</a><br>from: <b>Viator</b></center>
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=584111829" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5461/SITours/leeds-castle-canterbury-cathedral-dover-and-greenwich-with-thames-in-london-208365.jpg" border="0"><br/>Leeds Castle, Canterbury Cathedral, Dover and Greenwich with Thames River Cruise Tour from London</a><br>from: <b>Viator</b></center>
 
 ## Day 5 - this is essential the day to finish off anything you missed.
 

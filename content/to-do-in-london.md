@@ -135,6 +135,8 @@ This was the birthplace for Queen Victoria and the home of many of the Royal fam
 
 This is where it all happens. The Westminster Abbey is located very close to the Buckingham Palace and its where most of the big ceremony’s take place, whether it’s a Royal Wedding, Coronations, such big royal events. The Queen & Prince Phillip got married at Westminster Abbey as well as Prince William and Princess Kate. The Abbey is a Gothic church and has rules that only people allowed to marry in the Abbey are members of the royal family, members of the Order of the Bath and their children and anyone who lives in the Abbey’s precincts. So, weddings here are very rare, but when they happen, they are very special.
 
+<center><img src="/uploads/WestminsterAbbey.jpg" alt="WestminsterAbbey"  style="width: 50%" /><figcaption>Westminster Abbey </figcaption></center>
+
 The Abbey also has a burial ground next to it, where some of the Monarch is buried, others are buried in Frogmore in Windsor.
 
 ## 11) Parliament Square

@@ -27,6 +27,8 @@ We highly recommend you buy these tickets beforehand for these Attractions :
 * Book your afternoon Tea experience
 * And which Day tour you decide to do via Viator
 
+Flight <a href="http://www.tkqlhce.com/click-9165033-13252713?sid=5224213" target="_top"> deals </a> up to 50% off to Europe Destinations<img src="http://www.ftjcfx.com/image-9165033-13252713" width="1" height="1" border="0"/>
+
 ## Day 1  - Day of Arrival
 
 * Arrive in Heathrow Airport London.

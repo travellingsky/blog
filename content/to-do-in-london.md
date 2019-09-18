@@ -97,7 +97,7 @@ This park is located right between Trafalgar Square and Buckingham palace. It’
 
 London has many large parks, and Hyde Park is another one of them. Great place to relax and enjoy the sun. The park is used for many events so check the calendar to make sure the park isn’t taken over by events. We did have a triathlon going on the day we went so that sort of ruined it for us, but never the less it was still very beautiful if there weren’t as many people around.
 
-<center><img src="/uploads/Hyde Park.jpg" alt="Hyde Park"  style="width: 50%" /><figcaption> TrHyde Park </figcaption></center>
+<center><img src="/uploads/Hyde Park.jpg" alt="Hyde Park"  style="width: 50%" /><figcaption> Hyde Park </figcaption></center>
 
 I personally loved Princess Diana, so I wanted to check out the Diana Memorial Fountain while I was there
 
@@ -125,9 +125,9 @@ This was the birthplace for Queen Victoria and the home of many of the Royal fam
 
 {{< figure src="/uploads/Kensington Palace-2.jpg" caption="Kensington Palace">}}
 
-{{< figure src="/uploads/Kensington Gardens - 1.jpg" caption="Kensington Gardens Bar">}}
-
 {{< figure src="/uploads/Kensington Gardens - 2.jpg" caption="Kensington Garden Baby Ducks">}}
+
+{{< figure src="/uploads/Kensington Gardens - 1.jpg" caption="Kensington Gardens Bar">}}
 
 {{< /gallery >}}
 
@@ -135,13 +135,15 @@ This was the birthplace for Queen Victoria and the home of many of the Royal fam
 
 This is where it all happens. The Westminster Abbey is located very close to the Buckingham Palace and its where most of the big ceremony’s take place, whether it’s a Royal Wedding, Coronations, such big royal events. The Queen & Prince Phillip got married at Westminster Abbey as well as Prince William and Princess Kate. The Abbey is a Gothic church and has rules that only people allowed to marry in the Abbey are members of the royal family, members of the Order of the Bath and their children and anyone who lives in the Abbey’s precincts. So, weddings here are very rare, but when they happen, they are very special.
 
-<center><img src="/uploads/WestminsterAbbey.jpg" alt="WestminsterAbbey"  style="width: 50%" /><figcaption>Westminster Abbey </figcaption></center>
+<center><img src="/uploads/WestminsterAbbey.jpg" alt="WestminsterAbbey"  style="width: 70%" /><figcaption>Westminster Abbey </figcaption></center>
 
 The Abbey also has a burial ground next to it, where some of the Monarch is buried, others are buried in Frogmore in Windsor.
 
 ## 11) Parliament Square
 
 Located minutes away from Westminster Abbey, this home of parliament in central London is a beautifully structured building, which embraces statues of 12 statesmen and other notable people in parliament. Many demonstrations and protests occur here also. You will find statues of people like Winston Churchill, David Lloyd George, Jan Smuts, Henry John Temple, Edward Smith-Stanley, Benjamin Disraeli, Sir Robert Peel, George Canning, Abraham Lincoln, Nelson Mandela, Mahatma Gandhi & Millicent Fawcett.
+
+<center><img src="/uploads/Parliament Square.jpg" alt="Parliament Square"  style="width: 50%" /><figcaption>Parliament Square</figcaption></center>
 
 ## 12) Big Ben
 

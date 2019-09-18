@@ -12,12 +12,10 @@ jobs:
       - name: Checkout master
         uses: actions/checkout@v1
 
-      - name: Checkout submodules
-        uses: textbook/git-checkout-submodule-action@2.0.0
-
       - name: Deploy the site
         uses: amitgandhinz/hugo-deploy-gh-pages@master
         env:
           HUGO_VERSION: 0.57.2
           TARGET_REPO: travellingsky/travellingsky.github.io
           TOKEN: ${{ secrets.TOKEN }}
+          THEME: themes/parsa-hugo

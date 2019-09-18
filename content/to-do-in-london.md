@@ -49,7 +49,7 @@ The <a href="http://www.westminstercathedral.org.uk/" rel="nofollow"> Westminste
 
 Its also a great place to sit and chill with a cup of coffee
 
-<center><img src="/uploads/Westminster-Cathedral-Chlling.jpg" alt="WestminsterCathedral"  style="width: 50%" /><figcaption> Chilling outside the Cathedral </figcaption></center>
+<center><img src="/uploads/Westminster-Cathedral-Chlling.jpg" alt="WestminsterCathedral"  style="width: 70%" /><figcaption> Chilling outside the Cathedral </figcaption></center>
 
 ## 3) Buckingham Palace & Changing of the Guard
 
@@ -85,19 +85,19 @@ The Mall is a ceremonial road from Trafalgar Square leading straight to Buckingh
 
 This park is located right between Trafalgar Square and Buckingham palace. It’s a great spot if you want to chill and relax or kids want to ran around a bit. For people who love the nature it’s a nice spot to sit and read a book and take in the scenery.
 
-<center><img src="/uploads/St James Park View.jpg" alt="St James Park View"  style="width: 50%" /><figcaption> View from St James Park </figcaption></center>
+<center><img src="/uploads/St James Park View.jpg" alt="St James Park View"  style="width: 70%" /><figcaption> View from St James Park </figcaption></center>
 
 ## 6) Trafalgar Square
 
 <a href="https://www.london.gov.uk/about-us/our-building-and-squares/trafalgar-square" rel="nofollow">Trafalgar Square </a> is located in the middle of the city, right at the entrance to The Mall where the Royal Processions go thru. There are so many museums and shops around this popular area, but the center piece of Trafalgar Square is the Fountains and Statue in the center. The Columns & Statue were designed to honour Admiral Nelson, after his victory in the Battle of Trafalgar in 1805 and the lions were designed to protect the Columns.
 
-<center><img src="/uploads/Trafalgar Square.jpg" alt="Trafalgar Square"  style="width: 50%" /><figcaption> Trafalgar Square </figcaption></center>
+<center><img src="/uploads/Trafalgar Square.jpg" alt="Trafalgar Square"  style="width: 70%" /><figcaption> Trafalgar Square </figcaption></center>
 
 ## 7) Hyde Park
 
 London has many large parks, and Hyde Park is another one of them. Great place to relax and enjoy the sun. The park is used for many events so check the calendar to make sure the park isn’t taken over by events. We did have a triathlon going on the day we went so that sort of ruined it for us, but never the less it was still very beautiful if there weren’t as many people around.
 
-<center><img src="/uploads/Hyde Park.jpg" alt="Hyde Park"  style="width: 50%" /><figcaption> Hyde Park </figcaption></center>
+<center><img src="/uploads/Hyde Park.jpg" alt="Hyde Park"  style="width: 70%" /><figcaption> Hyde Park </figcaption></center>
 
 I personally loved Princess Diana, so I wanted to check out the Diana Memorial Fountain while I was there
 
@@ -143,19 +143,37 @@ The Abbey also has a burial ground next to it, where some of the Monarch is buri
 
 Located minutes away from Westminster Abbey, this home of parliament in central London is a beautifully structured building, which embraces statues of 12 statesmen and other notable people in parliament. Many demonstrations and protests occur here also. You will find statues of people like Winston Churchill, David Lloyd George, Jan Smuts, Henry John Temple, Edward Smith-Stanley, Benjamin Disraeli, Sir Robert Peel, George Canning, Abraham Lincoln, Nelson Mandela, Mahatma Gandhi & Millicent Fawcett.
 
-<center><img src="/uploads/Parliament Square.jpg" alt="Parliament Square"  style="width: 50%" /><figcaption>Parliament Square</figcaption></center>
+<center><img src="/uploads/Parliament Square.jpg" alt="Parliament Square"  style="width: 70%" /><figcaption>Parliament Square</figcaption></center>
 
 ## 12) Big Ben
 
 Big Ben is actually called the Great Bell of the Clock, also known as the Clock Tower. Currently the clock is under construction as well as Parliament House but the face of the clock is still visible between the scaffolding. Tours of Big Ben are usually available but are currently suspended due to refurbishment. They are schedule to start back up in 2021.
 
+<center><img src="/uploads/BigBen.jpg" alt="Big Ben"  style="width: 70%" /><figcaption>Big Ben Currently under Construction</figcaption></center>
+
 ## 13) Coca-Cola London Eye
 
 You must buy tickets to ride the <a href="https://www.londoneye.com/" rel="nofollow"> London Eye</a>, but it’s the best way to see the skyline of the City of London. Located on the South Bank of the River Thames, it has become London’s most famous attraction. The London Eye stands 135 metres high of the group and allows you a great 25-kilometer view in every direction.
 
+{{< load_photoswipe >}}
+
+{{< gallery >}}
+
+{{< figure src="/uploads/LondonEye-1.jpg" caption="London Eye">}}
+
+{{< figure src="/uploads/LondonEye-2.jpg" caption="London Eye">}}
+
+{{< figure src="/uploads/LondonEye-View3.jpg" caption="London Eye">}}
+
+{{< figure src="/uploads/LondonEye-View2.jpg" caption="London Eye">}}
+
+{{< /gallery >}}
+
 ## 14) Millennium Bridge
 
 This bridge is officially called the London Millennium Footbridge because its is a steel suspension bridge for people who want to cross the River Thames. The bridge is great access from the south bank to the north bank from the Shakespeare’s Globe to the St Paul’s Cathedral. The bridge looks really cool and the structure of it is unique.
+
+<center><img src="/uploads/MillenniumBridge.jpg" alt="MillenniumBridge"  style="width: 70%" /><figcaption>Millennium Bridge</figcaption></center>
 
 ## 15) London Bridge
 
@@ -166,6 +184,18 @@ The London Bridge often is confused with the Tower Bridge, but they look complet
 <a href="https://www.towerbridge.org.uk/" rel="nofollow" >Tower Bridge</a> is the icon of London. When London is shown in a movie, the first scene usually is of the Tower Bridge. Its 125 years old, and lights up like Disneyland at night.
 
 Complete with Glass Flooring and tours available of the Towers on the bridge which takes you inside to show the engineering rooms and history of the bridge.
+
+{{< load_photoswipe >}}
+
+{{< gallery >}}
+
+{{< figure src="/uploads/Tower Bridge London-NorthSide.jpg" caption="Tower Bridge">}}
+
+{{< figure src="/uploads/Tower Bridge London.jpg" caption="Tower Bridge">}}
+
+{{< /gallery >}}
+
+<center><img src="/uploads/TowerBridge Snapshot.jpg" alt="Tower Bridge"  style="width: 70%" /><figcaption>Tower Bridge</figcaption></center>
 
 The bridge opens to incoming boards on the River Thames, and traffic stops on both sides to let the boats pass through. It’s a beautiful site to see it all in motion.
 

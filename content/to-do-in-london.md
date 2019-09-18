@@ -205,6 +205,20 @@ This is the official Her Majesty’s Royal Palace and Fortress. It’s a histori
 
 Once you enter the Fortress, its tour at your own pace which is nice. So many little corners to check out. Kids love the Torture at the Tower and Bloody Tower exhibits. It’s a very interesting palace to explore and can easily take up a ½ day or more.
 
+{{< load_photoswipe >}}
+
+{{< gallery >}}
+
+{{< figure src="/uploads/Tower of London 2.jpg" caption="Tower of London">}}
+
+{{< figure src="/uploads/Tower of London 1.jpg" caption="Tower of London">}}
+
+{{< figure src="/uploads/Tower of London 3.jpg" caption="Tower of London">}}
+
+{{< figure src="/uploads/Tower of London 4.jpg" caption="Tower of London">}}
+
+{{< /gallery >}}
+
 ## 18) Madam Tussaud's
 
 Tickets are required for Madam Tussaud's, and during holidays the lines are fairly large so book ahead of time. This is a great spot to see life-size wax replicas of icons from history as well as famous celebrities. Great options for picture taking for memories with your idols.
@@ -213,21 +227,35 @@ Tickets are required for Madam Tussaud's, and during holidays the lines are fair
 
 Who doesn’t love shopping? Stroll down Oxford street to some great stores. You can find anything your looking for, whether it be souvenirs, clothing, household items, shoes you will find it all here. We had places to check out some of the British stores like Zara, Next …, but we were short on time. Some of the locals suggested a store called Primark and because it was recommended by many, we headed there first. Let’s just say 4 stories of shopping, we ran out of time. 4 Girls had a blast and bought so many things at great prices, that we had to revisit the store in Scotland, to buy more stuff. No affiliate with Primark, but definitely worth going to if you’re looking for deals. We all had to buy an extra carry on to bring back all our goodies.
 
-## 20) St Paul’s Cathedral
-
-<a href=”https://www.stpauls.co.uk/" rel="nofollow" > St Paul’s Cathedral</a> is the Cathedral with the large gold dome located in the center of the City of London. It is one of the most recognizable sites in London where many high profiles events also take place like the wedding of Prince Charles and Lady Diana Spencer as well as the 80th & 90th birthdays of Queen Elizabeth II were held. So much culture inside the Cathedral, and so many artworks, tombs and memorials to check out. Winston Churchill & Margaret Thatchers funerals were also held here.
-
-## 21) Shard
-
-The Shard is actually the Shard of Glass. It’s a 95 story tall skyscraper, the tallest building in Europe, hovering over The River Thames. Great place to wach the Sunrise or Sunset.
-
-## 22) Shakespeare’s Globe
+## 20) Shakespeare’s Globe
 
 <a href=”https://www.shakespearesglobe.com/ " rel="nofollow" >Shakespeare’s Globe</a> is a performing arts venue, where cultural attractions and education seminars are held. There are so many productions you can go and see here at any time. This Globe was buld by an American actor Sam Wanamaker with the plan to build a recreation of Shakespeare’s Globe close to its original location which is at Bankside, Southwark.
 
-## 23) Afternoon Tea at The Swan
+## 21) Afternoon Tea at The Swan
 
 Right next to the Shakespeare’s Globe is a restaurant called The Swan. This is where we had our afternoon tea. Make sure you book a time slot in advance. This afternoon tea was one of the cheaper ones we found, to try out the experience and we were not disappointed. We had a choice of the Midsummer Night’s Dream Afternoon Tea, which consisted of Savoury & Sweets items, and you could up charge for there signature drink in addition to the tea with a Love Potion Cocktail. Most of us up charged and loved it. We had so much food, and the scones were to die for.
+
+{{< load_photoswipe >}}
+
+{{< gallery >}}
+
+{{< figure src="/uploads/Shakespeares Globe - The Swan - Afternoon Tea 1.jpg" caption="The Swan - Afternoon Tea">}}
+
+{{< figure src="/uploads/Shakespeares Globe - The Swan - Afternoon Tea 1.jpg" caption="The Swan - Afternoon Tea">}}
+
+{{< figure src="/uploads/Shakespeares Globe - The Swan - Afternoon Tea 1.jpg" caption="The Swan - Afternoon Tea">}}
+
+{{< figure src="/uploads/Shakespeares Globe - The Swan - Afternoon Tea 1.jpg" caption="The Swan - Afternoon Tea">}}
+
+{{< /gallery >}}
+
+## 22) St Paul’s Cathedral
+
+<a href=”https://www.stpauls.co.uk/" rel="nofollow" > St Paul’s Cathedral</a> is the Cathedral with the large gold dome located in the center of the City of London. It is one of the most recognizable sites in London where many high profiles events also take place like the wedding of Prince Charles and Lady Diana Spencer as well as the 80th & 90th birthdays of Queen Elizabeth II were held. So much culture inside the Cathedral, and so many artworks, tombs and memorials to check out. Winston Churchill & Margaret Thatchers funerals were also held here.
+
+## 23) Shard
+
+The Shard is actually the Shard of Glass. It’s a 95 story tall skyscraper, the tallest building in Europe, hovering over The River Thames. Great place to watch the Sunrise or Sunset.
 
 ## 24) London Day Trips
 

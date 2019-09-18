@@ -1,13 +1,13 @@
 +++
 categories = []
 date = "2019-09-16T00:00:00-04:00"
-description = ""
+description = "London England, many things to see in london. Access to my 5 day London Itinerary and pictures of our vacation to London City, as well as some great day trips from London"
 draft = true
 image = ""
 pins = []
-slug = ""
-tags = ["London", " London City"]
-title = "To Do in London"
+slug = "24-things-to-see-in-london"
+tags = ["london england", "london city", "london day trips", "cathedrals"]
+title = "24 Things to See in London"
 type = "post"
 
 +++
@@ -25,7 +25,7 @@ The <a href="http://www.westminstercathedral.org.uk/" rel="nofollow"> Westminste
 
 ## 3) Buckingham Palace & Changing of the Guard
 
-The home of the Queen and the Royal family. The <a href=" https://www.rct.uk/visit/the-state-rooms-buckingham-palace" rel="nofollow"> Buckingham Palace </a> you have to see while visiting London. Its mostly crowded with people but never the less checking out this palace is a must see in London. There are also tours available if interested in going inside. Tours of the interior of the palace is only available in the summer from late July until the end of September which the queen is on holiday in Scotland. If the Royal Standard Flag is flying that means the queen is in residences. If its not flying then the Union Jack is flown.
+The home of the Queen and the Royal family. The <a href="https://www.rct.uk/visit/the-state-rooms-buckingham-palace" rel="nofollow"> Buckingham Palace </a> you have to see while visiting London. Its mostly crowded with people but never the less checking out this palace is a must see in London. There are also tours available if interested in going inside. Tours of the interior of the palace is only available in the summer from late July until the end of September which the queen is on holiday in Scotland. If the Royal Standard Flag is flying that means the queen is in residences. If its not flying then the Union Jack is flown.
 
 The changing of the Guards Ceremony happens daily at 11.30am when the Royal Guards change shifts.
 
@@ -39,7 +39,7 @@ This park is located right between Trafalgar Square and Buckingham palace. It’
 
 ## 6) Trafalgar Square
 
-<a href="https://www.london.gov.uk/about-us/our-building-and-squares/trafalgar-square" rel="nofollow” > Trafalgar Square </a> is located in the middle of the city, right at the entrance to The Mall where the Royal Processions go thru. There are so many museums and shops around this popular area, but the center piece of Trafalgar Square is the Fountains and Statue in the center. The Columns & Statue were designed to honor Admiral Nelson, after his victory in the Battle of Trafalgar in 1805 and the lions were designed to protect the Columns.
+<a href="https://www.london.gov.uk/about-us/our-building-and-squares/trafalgar-square" rel="nofollow">Trafalgar Square </a> is located in the middle of the city, right at the entrance to The Mall where the Royal Processions go thru. There are so many museums and shops around this popular area, but the center piece of Trafalgar Square is the Fountains and Statue in the center. The Columns & Statue were designed to honour Admiral Nelson, after his victory in the Battle of Trafalgar in 1805 and the lions were designed to protect the Columns.
 
 ## 7) Hyde Park
 
@@ -79,7 +79,7 @@ Big Ben is actually called the Great Bell of the Clock, also known as the Clock 
 
 ## 13) Coca-Cola London Eye
 
-You must buy tickets to ride the <a href="https://www.londoneye.com/" rel="nofollow” > London Eye</a> , but it’s the best way to see the skyline of the City of London. Located on the South Bank of the River Thames, it has become London’s most famous attraction. The London Eye stands 135 metres high of the group and allows you a great 25-kilometer view in every direction.
+You must buy tickets to ride the <a href="https://www.londoneye.com/" rel="nofollow"> London Eye</a>, but it’s the best way to see the skyline of the City of London. Located on the South Bank of the River Thames, it has become London’s most famous attraction. The London Eye stands 135 metres high of the group and allows you a great 25-kilometer view in every direction.
 
 ## 14) Millennium Bridge
 
@@ -91,7 +91,7 @@ The London Bridge often is confused with the Tower Bridge, but they look complet
 
 ## 16) Tower Bridge
 
-<a href="https://www.towerbridge.org.uk/" rel="nofollow” >Tower Bridge</a> is the icon of London. When London is shown in a movie, the first scene usually is of the Tower Bridge. Its 125 years old, and lights up like Disneyland at night.
+<a href="https://www.towerbridge.org.uk/" rel="nofollow" >Tower Bridge</a> is the icon of London. When London is shown in a movie, the first scene usually is of the Tower Bridge. Its 125 years old, and lights up like Disneyland at night.
 
 Complete with Glass Flooring and tours available of the Towers on the bridge which takes you inside to show the engineering rooms and history of the bridge.
 
@@ -103,9 +103,9 @@ This is the official Her Majesty’s Royal Palace and Fortress. It’s a histori
 
 Once you enter the Fortress, its tour at your own pace which is nice. So many little corners to check out. Kids love the Torture at the Tower and Bloody Tower exhibits. It’s a very interesting palace to explore and can easily take up a ½ day or more.
 
-## 18) Madam Tussauds
+## 18) Madam Tussaud's
 
-Tickets are required for Madam Tussauds, and during holidays the lines are fairly large so book ahead of time. This is a great spot to see life-size wax replicas of icons from history as well as famous celebrities. Great options for picture taking for memories with your idols.
+Tickets are required for Madam Tussaud's, and during holidays the lines are fairly large so book ahead of time. This is a great spot to see life-size wax replicas of icons from history as well as famous celebrities. Great options for picture taking for memories with your idols.
 
 ## 19) Oxford Street Shopping
 
@@ -113,7 +113,7 @@ Who doesn’t love shopping? Stroll down Oxford street to some great stores. You
 
 ## 20) St Paul’s Cathedral
 
-<a href=”https://www.stpauls.co.uk/" rel="nofollow” > St Paul’s Cathedral</a> is the Cathedral with the large gold dome located in the center of the City of London. It is one of the most recognizable sites in London where many high profiles events also take place like the wedding of Prince Charles and Lady Diana Spencer as well as the 80th & 90th birthdays of Queen Elizabeth II were held. So much culture inside the Cathedral, and so many artworks, tombs and memorials to check out. Winston Churchill & Margaret Thatchers funerals were also held here.
+<a href=”https://www.stpauls.co.uk/" rel="nofollow" > St Paul’s Cathedral</a> is the Cathedral with the large gold dome located in the center of the City of London. It is one of the most recognizable sites in London where many high profiles events also take place like the wedding of Prince Charles and Lady Diana Spencer as well as the 80th & 90th birthdays of Queen Elizabeth II were held. So much culture inside the Cathedral, and so many artworks, tombs and memorials to check out. Winston Churchill & Margaret Thatchers funerals were also held here.
 
 ## 21) Shard
 
@@ -121,8 +121,12 @@ The Shard is actually the Shard of Glass. It’s a 95 story tall skyscraper, the
 
 ## 22) Shakespeare’s Globe
 
-<a href=”https://www.shakespearesglobe.com/ " rel="nofollow” >Shakespeare’s Globe</a> is a performing arts venue, where cultural attractions and education seminars are held. There are so many productions you can go and see here at any time. This Globe was buld by an American actor Sam Wanamaker with the plan to build a recreation of Shakespeare’s Globe close to its original location which is at Bankside, Southwark.
+<a href=”https://www.shakespearesglobe.com/ " rel="nofollow" >Shakespeare’s Globe</a> is a performing arts venue, where cultural attractions and education seminars are held. There are so many productions you can go and see here at any time. This Globe was buld by an American actor Sam Wanamaker with the plan to build a recreation of Shakespeare’s Globe close to its original location which is at Bankside, Southwark.
 
 ## 23) Afternoon Tea at The Swan
 
 Right next to the Shakespeare’s Globe is a restaurant called The Swan. This is where we had our afternoon tea. Make sure you book a time slot in advance. This afternoon tea was one of the cheaper ones we found, to try out the experience and we were not disappointed. We had a choice of the Midsummer Night’s Dream Afternoon Tea, which consisted of Savoury & Sweets items, and you could up charge for there signature drink in addition to the tea with a Love Potion Cocktail. Most of us up charged and loved it. We had so much food, and the scones were to die for.
+
+## 24) London Day Trips
+
+Some great Day Trips from London. We did a trip and covered so much area in a full day, money well spent. We visited Winsor, Stone Henge and Bath before heading back to London.

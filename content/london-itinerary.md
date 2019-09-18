@@ -130,7 +130,17 @@ This one above is the tour we took and loved it. Below are other options to look
 
 <a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=584111829" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5461/SITours/leeds-castle-canterbury-cathedral-dover-and-greenwich-with-thames-in-london-208365.jpg" border="0"><br>Leeds Castle, Canterbury Cathedral, Dover and Greenwich with Thames River Cruise Tour from London</a>
 
-<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=584111829" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5461/SITours/leeds-castle-canterbury-cathedral-dover-and-greenwich-with-thames-in-london-208365.jpg" border="0"><br/>Leeds Castle, Canterbury Cathedral, Dover and Greenwich with Thames River Cruise Tour from London</a><br>from: <b>Viator</b></center>
+Dont forget to check out the Harry Potter Tours while your here for all the Harry Potter Fans
+
+<html><body>
+
+<div class="shrsl_ShareASale_productShowCaseTarget_34166"></div>
+
+<script type="text/javascript"  src="https://showcase.shareasale.com/shareASale_liveWidget_loader.js?dt=09182019105717"></script>
+
+<script type="text/javascript">shrsl_ShareASale_liveWid_Init(34166, 2167244, 'shrsl_ShareASale_liveWid_leaderBoard_populate');</script>
+
+</body></html></center>
 
 ## Day 5 - this is essential the day to finish off anything you missed.
 

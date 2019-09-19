@@ -2,7 +2,6 @@
 categories = ["Europe"]
 date = "2019-09-16T00:00:00-04:00"
 description = "London England, many things to see in London. Access to my 5 day London Itinerary and pictures of our vacation to London City, as well as some great day trips from London"
-draft = true
 image = "/uploads/Buckingham Palace 1.jpg"
 pins = []
 slug = "24-things-to-see-in-london"

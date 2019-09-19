@@ -69,6 +69,8 @@ The home of the Queen and the Royal family. The <a href="https://www.rct.uk/visi
 
 The changing of the Guards Ceremony happens daily at 11.30am when the Royal Guards change shifts.
 
+<a href="https://shareasale.com/r.cfm?b=881584&u=2167244&m=18208&urllink=&afftrack=">Save up to 40% off tours and activities in London</a>
+
 ## 4) The Mall
 
 The Mall is a ceremonial road from Trafalgar Square leading straight to Buckingham Palace. You go through the Admiralty Arch passing Clarence House on the way. The walk is about 1km walk but it’s beautiful like walking on a red carpet. Its used for most royal processions and celebrations. Head of State are often escorted on horse and carriages up the Mall decorated with the Union Flags and flags from visiting head of state countries.

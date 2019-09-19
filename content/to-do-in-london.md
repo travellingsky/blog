@@ -271,6 +271,8 @@ Right next to the Shakespeare’s Globe is a restaurant called The Swan. This is
 
 The Shard is actually the Shard of Glass. It’s a 95 story tall skyscraper, the tallest building in Europe, hovering over The River Thames. Great place to watch the Sunrise or Sunset.
 
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=689203249" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5613/SITours/the-view-from-the-shard-entrance-ticket-with-optional-champagne-in-london-316003.jpg" border="0"><br/>The View from The Shard Entrance Ticket with Optional Champagne</a><br>from: <b>Viator</b>
+
 ## 24) London Day Trips
 
 Some great Day Trips from London. We did a trip and covered so much area in a full day, money well spent. We visited Windsor, Stonehenge and Bath before heading back to London.

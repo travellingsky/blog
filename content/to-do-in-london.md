@@ -53,6 +53,8 @@ Its also a great place to sit and chill with a cup of coffee
 
 <center><img src="/uploads/Westminster-Cathedral-Chlling.jpg" alt="WestminsterCathedral"  style="width: 70%" /><figcaption> Chilling outside the Cathedral </figcaption></center>
 
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=728895364" target="_blank">Half-Day London Tour: Westminster Abbey and Houses of Parliament</a><br>from: <b>Viator</b>
+
 ## 3) Buckingham Palace & Changing of the Guard
 
 The home of the Queen and the Royal family. The <a href="https://www.rct.uk/visit/the-state-rooms-buckingham-palace" rel="nofollow"> Buckingham Palace </a> you have to see while visiting London. Its mostly crowded with people but never the less checking out this palace is a must see in London. There are also tours available if interested in going inside. Tours of the interior of the palace is only available in the summer from late July until the end of September which the queen is on holiday in Scotland. If the Royal Standard Flag is flying that means the queen is in residences. If its not flying then the Union Jack is flown.
@@ -69,7 +71,7 @@ The home of the Queen and the Royal family. The <a href="https://www.rct.uk/visi
 
 The changing of the Guards Ceremony happens daily at 11.30am when the Royal Guards change shifts.
 
-<a href="https://shareasale.com/r.cfm?b=881584&u=2167244&m=18208&urllink=&afftrack=">Save up to 40% off tours and activities in London</a>
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=653105257" target="_blank">London Combo: Westminster Abbey with Changing of the Guard, Buckingham Palace and Afternoon Tea</a>
 
 ## 4) The Mall
 
@@ -173,6 +175,8 @@ You must buy tickets to ride the <a href="https://www.londoneye.com/" rel="nofol
 
 {{< /gallery >}}
 
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781530365" target="_blank">London Day Tour Including London Eye</a> OR <a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=689203391" target="_blank">London Eye Skip-the-Line Ticket</a>
+
 ## 14) Millennium Bridge
 
 This bridge is officially called the London Millennium Footbridge because its is a steel suspension bridge for people who want to cross the River Thames. The bridge is great access from the south bank to the north bank from the Shakespeare’s Globe to the St Paul’s Cathedral. The bridge looks really cool and the structure of it is unique.
@@ -207,6 +211,8 @@ The bridge opens to incoming boards on the River Thames, and traffic stops on bo
 
 This is the official Her Majesty’s Royal Palace and Fortress. It’s a historic castle located on the north bank of the River Thames. Make sure you book your tickets to tour the castle, I personally wasn’t that interested in it, but boy was I wrong. I really enjoyed the inside tour. While inside since we are Indian most of the group wanted to see the Kohinoor diamond, that was our main attraction. The Kohinoor was nice but there were so many other beautiful crowns inside the Crown Jewels exhibit, it was very impressive.
 
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=781540349" target="_blank">Tower of London and Tower Bridge Walking Tour</a>
+
 Once you enter the Fortress, its tour at your own pace which is nice. So many little corners to check out. Kids love the Torture at the Tower and Bloody Tower exhibits. It’s a very interesting palace to explore and can easily take up a ½ day or more.
 
 {{< load_photoswipe >}}
@@ -226,6 +232,8 @@ Once you enter the Fortress, its tour at your own pace which is nice. So many li
 ## 18) Madame Tussaud's
 
 Tickets are required for Madame Tussaud's, and during holidays the lines are fairly large so book ahead of time. This is a great spot to see life-size wax replicas of icons from history as well as famous celebrities. Great options for picture taking for memories with your idols.
+
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=591379433" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/2798/SITours/madame-tussauds-london-priority-entrance-ticket-including-star-wars-in-london-340056.jpg" border="0"><br/>Madame Tussauds London Priority Entrance Ticket Including Star Wars Exhibition</a><br>from: <b>Viator</b>
 
 ## 19) Oxford Street Shopping
 
@@ -256,6 +264,8 @@ Right next to the Shakespeare’s Globe is a restaurant called The Swan. This is
 ## 22) St Paul’s Cathedral
 
 <a href=”https://www.stpauls.co.uk/" rel="nofollow" > St Paul’s Cathedral</a> is the Cathedral with the large gold dome located in the center of the City of London. It is one of the most recognizable sites in London where many high profiles events also take place like the wedding of Prince Charles and Lady Diana Spencer as well as the 80th & 90th birthdays of Queen Elizabeth II were held. So much culture inside the Cathedral, and so many artworks, tombs and memorials to check out. Winston Churchill & Margaret Thatchers funerals were also held here.
+
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=728891660" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/43394/SITours/private-london-tour-with-guard-change-and-st-pauls-cathedral-in-london-444526.jpg" border="0"><br/>Private London Tour with Guard Change and St Pauls Cathedral</a><br>from: <b>Viator</b>
 
 ## 23) Shard
 

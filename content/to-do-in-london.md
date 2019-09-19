@@ -265,13 +265,13 @@ Right next to the Shakespeare’s Globe is a restaurant called The Swan. This is
 
 <a href=”https://www.stpauls.co.uk/" rel="nofollow" > St Paul’s Cathedral</a> is the Cathedral with the large gold dome located in the center of the City of London. It is one of the most recognizable sites in London where many high profiles events also take place like the wedding of Prince Charles and Lady Diana Spencer as well as the 80th & 90th birthdays of Queen Elizabeth II were held. So much culture inside the Cathedral, and so many artworks, tombs and memorials to check out. Winston Churchill & Margaret Thatchers funerals were also held here.
 
-<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=728891660" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/43394/SITours/private-london-tour-with-guard-change-and-st-pauls-cathedral-in-london-444526.jpg" border="0"><br/>Private London Tour with Guard Change and St Pauls Cathedral</a><br>from: <b>Viator</b>
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=728891660" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/43394/SITours/private-london-tour-with-guard-change-and-st-pauls-cathedral-in-london-444526.jpg" border="0"><br/>Private London Tour with Guard Change and St Pauls Cathedral</a><br>from: <b>Viator</b></center>
 
 ## 23) Shard
 
 The Shard is actually the Shard of Glass. It’s a 95 story tall skyscraper, the tallest building in Europe, hovering over The River Thames. Great place to watch the Sunrise or Sunset.
 
-<a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=689203249" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5613/SITours/the-view-from-the-shard-entrance-ticket-with-optional-champagne-in-london-316003.jpg" border="0"><br/>The View from The Shard Entrance Ticket with Optional Champagne</a><br>from: <b>Viator</b>
+<center><a href="https://www.shareasale.com/m-pr.cfm?merchantID=18208&userID=2167244&productID=689203249" target="_blank"><img alt="" src="https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5613/SITours/the-view-from-the-shard-entrance-ticket-with-optional-champagne-in-london-316003.jpg" border="0"><br/>The View from The Shard Entrance Ticket with Optional Champagne</a><br>from: <b>Viator</b></center>
 
 ## 24) London Day Trips
 

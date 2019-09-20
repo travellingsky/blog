@@ -6,9 +6,9 @@ description = "Traveling can be overwhelming and expensive. "
 draft = true
 image = ""
 pins = []
-slug = "travel-tips"
+slug = "travel-booking-tips"
 tags = ["couples vacation", "family vacations", "cheap travel", "budget travel"]
-title = "Travel Tips we use to snag the best deals"
+title = "Tips to Plan your next Vacation"
 type = "post"
 
 +++
@@ -78,7 +78,7 @@ Without getting too side tracked, Ebates actually works with travel booking site
 
 Its very simple. All you have to do is sign up for Ebates (which is free), and download the plugin onto your internet bar at the top. You can also install the mobile app on your phone as well.
 
-**Downside** is that you have to activate the plugin each time you do a booking
+**Downside** is that you have to activate the plugin each time you do a booking. If you activate it and don't make a purchase or return a purchase you just won't get credited, so not harm done.
 
 **Upside** is that you get free money. see above these bookings we did back in January. 
 
@@ -88,13 +88,9 @@ After experimenting with shopping, and I saw the benefits my husband is also now
 
 ### How to use it
 
-After you have downloaded [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates") onto your computer, 
+After you have downloaded [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates") onto your computer, and each time you go to a website the Purple R will start flashing or a popup with display letting you know that you can activate the deal. Hit The red button to activate and your in business. Just remember make sure the button is clicked on your session for your purchase to be recorded. I always click the Purple R right before i checkout just to double check. Cos even $1 or $2 here and there actually adds up. I use the [Honey App](joinhoney.com/ref/km8i18 "Honey") as well but I personally like Ebates better. Try them both.
 
-Since my husband does most of our bookings, 
-
-[Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates").
-
-1. download ebates
+## 5) Bookings
 
 5)Book Hotels - ebates, refundable
 
@@ -103,6 +99,8 @@ Since my husband does most of our bookings,
 cheap flights
 
 costco travel
+
+book tues or wed or thurs morning
 
 last minute travel deals
 

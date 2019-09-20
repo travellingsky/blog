@@ -150,17 +150,12 @@ Get an International Drivers license. Not all countries require it, but some wil
 
 These are the places we did and did not need a car
 
-London - Underground & Buses were fine
-
-Scotland - We rented a car as we were driving around the Highlands
-
-Italy - Trains were great, did not need a car at all. Also used the Viator Tours and did a lot of walking
-
-Ireland - We rented a car because we drove around the island.
-
-Caribbean Islands - You only need a car if you plan to travel around the Island. If you are spending most of your time at an All Inclusive Resort then its not needed.
-
-China - Hard to tell, we did this as part of a Tour.
+* London - Underground & Buses were fine
+* Scotland - We rented a car as we were driving around the Highlands
+* Italy - Trains were great, did not need a car at all. We did a lot of walking
+* Ireland - We rented a car because we drove around the island.
+* Caribbean Islands - Only need a car if you plan to travel around the Island. 
+* China - Hard to tell, we did this as part of a Tour.
 
 **_<car rental links>_**
 

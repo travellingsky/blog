@@ -70,7 +70,7 @@ Weekend vacations we like to make use of the long weekends, and my husband and I
 
 <ebates banner>
 
-Believe me when I say to download [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates"). Originally I was a little skeptical as well, who gives you cash back for no reason right. Well wrong. To date and I have only been using Ebates for about a year or so, I've earned almost $1000 doing the things I would have done normally anyway. This doesn't apply only to travel but on all online purchases I do. I will be honest, i haven't had much luck with Ebates and Amazon, since Amazon doesn't allow cashback on everything, but Kohls, Macy's, Groupon has saved me a lot of money.
+Believe me when I say to download [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates"). Originally I was a little skeptical as well, who gives you cash back for no reason right. Well wrong. To date and I have only been using Ebates for about a year or so, I've earned almost $1000 doing the things I would have done normally anyway. This doesn't apply only to travel but on all online purchases I do. I will be honest, i haven't had much luck with Ebates and Amazon, since Amazon doesn't allow cashback on everything, but Kohl's, Macy's, Groupon has saved me a lot of money.
 
 <Pic of Ebates>
 
@@ -92,9 +92,13 @@ After you have downloaded [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187
 
 ## 5) Bookings
 
-5)Book Hotels - ebates, refundable
+### Book Hotels 
 
-1. Book tickets - miles, look for deals, check deals from other locations
+ ebates, refundable
+
+### Book Flights
+
+\- miles, look for deals, check deals from other locations
 
 cheap flights
 
@@ -106,7 +110,9 @@ last minute travel deals
 
 link to cj affiliate skyscanner , bookings ...
 
-1. Book Tours - ebates
+### Book Tours 
+
+\- ebates
 
 Keep eyes open for coupons, cancellable
 

@@ -7,7 +7,7 @@ draft = true
 image = ""
 pins = []
 slug = "travel-booking-tips"
-tags = ["couples vacation", "family vacations", "cheap travel", "budget travel"]
+tags = ["couples vacation", "family vacations", "cheap travel", "budget travel", "Rakuten", "Ebates", "Viator"]
 title = "Tips to Plan your next Vacation"
 type = "post"
 
@@ -30,9 +30,9 @@ We think of places where we think we may only need 5-7 days and other locations 
 
 Then my husband gets to work. Yes he does most of the planning, and I do the guiding or approving at the end. On the odd occasion i will look something up but I get a verbal rundown on everything so i'm generally good.
 
-<Copy of planning doc>
+**_<Copy of planning doc>_**
 
-**NOTE :** You want to be able to book your next vacation at least 2-3 months in advance but our big vacations (10 days or more) we generally book 6 months in advance. Why so early you may ask? Because we are prepared to go on our next tour and deals area better when you book early vs book 2-3 months earlier. Also we find that most hotels are booked way out in advance in the time period we usually like to vacation, so we like to be ahead of the game.
+**TIP :** You want to be able to book your next vacation at least 2-3 months in advance but our big vacations (10 days or more) we generally book 6 months in advance. Why so early you may ask? Because we are prepared to go on our next tour and deals area better when you book early vs book 2-3 months earlier. Also we find that most hotels are booked way out in advance in the time period we usually like to vacation, so we like to be ahead of the game.
 
 Book 2-3 months in advance. We book almost 6 months earlier
 
@@ -40,7 +40,7 @@ Book 2-3 months in advance. We book almost 6 months earlier
 
 So once we have decided on a couple of places we would like to visit, its time to research. What is ideal for us maybe not be ideal for you, but you can give it ago. We are not big on taking tours. Til date we have only done 1 tour together which was great but it has its up's and down's. Check out my China Blog for our experiences on that.
 
-<china pic>
+**_<china pic>_**
 
 We actually have folders we create on our desktop with plans for different countries we want to visit. In the folders we start gathering information about what there is to do in each country, what actually interests us. To help us along the way, we took at different tours that are available from different websites. We mainly look at GateOne Travels, TravelZoo tours and Costco Travels and other peoples blogs to help guide us to our ideal vacation.
 
@@ -50,7 +50,7 @@ This does take a bit of time, but once complete the hard part is done.
 
 Soon you will have a 10-12 day itinerary,  or a 5-6 day itinerary ready to be executed, knowing how long you need in each place is important, because once the deal is available you wont have time to go and do the research then, so advance planning is key. Its less likely that you will go back to the same place again if you have only missed one or two spots so you want to cover as much as you can.
 
-<beach pic>
+**_<beach pic>_**
 
 If you like relaxing vacations then, this also works, pick what is important to you and plan some quite evenings out or time at the beach. If you know what you want to do then, it becomes simple.
 
@@ -62,17 +62,17 @@ Think about which is the best time for you to take your trip, this is important 
 
 We take our major vacation (10-12 days) at the end of May beginning of June. Right when school is out for us here in Georgia. Kids are tired and we also need a break, but its the only real time to take such a long vacation without missing school. But others have different schedules, so think carefully about when is a good time for you to travel.
 
-<family pic>
+**_<family pic>_**
 
 Weekend vacations we like to make use of the long weekends, and my husband and I like to take our couples vacation during the second half of the year when school is on. My thinking is, if school is out then the kids should come with us. I don't want to leave them with others when they are off, but if they are at school they are busy, so you don't feel so guilty leaving them behind ;)
 
 ## 4) Download Ebates
 
-<ebates banner>
+**_<ebates banner>_**
 
 Believe me when I say to download [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates"). Originally I was a little skeptical as well, who gives you cash back for no reason right. Well wrong. To date and I have only been using Ebates for about a year or so, I've earned almost $1000 doing the things I would have done normally anyway. This doesn't apply only to travel but on all online purchases I do. I will be honest, i haven't had much luck with Ebates and Amazon, since Amazon doesn't allow cashback on everything, but Kohl's, Macy's, Groupon has saved me a lot of money.
 
-<Pic of Ebates>
+**_<Pic of Ebates>_**
 
 Without getting too side tracked, Ebates actually works with travel booking sites as well. 
 
@@ -88,53 +88,52 @@ After experimenting with shopping, and I saw the benefits my husband is also now
 
 ### How to use it
 
-After you have downloaded [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates") onto your computer, and each time you go to a website the Purple R will start flashing or a popup with display letting you know that you can activate the deal. Hit The red button to activate and your in business. Just remember make sure the button is clicked on your session for your purchase to be recorded. I always click the Purple R right before i checkout just to double check. Cos even $1 or $2 here and there actually adds up. I use the [Honey App](joinhoney.com/ref/km8i18 "Honey") as well but I personally like Ebates better. Try them both.
+After you have downloaded [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates") onto your computer, and each time you go to a website the Purple R will start flashing or a popup with display letting you know that you can activate the deal. Hit The red button to activate and your in business. Just remember make sure the button is clicked on your session for your purchase to be recorded. I always click the Purple R right before i checkout just to double check. Cos even $1 or $2 here and there actually adds up. I use the [Honey App](joinhoney.com/ref/km8i18 "Honey") as well but I personally like Ebates better. Try them both and see what you prefer.
 
 ## 5) Bookings
 
 ### Book Hotels 
 
- ebates, refundable
+You can book hotels using Expedia, Bookings.com or Hotels.com or any other site you find, but don't forget to active Ebates before checking out.
+
+TIPS: Once you know which dates you are going to travel you can book your hotels before you even booked your flights. 
+
+Make sure you book refundable bookings in case something changes with your dates or itinerary.
+
+**_<book hotels link>_**
 
 ### Book Flights
 
-\- miles, look for deals, check deals from other locations
+Booking flights is usually a huge expense. Once again Ebates is your friend. Ensure its active when you do your booking. Flights are usually not refundable. 
 
-cheap flights
+If you book a non-direct flight then ensure you leave enough time inbetween flights incase of delays.
 
-costco travel
+Don't wait until the last minute to book your flights. Sometimes you may find a deal, but it doesn't mean it will meet your schedule. It works for spontaneous travelers mostly. Keep your eyes open for flight deals from skyscanner **_<skyscanner link>_** or bookings **_<bookings link>_**
 
-book tues or wed or thurs morning
+Monitor the flights you are looking at for your destination so you know when you do come across a deal. Once you decide where you are going, it doesn't mean you have to book the flight right away.
 
-last minute travel deals
+**TIP:** Sometimes it maybe cheaper to fly to a different city and catch a flight from there. IE: If there is a deal from Miami to Brazil, but the price from Atlanta to Brazil is much higher, look into if its cheaper to from from Atlanta to Miami to Brazil.
 
-link to cj affiliate skyscanner , bookings ...
+I have searching for flights on a Tues, Wed or Thurs morning is cheaper than searching on other days or evenings.
+
+Look at one way trips to and from your destinations instead of only looking at round trips.  A lot of times you will find cheaper deals.
+
+If you are a spontaneous traveler then look into last minute deals**_<last minute deals link>_**. This are great if your schedule allows it.
+
+**_<sky scanner banner>_**
 
 ### Book Tours 
 
-\- ebates
+I know i sound like a broken record and this isn't even a sponsored blog. But i really do love Ebates. We book most of our tours using Viator. But we also activate Ebates.
 
-Keep eyes open for coupons, cancellable
+I original used Viator for the first time when i booked some tours for my Aunt and her family in Las Vegas.  After that we use Viator for all our bookings we do in any country it is offered. We have used it in Las Vegas (Grand Canyon ...), London (Day Tour to Stonehenge, Windsor & Bath)  & Italy (Pompeii, Vatican City ...)
 
-1. Map out each day of your travel
-2. Ensure you have roaming set to on on your cell phone
+* It was very simple to use and book
+* Tickets are refundable up to a certain period before travel
+* Book your tickets and if a 20% coupon comes up before you travel, then cancel the original booking and re-book, its that simple
+* They have so many tours and ticketing available there is no real need to go anywhere else
+* Service to date (completed over 20+ tours with them) have been great
 
-googlemaps
+TIP: Book your tour (ensure its cancel-able), then keep your eyes peeled for a coupon. The coupons don't come out too often, but give you great savings if you are able to grab it.
 
-1. Travel Light
-
-Copies of Passport and Important Documents
-
-Google Translate - Learn basic phrases
-
-Take cash
-
-Haggle
-
-Take adapter and converter
-
-Prebook attractions
-
-preplan outfits
-
-take extra underwear
+**_<Viator Link>_**

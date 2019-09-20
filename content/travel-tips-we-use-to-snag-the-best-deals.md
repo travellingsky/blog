@@ -58,7 +58,7 @@ If you like relaxing vacations then, this also works, pick what is important to 
 
 The hard task is done. You have a few different itinerary's, you may even have more if you have a whole list of places to visit but cant decide which one first.
 
-Think about which is the best time for you to take your trip, this is important so you know which dates to search for.  Things about do you have hard dates you must follow, or can you adjust your schedule here or there. Our dates are usually hard dates, because of my husbands work schedule, to maximize our time off, without hurting his work schedule. 
+Think about which is the best time for you to take your trip, this is important so you know which dates to search for.  Things about do you have hard dates you must follow, or can you adjust your schedule here or there. Our dates are usually hard dates, because of my husbands work schedule, to maximize our time off, without hurting his work schedule.
 
 We take our major vacation (10-12 days) at the end of May beginning of June. Right when school is out for us here in Georgia. Kids are tired and we also need a break, but its the only real time to take such a long vacation without missing school. But others have different schedules, so think carefully about when is a good time for you to travel.
 
@@ -68,13 +68,37 @@ Weekend vacations we like to make use of the long weekends, and my husband and I
 
 ## 4) Download Ebates
 
-<Pic of Ebates
+<ebates banner>
 
-4) download ebates
+Believe me when I say to download [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates"). Originally I was a little skeptical as well, who gives you cash back for no reason right. Well wrong. To date and I have only been using Ebates for about a year or so, I've earned almost $1000 doing the things I would have done normally anyway. This doesn't apply only to travel but on all online purchases I do. I will be honest, i haven't had much luck with Ebates and Amazon, since Amazon doesn't allow cashback on everything, but Kohls, Macy's, Groupon has saved me a lot of money.
+
+<Pic of Ebates>
+
+Without getting too side tracked, Ebates actually works with travel booking sites as well. 
+
+Its very simple. All you have to do is sign up for Ebates (which is free), and download the plugin onto your internet bar at the top. You can also install the mobile app on your phone as well.
+
+**Downside** is that you have to activate the plugin each time you do a booking
+
+**Upside** is that you get free money. see above these bookings we did back in January. 
+
+We didn't actually take these vacations until June and July. A few weeks after we completed these vacations, we got the credit to our account, and at the end of the quarter we received a Big Fat Check in the mail. (Yep that's what Rakuten calls it).
+
+After experimenting with shopping, and I saw the benefits my husband is also now well training to use Ebates. Its the best app ever in my opinion and did I say its FREE.
+
+### How to use it
+
+After you have downloaded [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates") onto your computer, 
+
+Since my husband does most of our bookings, 
+
+[Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates").
+
+1. download ebates
 
 5)Book Hotels - ebates, refundable
 
-6) Book tickets - miles, look for deals, check deals from other locations
+1. Book tickets - miles, look for deals, check deals from other locations
 
 cheap flights
 
@@ -84,17 +108,16 @@ last minute travel deals
 
 link to cj affiliate skyscanner , bookings ...
 
-7) Book Tours - ebates
+1. Book Tours - ebates
 
 Keep eyes open for coupons, cancellable
 
-8) Map out each day of your travel
-
-9) Ensure you have roaming set to on on your cell phone
+1. Map out each day of your travel
+2. Ensure you have roaming set to on on your cell phone
 
 googlemaps
 
-10) Travel Light
+1. Travel Light
 
 Copies of Passport and Important Documents
 

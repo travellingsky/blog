@@ -1,12 +1,12 @@
 +++
 categories = ["Europe"]
 date = "2019-09-16T00:00:00-04:00"
-description = "London England, many things to see in London. Access to my 5 day London Itinerary and pictures of our vacation to London City, as well as some great day trips from London"
+description = "London England, Check out my 24 things to see in London blog. Access to my 5 day London Itinerary and pictures of our vacation to London City, as well as some great day trips you will enjoy from London"
 image = "/uploads/Buckingham Palace 1.jpg"
 pins = []
 slug = "24-things-to-see-in-london"
 tags = ["london england", "london city", "london day trips", "cathedrals", "things to do", "things to see", "Itinerary", "london sightseeing"]
-title = "24 Things to See in London"
+title = "London Sights worth checking out"
 type = "post"
 
 +++

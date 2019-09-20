@@ -42,7 +42,7 @@ So once we have decided on a couple of places we would like to visit, its time t
 
 <china pic>
 
-We actually have folders we create on our desktop with plans for different countries we want to visit. In the folders we start gathering information about what there is to do in each country, what actually interests us. To help us along the way, we took at different tours that are available from different websites. We mainly look at GateOne Travels, TravelZoo tours and other peoples blogs to help guide us to our ideal vacation.
+We actually have folders we create on our desktop with plans for different countries we want to visit. In the folders we start gathering information about what there is to do in each country, what actually interests us. To help us along the way, we took at different tours that are available from different websites. We mainly look at GateOne Travels, TravelZoo tours and Costco Travels and other peoples blogs to help guide us to our ideal vacation.
 
 We take the highlights from each itinerary and create our own. This way we can add or remove cities, places we are or are not interested in visiting.
 

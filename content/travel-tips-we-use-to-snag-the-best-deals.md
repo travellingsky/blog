@@ -72,7 +72,7 @@ Weekend vacations we like to make use of the long weekends, and my husband and I
 
 Believe me when I say to download [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates"). Originally I was a little skeptical as well, who gives you cash back for no reason right. Well wrong. To date and I have only been using Ebates for about a year or so, I've earned almost $1000 doing the things I would have done normally anyway. This doesn't apply only to travel but on all online purchases I do. I will be honest, i haven't had much luck with Ebates and Amazon, since Amazon doesn't allow cashback on everything, but Kohl's, Macy's, Groupon has saved me a lot of money.
 
-**_<Pic of Ebates>_**
+<center><img src="/uploads/EbatesSample.jpg" alt="Ebates Sample"  style="width: 50%" /><figcaption> My Ebates Returns </figcaption></center>
 
 Without getting too side tracked, Ebates actually works with travel booking sites as well.
 
@@ -87,6 +87,8 @@ We didn't actually take these vacations until June and July. A few weeks after w
 After experimenting with shopping, and I saw the benefits my husband is also now well training to use Ebates. Its the best app ever in my opinion and did I say its FREE.
 
 ### How to use it
+
+<center><img src="/uploads/EbatesActivation.jpg" alt="Ebates Activation"  style="width: 50%" /><figcaption> Ebates Activation </figcaption></center>
 
 After you have downloaded [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates") onto your computer, and each time you go to a website the Purple R will start flashing or a popup with display letting you know that you can activate the deal. Hit The red button to activate and your in business. Just remember make sure the button is clicked on your session for your purchase to be recorded. I always click the Purple R right before i checkout just to double check. Cos even $1 or $2 here and there actually adds up. I use the [Honey App](joinhoney.com/ref/km8i18 "Honey") as well but I personally like Ebates better. Try them both and see what you prefer.
 
@@ -140,9 +142,9 @@ I original used Viator for the first time when i booked some tours for my Aunt a
 
 ### Book Transportation
 
-Of course once again Ebates comes into play, if the site allows it. Some will some will not. 
+Of course once again Ebates comes into play, if the site allows it. Some will some will not.
 
-Not all places you travel will require a car, so think about this carefully before you go ahead and book a car.  A lot of places public transportation is sufficient and very easy to use. Trains & Buses in Europe are exceptional. 
+Not all places you travel will require a car, so think about this carefully before you go ahead and book a car.  A lot of places public transportation is sufficient and very easy to use. Trains & Buses in Europe are exceptional.
 
 **TIPS:** If you do book a car ensure you take up the full protection insurance. Yes it costs money but better safe than sorry. Someone is our group was glad he got the insurance after his accident.
 
@@ -154,7 +156,7 @@ These are the places we did and did not need a car
 * Scotland - We rented a car as we were driving around the Highlands
 * Italy - Trains were great, did not need a car at all. We did a lot of walking
 * Ireland - We rented a car because we drove around the island.
-* Caribbean Islands - Only need a car if you plan to travel around the Island. 
+* Caribbean Islands - Only need a car if you plan to travel around the Island.
 * China - Hard to tell, we did this as part of a Tour.
 * Greece - Only hired a car for an overnight trip to Delphi from Athens, otherwise not needed.
 

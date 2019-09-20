@@ -2,7 +2,7 @@
 aliases = []
 categories = ["General"]
 date = "2019-09-20T00:00:00-04:00"
-description = "Traveling can be overwhelming and expensive. "
+description = "Traveling can be overwhelming and expensive. Check out my tips and tricks on how we plan and book our vacations to save that extra buck."
 draft = true
 image = ""
 pins = []
@@ -106,7 +106,7 @@ Make sure you book refundable bookings in case something changes with your dates
 
 Booking flights is usually a huge expense. Once again Ebates is your friend. Ensure its active when you do your booking. Flights are usually not refundable.
 
-If you book a non-direct flight then ensure you leave enough time inbetween flights incase of delays.
+If you book a non-direct flight then ensure you leave enough time in-between flights in case of delays.
 
 Don't wait until the last minute to book your flights. Sometimes you may find a deal, but it doesn't mean it will meet your schedule. It works for spontaneous travelers mostly. Keep your eyes open for flight deals from skyscanner **_<skyscanner link>_** or bookings **_<bookings link>_**
 

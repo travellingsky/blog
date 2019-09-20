@@ -142,7 +142,7 @@ I original used Viator for the first time when i booked some tours for my Aunt a
 
 Of course once again Ebates comes into play, if the site allows it. Some will some will not. 
 
-Not all places you travel will require a car, so think about this carefully before you go ahead and book a car.  A lot of places public transportation is sufficient and very easy to use.
+Not all places you travel will require a car, so think about this carefully before you go ahead and book a car.  A lot of places public transportation is sufficient and very easy to use. Trains & Buses in Europe are exceptional. 
 
 **TIPS:** If you do book a car ensure you take up the full protection insurance. Yes it costs money but better safe than sorry. Someone is our group was glad he got the insurance after his accident.
 
@@ -156,6 +156,7 @@ These are the places we did and did not need a car
 * Ireland - We rented a car because we drove around the island.
 * Caribbean Islands - Only need a car if you plan to travel around the Island. 
 * China - Hard to tell, we did this as part of a Tour.
+* Greece - Only hired a car for an overnight trip to Delphi from Athens, otherwise not needed.
 
 **_<car rental links>_**
 

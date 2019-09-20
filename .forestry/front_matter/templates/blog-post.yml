@@ -85,8 +85,8 @@ fields:
   label: Aliases
   description: Old URLs that should redirect to this page so users don't get a 404.
 pages:
-- content/traveling-made-easy-with-easy-travel-tips.md
 - content/travel-tips-we-use-to-snag-the-best-deals.md
+- content/traveling-made-easy-with-easy-travel-tips.md
 - content/things-to-do-in-chattanooga.md
 - content/riviera-maya-mexico.md
 - content/weekend-getaway-chattanooga-tn.md

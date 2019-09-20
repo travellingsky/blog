@@ -20,7 +20,7 @@ I'm going to share with you some tips and tricks we use when traveling. I'll upd
 
 Our vacations vary from either a couples trip (my husband and I), family trip (us and our kids) or trips with friends and family. Our record has been 16 people on a trip with us (including a 2 year old baby)
 
-## 1) Choose a few Destinations
+## 1) Choose a few destinations
 
 Are there a list of places you really want to go, but just don't know where to start? We like to travel 1 country at a time, maybe adding a 2nd country if its going to be a short vacation to do only 1. We keep our options open.
 
@@ -36,7 +36,7 @@ Then my husband gets to work. Yes he does most of the planning, and I do the gui
 
 Book 2-3 months in advance. We book almost 6 months earlier
 
-## 2) Plan your ideal Trip
+## 2) Plan your ideal trip
 
 So once we have decided on a couple of places we would like to visit, its time to research. What is ideal for us maybe not be ideal for you, but you can give it ago. We are not big on taking tours. Til date we have only done 1 tour together which was great but it has its up's and down's. Check out my China Blog for our experiences on that.
 
@@ -74,13 +74,13 @@ Believe me when I say to download [Ebates](https://www.rakuten.com/r/SHETAL23?ee
 
 **_<Pic of Ebates>_**
 
-Without getting too side tracked, Ebates actually works with travel booking sites as well. 
+Without getting too side tracked, Ebates actually works with travel booking sites as well.
 
 Its very simple. All you have to do is sign up for Ebates (which is free), and download the plugin onto your internet bar at the top. You can also install the mobile app on your phone as well.
 
 **Downside** is that you have to activate the plugin each time you do a booking. If you activate it and don't make a purchase or return a purchase you just won't get credited, so not harm done.
 
-**Upside** is that you get free money. see above these bookings we did back in January. 
+**Upside** is that you get free money. see above these bookings we did back in January.
 
 We didn't actually take these vacations until June and July. A few weeks after we completed these vacations, we got the credit to our account, and at the end of the quarter we received a Big Fat Check in the mail. (Yep that's what Rakuten calls it).
 
@@ -92,11 +92,11 @@ After you have downloaded [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187
 
 ## 5) Bookings
 
-### Book Hotels 
+### Book Hotels
 
 You can book hotels using Expedia, Bookings.com or Hotels.com or any other site you find, but don't forget to active Ebates before checking out.
 
-TIPS: Once you know which dates you are going to travel you can book your hotels before you even booked your flights. 
+TIPS: Once you know which dates you are going to travel you can book your hotels before you even booked your flights.
 
 Make sure you book refundable bookings in case something changes with your dates or itinerary.
 
@@ -104,7 +104,7 @@ Make sure you book refundable bookings in case something changes with your dates
 
 ### Book Flights
 
-Booking flights is usually a huge expense. Once again Ebates is your friend. Ensure its active when you do your booking. Flights are usually not refundable. 
+Booking flights is usually a huge expense. Once again Ebates is your friend. Ensure its active when you do your booking. Flights are usually not refundable.
 
 If you book a non-direct flight then ensure you leave enough time inbetween flights incase of delays.
 
@@ -122,7 +122,7 @@ If you are a spontaneous traveler then look into last minute deals**_<last minut
 
 **_<sky scanner banner>_**
 
-### Book Tours 
+### Book Tours
 
 I know i sound like a broken record and this isn't even a sponsored blog. But i really do love Ebates. We book most of our tours using Viator. But we also activate Ebates.
 
@@ -134,6 +134,34 @@ I original used Viator for the first time when i booked some tours for my Aunt a
 * They have so many tours and ticketing available there is no real need to go anywhere else
 * Service to date (completed over 20+ tours with them) have been great
 
-TIP: Book your tour (ensure its cancel-able), then keep your eyes peeled for a coupon. The coupons don't come out too often, but give you great savings if you are able to grab it.
+**TIP:** Book your tour (ensure its cancel-able), then keep your eyes peeled for a coupon. The coupons don't come out too often, but give you great savings if you are able to grab it.
 
 **_<Viator Link>_**
+
+### Book Transportation
+
+Of course once again Ebates comes into play, if the site allows it. Some will some will not. 
+
+Not all places you travel will require a car, so think about this carefully before you go ahead and book a car.  A lot of places public transportation is sufficient and very easy to use.
+
+**TIPS:** If you do book a car ensure you take up the full protection insurance. Yes it costs money but better safe than sorry. Someone is our group was glad he got the insurance after his accident.
+
+Get an International Drivers license. Not all countries require it, but some will not let you rent a car unless you have it.
+
+These are the places we did and did not need a car
+
+London - Underground & Buses were fine
+
+Scotland - We rented a car as we were driving around the Highlands
+
+Italy - Trains were great, did not need a car at all. Also used the Viator Tours and did a lot of walking
+
+Ireland - We rented a car because we drove around the island.
+
+Caribbean Islands - You only need a car if you plan to travel around the Island. If you are spending most of your time at an All Inclusive Resort then its not needed.
+
+China - Hard to tell, we did this as part of a Tour.
+
+**_<car rental links>_**
+
+Check out my blog on [Travel Tips ](www.skytravelblogger.com/travel-tips "Travel Tips")for tips while you are traveling, with your newly created itinerary.

@@ -50,7 +50,7 @@ This does take a bit of time, but once complete the hard part is done.
 
 Soon you will have a 10-12 day itinerary,  or a 5-6 day itinerary ready to be executed, knowing how long you need in each place is important, because once the deal is available you wont have time to go and do the research then, so advance planning is key. Its less likely that you will go back to the same place again if you have only missed one or two spots so you want to cover as much as you can.
 
-**_<beach pic>_**
+<center><img src="/uploads/China Travel.jpg" alt="China Travel"  style="width: 50%" /></center>
 
 If you like relaxing vacations then, this also works, pick what is important to you and plan some quite evenings out or time at the beach. If you know what you want to do then, it becomes simple.
 
@@ -62,7 +62,7 @@ Think about which is the best time for you to take your trip, this is important 
 
 We take our major vacation (10-12 days) at the end of May beginning of June. Right when school is out for us here in Georgia. Kids are tired and we also need a break, but its the only real time to take such a long vacation without missing school. But others have different schedules, so think carefully about when is a good time for you to travel.
 
-**_<family pic>_**
+<center><img src="/uploads/Mexico.jpg" alt="Mexico"  style="width: 50%" /></center>
 
 Weekend vacations we like to make use of the long weekends, and my husband and I like to take our couples vacation during the second half of the year when school is on. My thinking is, if school is out then the kids should come with us. I don't want to leave them with others when they are off, but if they are at school they are busy, so you don't feel so guilty leaving them behind ;)
 

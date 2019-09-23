@@ -10,9 +10,9 @@ title = "5 Day - London Itinerary"
 type = "post"
 
 +++
-Traveling the a place like London can be a bit overwhelming, but no worries, I have you covered. Check out our itinerary and some pointers we learnt along the way, so have a wonderful experience in London, and be able to enjoy as many of the attractions as time for you permits. Below is the itinerary we followed, feel free to modify as needed.
+Traveling a place like London can be a bit overwhelming, but no worries, I have you covered. Check out our itinerary and some pointers we learnt along the way, so have a wonderful experience in London, and be able to enjoy as many of the attractions as time for you permits. Below is the itinerary we followed, feel free to modify as needed.
 
-**RECOMMENDATIONS:** 
+**RECOMMENDATIONS:**
 
 **Tickets**
 
@@ -28,7 +28,7 @@ We highly recommend you buy these tickets beforehand for these Attractions if yo
 * Book your afternoon Tea experience
 * And which Day tour you decide to do via Viator
 
-**Transportation** 
+**Transportation**
 
 The easiest mode of Transportation within London is by Underground and/or Bus.  If you think you are going to use the underground more than a couple of times during that particular day then a Day Pass is cheaper. Otherwise just do 1 ways or round trips.
 

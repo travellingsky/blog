@@ -171,6 +171,6 @@ Ideally you want to cover to stay as central to most attractions as possible but
 
 If you have questions or need help, feel free to reach out. I am not a travel agent but would love to help, if you need it.
 
-Check out my blog on [Travel Tips ](www.skytravelblogger.com/travel-tips "Travel Tips")for tips while you are traveling, with your newly created itinerary.
+Check out my blog on [Travel Tips ](https://www.skytravelblogger.com/travel-tips/ "Travel Tips")for tips while you are traveling, with your newly created itinerary.
 
 <div id="amzn-assoc-ad-d1dde3e1-be22-409a-96ed-665e52fdae53"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=d1dde3e1-be22-409a-96ed-665e52fdae53"></script>

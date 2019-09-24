@@ -65,7 +65,7 @@ Weekend vacations we like to make use of the long weekends, and my husband and I
 
 **_<ebates banner>_**
 
-Believe me when I say to download [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates"). Originally I was a little skeptical as well, who gives you cash back for no reason right. Well wrong. To date and I have only been using Ebates for about a year or so, I've earned almost $1000 doing the things I would have done normally anyway. This doesn't apply only to travel but on all online purchases I do. I will be honest, i haven't had much luck with Ebates and Amazon, since Amazon doesn't allow cashback on everything, but Kohl's, Macy's, Groupon has saved me a lot of money.
+Believe me when I say to download <a href="https://www.rakuten.com/r/SHETAL23?eeid=28187" rel="nofollow">Ebates</a>. Originally I was a little skeptical as well, who gives you cash back for no reason right. Well wrong. To date and I have only been using Ebates for about a year or so, I've earned almost $1000 doing the things I would have done normally anyway. This doesn't apply only to travel but on all online purchases I do. I will be honest, i haven't had much luck with Ebates and Amazon, since Amazon doesn't allow cashback on everything, but Kohl's, Macy's, Groupon has saved me a lot of money.
 
 <center><img src="/uploads/EbatesSample.jpg" alt="Ebates Sample"  style="width: 50%" /><figcaption> My Ebates Returns </figcaption></center>
 
@@ -85,13 +85,13 @@ After experimenting with shopping, and I saw the benefits my husband is also now
 
 <center><img src="/uploads/EbatesActivation.jpg" alt="Ebates Activation"  style="width: 50%" /></center>
 
-After you have downloaded [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates") onto your computer, and each time you go to a website the Purple R will start flashing or a popup with display letting you know that you can activate the deal. Hit The red button to activate and your in business. Just remember make sure the button is clicked on your session for your purchase to be recorded. I always click the Purple R right before i checkout just to double check. Cos even $1 or $2 here and there actually adds up. I use the [Honey App](joinhoney.com/ref/km8i18 "Honey") as well but I personally like Ebates better. Try them both and see what you prefer.
+After you have downloaded <a href="https://www.rakuten.com/r/SHETAL23?eeid=28187" rel="nofollow">Ebates </a>onto your computer, and each time you go to a website the Purple R will start flashing or a popup with display letting you know that you can activate the deal. Hit The red button to activate and your in business. Just remember make sure the button is clicked on your session for your purchase to be recorded. I always click the Purple R right before i checkout just to double check. Cos even $1 or $2 here and there actually adds up. I use the [Honey App](joinhoney.com/ref/km8i18 "Honey") as well but I personally like Ebates better. Try them both and see what you prefer.
 
 ## 5) Bookings
 
 ### Book Hotels
 
-You can book hotels using Expedia, Bookings.com or Hotels.com or any other site you find, but don't forget to active [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates") before checking out.
+You can book hotels using Expedia, Bookings.com or Hotels.com or any other site you find, but don't forget to active <a href="https://www.rakuten.com/r/SHETAL23?eeid=28187" rel="nofollow">Ebates </a> before checking out.
 
 TIPS: Once you know which dates you are going to travel you can book your hotels before you even booked your flights.
 
@@ -105,7 +105,7 @@ Search and compare the <a href="http://www.dpbolvw.net/click-9165033-13268017?si
 
 ### Book Flights
 
-Booking flights is usually a huge expense. Once again Ebates is your friend. Ensure its active when you do your booking. Flights are usually not refundable.
+Booking flights is usually a huge expense. Once again <a href="https://www.rakuten.com/r/SHETAL23?eeid=28187" rel="nofollow">Ebates </a> is your friend. Ensure its active when you do your booking. Flights are usually not refundable.
 
 If you book a non-direct flight then ensure you leave enough time in-between flights in case of delays.
 
@@ -129,7 +129,7 @@ If you are a spontaneous traveler then look into last minute deals**_<last minut
 
 ### Book Tours
 
-I know i sound like a broken record and this isn't even a sponsored blog. But i really do love Ebates. We book most of our tours using Viator. But we also activate Ebates.
+I know i sound like a broken record and this isn't even a sponsored blog. But i really do love <a href="https://www.rakuten.com/r/SHETAL23?eeid=28187" rel="nofollow">Ebates </a>. We book most of our tours using Viator. But we also activate Ebates.
 
 I original used Viator for the first time when i booked some tours for my Aunt and her family in Las Vegas.  After that we use Viator for all our bookings we do in any country it is offered. We have used it in Las Vegas (Grand Canyon ...), London (Day Tour to Stonehenge, Windsor & Bath)  & Italy (Pompeii, Vatican City ...)
 
@@ -145,7 +145,7 @@ I original used Viator for the first time when i booked some tours for my Aunt a
 
 ### Book Transportation
 
-Of course once again Ebates comes into play, if the site allows it. Some will some will not.
+Of course once again <a href="https://www.rakuten.com/r/SHETAL23?eeid=28187" rel="nofollow">Ebates </a> comes into play, if the site allows it. Some will some will not.
 
 Not all places you travel will require a car, so think about this carefully before you go ahead and book a car.  A lot of places public transportation is sufficient and very easy to use. Trains & Buses in Europe are exceptional.
 

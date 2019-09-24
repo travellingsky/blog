@@ -49,7 +49,7 @@ In this day and age, you need a cell phone. If you don't have one that's fine, t
 
   We also HAD NOT installed the download file and the internet was not very good. We made it thru dinner by ordering mimicking a chicken and so on so forth. We went back to the hotel and download the Chinese downloadable file to avoid any more confusion like this.
 
-**<tmobile>**
+**_tmobile_**
 
 Learn some basic phrases before you go. Like "Hello", "Thank you", "Good bye" and whatever else you can think off, it makes life easier when you are there, and the locals like to see you making an effort.
 
@@ -70,15 +70,15 @@ The above picture is what NOT TO DO. Luggage was for 15 people for a 2 week vaca
 
 ### So how to pack?
 
-**<amazon handbags>**
+**amazon handbags**
 
 1. BAG - Firstly start with a handbag for each person travelling, and take out all you plan to take.
 2. TOILETRIES - Take Travel size items like shampoo's, conditioners, body wash, mouthwash, toothpaste... or just buy it once you get there esp in European countries like England, there is a store on every corner.
 
-   **<toiletries>**
+   **_toiletries_**
 3. CLOTHING - Limit your tops and bottoms. For every bottom match at least 3-4 tops
 
-   Do take extra pairs of underwear. Tops and bottoms can be repeated, I wouldnt repeat underwear though.
+   Do take extra pairs of underwear. Tops and bottoms can be repeated, I wouldn't repeat underwear though.
 
    If possible, plan your outfits so you know exactly what you need, and maybe take an extra couple for options. I like options, but i sometimes go overboard.
 4. If there is a possibility to do laundry in the middle of the trip then take less stuff

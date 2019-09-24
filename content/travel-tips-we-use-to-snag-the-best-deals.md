@@ -141,7 +141,7 @@ I original used Viator for the first time when i booked some tours for my Aunt a
 
 **TIP:** Book your tour (ensure its cancel-able), then keep your eyes peeled for a coupon. The coupons don't come out too often, but give you great savings if you are able to grab it.
 
-<a target="_blank" href="https://shareasale.com/r.cfm?b=148573&amp;u=2167244&amp;m=18208&amp;urllink=&amp;afftrack="><img src="https://static.shareasale.com/image/18208/728x90198.gif" border="0" /></a>
+<a target="_blank" href="https://shareasale.com/r.cfm?b=148573&u=2167244&m=18208&urllink=&afftrack="><img src="https://static.shareasale.com/image/18208/728x90198.gif" border="0" /></a>
 
 ### Book Transportation
 
@@ -166,5 +166,9 @@ These are the places we did and did not need a car
 <a href="http://www.jdoqocy.com/click-9165033-13035618?sid=5224213" target="_top">
 
 <img src="http://www.ftjcfx.com/image-9165033-13035618" width="468" height="60" alt="" border="0"/></a>
+
+Ideally you want to cover to stay as central to most attractions as possible but also close to public transportation (like train stations). You want to have your accommodations and flights all booked well in advance of travel, and you want to have your days some what planned. We tend to book a lot in a day because we want to cover as much ground as possible, but if you like to relax, then only plan about half to three quarter days  worth of stuff, so you can chill the rest of the time.
+
+If you have questions or need help, feel free to reach out. I am not a travel agent but would love to help, if you need it.
 
 Check out my blog on [Travel Tips ](www.skytravelblogger.com/travel-tips "Travel Tips")for tips while you are traveling, with your newly created itinerary.

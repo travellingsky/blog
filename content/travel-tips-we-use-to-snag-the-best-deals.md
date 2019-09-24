@@ -30,8 +30,6 @@ We think of places where we think we may only need 5-7 days and other locations 
 
 Then my husband gets to work. Yes he does most of the planning, and I do the guiding or approving at the end. On the odd occasion i will look something up but I get a verbal rundown on everything so i'm generally good.
 
-**_<Copy of planning doc>_**
-
 **TIP :** You want to be able to book your next vacation at least 2-3 months in advance but our big vacations (10 days or more) we generally book 6 months in advance. Why so early you may ask? Because we are prepared to go on our next tour and deals area better when you book early vs book 2-3 months earlier. Also we find that most hotels are booked way out in advance in the time period we usually like to vacation, so we like to be ahead of the game.
 
 Book 2-3 months in advance. We book almost 6 months earlier
@@ -39,8 +37,6 @@ Book 2-3 months in advance. We book almost 6 months earlier
 ## 2) Plan your ideal trip
 
 So once we have decided on a couple of places we would like to visit, its time to research. What is ideal for us maybe not be ideal for you, but you can give it ago. We are not big on taking tours. Til date we have only done 1 tour together which was great but it has its up's and down's. Check out my China Blog for our experiences on that.
-
-**_<china pic>_**
 
 We actually have folders we create on our desktop with plans for different countries we want to visit. In the folders we start gathering information about what there is to do in each country, what actually interests us. To help us along the way, we took at different tours that are available from different websites. We mainly look at GateOne Travels, TravelZoo tours and Costco Travels and other peoples blogs to help guide us to our ideal vacation.
 
@@ -96,13 +92,17 @@ After you have downloaded [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187
 
 ### Book Hotels
 
-You can book hotels using Expedia, Bookings.com or Hotels.com or any other site you find, but don't forget to active Ebates before checking out.
+You can book hotels using Expedia, Bookings.com or Hotels.com or any other site you find, but don't forget to active [Ebates](https://www.rakuten.com/r/SHETAL23?eeid=28187 "Ebates") before checking out.
 
 TIPS: Once you know which dates you are going to travel you can book your hotels before you even booked your flights.
 
 Make sure you book refundable bookings in case something changes with your dates or itinerary.
 
-**_<book hotels link>_**
+Search and compare the <a href="http://www.dpbolvw.net/click-9165033-13268017?sid=5224213" target="_top"> top hotels </a> around the world <img src="http://www.awltovhc.com/image-9165033-13268017" width="1" height="1" border="0"/>
+
+<a href="http://www.anrdoezrs.net/click-9165033-12873200?sid=5224213" target="_top">Save up to 60% off Hotels</a><img src="http://www.awltovhc.com/image-9165033-12873200" width="1" height="1" border="0"/>
+
+<center><a href="http://www.tkqlhce.com/click-9165033-13094400?sid=5224213" target="_top"><img src="http://www.awltovhc.com/image-9165033-13094400" width="300" height="250" alt="" border="0"/></a></center>
 
 ### Book Flights
 
@@ -110,9 +110,11 @@ Booking flights is usually a huge expense. Once again Ebates is your friend. Ens
 
 If you book a non-direct flight then ensure you leave enough time in-between flights in case of delays.
 
-Don't wait until the last minute to book your flights. Sometimes you may find a deal, but it doesn't mean it will meet your schedule. It works for spontaneous travelers mostly. Keep your eyes open for flight deals from skyscanner **_<skyscanner link>_** or bookings **_<bookings link>_**
+Don't wait until the last minute to book your flights. Sometimes you may find a deal, but it doesn't mean it will meet your schedule. It works for spontaneous travelers mostly. Keep your eyes open for flight deals from <a href="http://www.tkqlhce.com/click-9165033-12532525?sid=5224213" target="_top">SkyScanner</a><img src="http://www.awltovhc.com/image-9165033-12532525" width="1" height="1" border="0"/> or <a href="http://www.jdoqocy.com/click-9165033-12183441?sid=5224213" target="_top">Vayama </a><img src="http://www.tqlkg.com/image-9165033-12183441" width="1" height="1" border="0"/>
 
 Monitor the flights you are looking at for your destination so you know when you do come across a deal. Once you decide where you are going, it doesn't mean you have to book the flight right away.
+
+<a href="http://www.jdoqocy.com/click-9165033-13252719?sid=5224213" target="_top"> United Airlines flight deals </a><img src="http://www.ftjcfx.com/image-9165033-13252719" width="1" height="1" border="0"/>
 
 **TIP:** Sometimes it maybe cheaper to fly to a different city and catch a flight from there. IE: If there is a deal from Miami to Brazil, but the price from Atlanta to Brazil is much higher, look into if its cheaper to from from Atlanta to Miami to Brazil.
 
@@ -122,7 +124,9 @@ Look at one way trips to and from your destinations instead of only looking at r
 
 If you are a spontaneous traveler then look into last minute deals**_<last minute deals link>_**. This are great if your schedule allows it.
 
-**_<sky scanner banner>_**
+<a href="http://www.dpbolvw.net/click-9165033-12837954?sid=5224213" target="_top">
+
+<img src="http://www.awltovhc.com/image-9165033-12837954" width="728" height="91" alt="" border="0"/></a>
 
 ### Book Tours
 
@@ -138,7 +142,7 @@ I original used Viator for the first time when i booked some tours for my Aunt a
 
 **TIP:** Book your tour (ensure its cancel-able), then keep your eyes peeled for a coupon. The coupons don't come out too often, but give you great savings if you are able to grab it.
 
-**_<Viator Link>_**
+<a target="_blank" href="https://shareasale.com/r.cfm?b=148573&amp;u=2167244&amp;m=18208&amp;urllink=&amp;afftrack="><img src="https://static.shareasale.com/image/18208/728x90198.gif" border="0" /></a>
 
 ### Book Transportation
 
@@ -160,6 +164,8 @@ These are the places we did and did not need a car
 * China - Hard to tell, we did this as part of a Tour.
 * Greece - Only hired a car for an overnight trip to Delphi from Athens, otherwise not needed.
 
-**_<car rental links>_**
+<a href="http://www.jdoqocy.com/click-9165033-13035618?sid=5224213" target="_top">
+
+<img src="http://www.ftjcfx.com/image-9165033-13035618" width="468" height="60" alt="" border="0"/></a>
 
 Check out my blog on [Travel Tips ](www.skytravelblogger.com/travel-tips "Travel Tips")for tips while you are traveling, with your newly created itinerary.

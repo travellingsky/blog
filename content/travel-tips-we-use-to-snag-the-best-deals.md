@@ -85,7 +85,7 @@ After experimenting with shopping, and I saw the benefits my husband is also now
 
 <center><img src="/uploads/EbatesActivation.jpg" alt="Ebates Activation"  style="width: 50%" /></center>
 
-After you have downloaded <a href="https://www.rakuten.com/r/SHETAL23?eeid=28187" rel="nofollow">Ebates </a>onto your computer, and each time you go to a website the Purple R will start flashing or a popup with display letting you know that you can activate the deal. Hit The red button to activate and your in business. Just remember make sure the button is clicked on your session for your purchase to be recorded. I always click the Purple R right before i checkout just to double check. Cos even $1 or $2 here and there actually adds up. I use the [Honey App](joinhoney.com/ref/km8i18 "Honey") as well but I personally like Ebates better. Try them both and see what you prefer.
+After you have downloaded <a href="https://www.rakuten.com/r/SHETAL23?eeid=28187" rel="nofollow">Ebates </a>onto your computer, and each time you go to a website the Purple R will start flashing or a popup with display letting you know that you can activate the deal. Hit The red button to activate and your in business. Just remember make sure the button is clicked on your session for your purchase to be recorded. I always click the Purple R right before i checkout just to double check. Cos even $1 or $2 here and there actually adds up. I use the <a href="www.joinhoney.com/ref/km8i18" rel="nofollow">Honey App </a> as well but I personally like Ebates better. Try them both and see what you prefer.
 
 ## 5) Bookings
 

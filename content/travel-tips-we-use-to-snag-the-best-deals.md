@@ -3,7 +3,6 @@ aliases = []
 categories = ["General"]
 date = "2019-09-20T00:00:00-04:00"
 description = "Traveling can be overwhelming and expensive. Check out my tips and tricks on how we plan and book our vacations to save that extra buck."
-draft = true
 image = ""
 pins = []
 slug = "travel-booking-tips"

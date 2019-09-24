@@ -21,8 +21,6 @@ The key to travel is
 * Keep an eye out on last minute deals
 
   <center><a href="https://click.linksynergy.com/fs-bin/click?id=nQsQ9KIbfXA&offerid=228650.392&type=4&subid=0"><IMG alt="Here Comes the Sun! Use promo code SPRING19 and get $30 off hotel bookings!* ends 1 June, 2019" border="0" src="https://s3-us-west-2.amazonaws.com/lmt-marketing/campaigns/spring/2019/affiliate_banners/lmt/336x280.jpg"></a><IMG border="0" width="1" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=nQsQ9KIbfXA&bids=228650.392&type=4&subid=0"></center>
-
-
 * Use coupons and <a href="https://www.rakuten.com/r/SHETAL23?eeid=28187" rel="nofollow">Ebates</a> wherever possible
 * Ensure everything you book is cancel-able unless you are 100% certain nothing is going to change. Flights are usually not cancel-able so book this last, but Hotels, tours and Car Rentals you can find cancel-able ones.
 * Prebook Tours - when you are on a time limit you dont want to go searching for things to do
@@ -72,37 +70,41 @@ The above picture is what NOT TO DO. Luggage was for 15 people for a 2 week vaca
 
 **amazon handbags**
 
-1. BAG - Firstly start with a handbag for each person travelling, and take out all you plan to take.
-2. TOILETRIES - Take Travel size items like shampoo's, conditioners, body wash, mouthwash, toothpaste... or just buy it once you get there esp in European countries like England, there is a store on every corner.
+* BAG - Firstly start with a handbag for each person travelling, and take out all you plan to take.
+* TOILETRIES - Take Travel size items like shampoo's, conditioners, body wash, mouthwash, toothpaste... or just buy it once you get there esp in European countries like England, there is a store on every corner.
 
-   **_toiletries_**
-3. CLOTHING - Limit your tops and bottoms. For every bottom match at least 3-4 tops
+**_toiletries_**
 
-   Do take extra pairs of underwear. Tops and bottoms can be repeated, I wouldn't repeat underwear though.
+* CLOTHING - Limit your tops and bottoms. For every bottom match at least 3-4 tops
 
-   If possible, plan your outfits so you know exactly what you need, and maybe take an extra couple for options. I like options, but i sometimes go overboard.
-4. If there is a possibility to do laundry in the middle of the trip then take less stuff
-5. SHOES - Take 1 walking/running shoe, 1 flip flops or sandals and 1 pair of heals for female. You really wont use more.
-6. PACKING - Start rolling your clothes. I know it sounds strange, but honestly rolling your clothes takes up less space. I personally didn't believe that myself until I tried it.
+Do take extra pairs of underwear. Tops and bottoms can be repeated, I wouldn't repeat underwear though.
 
-   Basically, fold each item in half (maybe group a top and bottom together) and roll the item as tight as possible. Maybe even put around a rubber band around the clothing if it doesn't stay. Put each top and bottom together if its easier to find.
-7. DON'T NEED ITEMS - Some people like to take there own towels on vacation with them. Its really not needed. All hotels/models provide you with those basic amenities.
+If possible, plan your outfits so you know exactly what you need, and maybe take an extra couple for options. I like options, but i sometimes go overboard.
 
-## Make copies Documents. 
+If there is a possibility to do laundry in the middle of the trip then take less stuff
+
+* SHOES - Take 1 walking/running shoe, 1 flip flops or sandals and 1 pair of heals for female. You really wont use more.
+* PACKING - Start rolling your clothes. I know it sounds strange, but honestly rolling your clothes takes up less space. I personally didn't believe that myself until I tried it.
+
+Basically, fold each item in half (maybe group a top and bottom together) and roll the item as tight as possible. Maybe even put around a rubber band around the clothing if it doesn't stay. Put each top and bottom together if its easier to find.
+
+* DON'T NEED ITEMS - Some people like to take there own towels on vacation with them. Its really not needed. All hotels/models provide you with those basic amenities.
+
+## Make copies Documents.
 
 Make copies of your important documents. EG: Passport, Itinerary, Green Cards, Tour Information, Bookings ...
 
 This is mostly never needed, but very useful if WiFi or cellular doesn't work somewhere or you loose the originals.
 
-**<amazon - passport book>**
+**_amazon - passport book_**
 
 Keep the information on you like booking info etc, but keep another copy in one of the bags that you are not necessarily carrying around with you. We also tend to keep a copy in our drop box so we can access it wherever we maybe if we need it.
 
-## Take Cash 
+## Take Cash
 
 Most places take Credit Cards for payment, but take cash as well. A lot of people tell us its cheaper to convert currently in the country you go to, but we have not found this to be the cash.
 
-Its very simple to visit your local bank and get a couple of hundred dollars converted to the currency you need. 
+Its very simple to visit your local bank and get a couple of hundred dollars converted to the currency you need.
 
 Also don't carry all the cash with you at the same time. Carry limited cash or spread it between the people you are with, to avoid being pick pocketed in some places. You don't want to loose it all.
 
@@ -122,17 +124,15 @@ The best way I have found to protect myself is to carry a Backpack that has a zi
 
 All my other items, I keep in the main pockets that i'm not too worried about loosing.
 
-**<travel purse amazon>**
+**_travel purse amazon_**
 
 We have experienced pic-pocketing in Italy before. We were catching a bus and all of a sudden a ruckus started up. Apparently there were a group of young females who were acting like they were also catching the bus and they pic-pocketed another male riding the bus, but got caught. The girl was thrown off the bus, and her friends got off with her. It was rather interesting to see how it works, but after witnessing that, i noticed my backpack had also been opened from the back. Nothing was missing since i didn't think they were interested in water bottles, a hairbrush and other girly stuff so i guess i lucked out.
 
 So its best to be safe, and keep all important items as close to your body as possible.
 
-## Adapter & Converter 
+## Adapter & Converter
 
-**<amazon - adapter & converter>**
-
-**<dual voltage hair straightener>**
+**_amazon - adapter & converter_**
 
 You always want to travel overseas with a International Adapter & Converter. We take ours wherever we go, and other family members use it as well.
 
@@ -142,9 +142,11 @@ An adapter lets you plug your device into the other countries power outlet
 
 A converter converts the voltage to USA to the other countries power voltage.
 
+**_dual voltage hair straightener_**
+
 For things like a hair straightener or hair dryer, i suggest buying a dual voltage appliance esp for travel, because they use a lot of power, the appliance can blowup if it is not adaptable.
 
-**IMPORTANT**
+## SUMMARY
 
 Has an International Cell Phone Plan and set roaming to On
 
@@ -156,7 +158,7 @@ Ensure you have roaming set to ON, on your cell phone(s)
 
 Travel light, less baggage
 
-Make copies of your Itinerary, Passport, and other Important Documents. 
+Make copies of your Itinerary, Passport, and other Important Documents.
 
 Take Cash as well as Credit Cards
 
@@ -165,3 +167,5 @@ Remember to Haggle whenever possible
 Don't forget the adapter & converter for your electronic devices
 
 Females - Carry a travel backpack instead of a purse when travelling.
+
+**_Amazon travel tips_**

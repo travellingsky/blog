@@ -7,7 +7,7 @@ image = "/uploads/Tips For Traveling.jpg"
 pins = []
 slug = "travel-tips"
 tags = ["tips", "booking tips", "travel light", "documents", "cell phones", "carryons"]
-title = "Travel Tips to make travel easy"
+title = "Travel Tips for a great Vacation"
 type = "post"
 
 +++

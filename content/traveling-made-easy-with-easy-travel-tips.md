@@ -47,7 +47,9 @@ In this day and age, you need a cell phone. If you don't have one that's fine, t
 
   We also HAD NOT installed the download file and the internet was not very good. We made it thru dinner by ordering mimicking a chicken and so on so forth. We went back to the hotel and download the Chinese downloadable file to avoid any more confusion like this.
 
-**_tmobile_**
+<center><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=sky77-20&marketplace=amazon&region=US&placement=B00SZ3O6M2&asins=B00SZ3O6M2&linkId=21c8244413089d7ddab524cc7360ca04&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066C0&bg_color=FFFFFF">
+
+    </iframe></center>
 
 Learn some basic phrases before you go. Like "Hello", "Thank you", "Good bye" and whatever else you can think off, it makes life easier when you are there, and the locals like to see you making an effort.
 
@@ -68,12 +70,64 @@ The above picture is what NOT TO DO. Luggage was for 15 people for a 2 week vaca
 
 ### So how to pack?
 
-**amazon handbags**
+<html><body><script type="text/javascript">
+
+amzn_assoc_placement = "adunit0";
+
+amzn_assoc_tracking_id = "sky77-20";
+
+amzn_assoc_ad_mode = "search";
+
+amzn_assoc_ad_type = "smart";
+
+amzn_assoc_marketplace = "amazon";
+
+amzn_assoc_region = "US";
+
+amzn_assoc_default_search_phrase = "Carryon Bag";
+
+amzn_assoc_default_category = "All";
+
+amzn_assoc_linkid = "49de890671cd83c64796e90c6563abb1";
+
+amzn_assoc_title = "CarryOn Bag";
+
+amzn_assoc_search_bar = "true";
+
+amzn_assoc_search_bar_position = "top";
+
+</script>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script></body></html>
 
 * BAG - Firstly start with a handbag for each person travelling, and take out all you plan to take.
 * TOILETRIES - Take Travel size items like shampoo's, conditioners, body wash, mouthwash, toothpaste... or just buy it once you get there esp in European countries like England, there is a store on every corner.
 
-**_toiletries_**
+<html><body><script type="text/javascript">
+
+amzn_assoc_placement = "adunit0";
+
+amzn_assoc_search_bar = "true";
+
+amzn_assoc_tracking_id = "sky77-20";
+
+amzn_assoc_ad_mode = "manual";
+
+amzn_assoc_ad_type = "smart";
+
+amzn_assoc_marketplace = "amazon";
+
+amzn_assoc_region = "US";
+
+amzn_assoc_title = "My Amazon Picks";
+
+amzn_assoc_linkid = "1ed6eedcc5177ae8198ebce8576cdf84";
+
+amzn_assoc_asins = "B00INVCHCC,B01N3777ZT,B07FTHN8YV,B07X1KJKQD,B07QL5NFQG,B074X786H2";
+
+</script>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script></body></html>
 
 * CLOTHING - Limit your tops and bottoms. For every bottom match at least 3-4 tops
 

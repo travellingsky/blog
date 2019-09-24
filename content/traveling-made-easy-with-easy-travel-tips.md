@@ -11,7 +11,7 @@ title = "Travel Tips for a great Vacation"
 type = "post"
 
 +++
-if you haven't booked your next vacation or are not sure how, refer to my blog, for [Travel Booking Tips](www.skytravelblogger.com/travel-booking-tips "Travel Booking Tips"), for tips to make the most of your money when booking and planning your next vacation.
+if you haven't booked your next vacation or are not sure how, refer to my blog, for [Travel Booking Tips](https://www.skytravelblogger.com/travel-booking-tips/ "Travel Booking Tips"), for tips to make the most of your money when booking and planning your next vacation.
 
 The key to travel is
 

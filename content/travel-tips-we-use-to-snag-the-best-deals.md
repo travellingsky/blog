@@ -6,7 +6,7 @@ description = "Traveling can be overwhelming and expensive. Check out my tips an
 image = "/uploads/Santorini.JPG"
 pins = []
 slug = "travel-booking-tips"
-tags = ["couples vacation", "family vacations", "cheap travel", "budget travel", "Rakuten", "Ebates", "Viator"]
+tags = ["couples vacation", "family vacations", "cheap travel", "budget travel", "Rakuten", "Ebates", "Viator", "Travel tips"]
 title = "Tips to Plan your next Vacation"
 type = "post"
 

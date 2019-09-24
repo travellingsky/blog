@@ -70,44 +70,12 @@ The above picture is what NOT TO DO. Luggage was for 15 people for a 2 week vaca
 
 ### So how to pack?
 
-<html><body><script type="text/javascript">
-
-amzn_assoc_placement = "adunit0";
-
-amzn_assoc_tracking_id = "sky77-20";
-
-amzn_assoc_ad_mode = "search";
-
-amzn_assoc_ad_type = "smart";
-
-amzn_assoc_marketplace = "amazon";
-
-amzn_assoc_region = "US";
-
-amzn_assoc_default_search_phrase = "Carryon Bag";
-
-amzn_assoc_default_category = "All";
-
-amzn_assoc_linkid = "49de890671cd83c64796e90c6563abb1";
-
-amzn_assoc_title = "CarryOn Bag";
-
-amzn_assoc_search_bar = "true";
-
-amzn_assoc_search_bar_position = "top";
-
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script></body></html>
-
 * BAG - Firstly start with a handbag for each person travelling, and take out all you plan to take.
 * TOILETRIES - Take Travel size items like shampoo's, conditioners, body wash, mouthwash, toothpaste... or just buy it once you get there esp in European countries like England, there is a store on every corner.
 
-<html><body><script type="text/javascript">
+<script type="text/javascript">
 
 amzn_assoc_placement = "adunit0";
-
-amzn_assoc_search_bar = "true";
 
 amzn_assoc_tracking_id = "sky77-20";
 
@@ -119,15 +87,15 @@ amzn_assoc_marketplace = "amazon";
 
 amzn_assoc_region = "US";
 
-amzn_assoc_title = "My Amazon Picks";
+amzn_assoc_linkid = "d50e40bb2cce88ab9e726a3f56f3ebba";
 
-amzn_assoc_linkid = "1ed6eedcc5177ae8198ebce8576cdf84";
+amzn_assoc_design = "in_content";
 
-amzn_assoc_asins = "B00INVCHCC,B01N3777ZT,B07FTHN8YV,B07X1KJKQD,B07QL5NFQG,B074X786H2";
+amzn_assoc_asins = "B00INVCHRC,B00INVCHCC,B07R7L8612,B074X786H2";
 
 </script>
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script></body></html>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 * CLOTHING - Limit your tops and bottoms. For every bottom match at least 3-4 tops
 

@@ -4,10 +4,10 @@ categories = ["General"]
 date = "2019-09-24T00:00:00-04:00"
 description = ""
 draft = true
-image = ""
+image = "/uploads/Tips For Traveling.jpg"
 pins = []
 slug = "travel-tips"
-tags = []
+tags = ["tips", "booking tips", "travel light", "documents", "cell phones", "carryons"]
 title = "Travel Tips to make travel easy"
 type = "post"
 
@@ -47,9 +47,7 @@ In this day and age, you need a cell phone. If you don't have one that's fine, t
 
   We also HAD NOT installed the download file and the internet was not very good. We made it thru dinner by ordering mimicking a chicken and so on so forth. We went back to the hotel and download the Chinese downloadable file to avoid any more confusion like this.
 
-<center><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=sky77-20&marketplace=amazon&region=US&placement=B00SZ3O6M2&asins=B00SZ3O6M2&linkId=21c8244413089d7ddab524cc7360ca04&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066C0&bg_color=FFFFFF">
-
-    </iframe></center>
+<center><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=sky77-20&marketplace=amazon&region=US&placement=B00SZ3O6M2&asins=B00SZ3O6M2&linkId=21c8244413089d7ddab524cc7360ca04&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066C0&bg_color=FFFFFF"></iframe></center>
 
 Learn some basic phrases before you go. Like "Hello", "Thank you", "Good bye" and whatever else you can think off, it makes life easier when you are there, and the locals like to see you making an effort.
 
@@ -67,6 +65,32 @@ Travel Light is not something we are good at, but if you travel like we do from 
 <center><img src="/uploads/TravelLight.jpg" alt="Travel Light"  style="width: 50%" /><figcaption> Travel Light </figcaption></center>
 
 The above picture is what NOT TO DO. Luggage was for 15 people for a 2 week vacation, but as fun as it was, the guys on the trip did not appreciate so much luggage ;)
+
+<script type="text/javascript">
+
+amzn_assoc_placement = "adunit0";
+
+amzn_assoc_search_bar = "true";
+
+amzn_assoc_tracking_id = "sky77-20";
+
+amzn_assoc_ad_mode = "manual";
+
+amzn_assoc_ad_type = "smart";
+
+amzn_assoc_marketplace = "amazon";
+
+amzn_assoc_region = "US";
+
+amzn_assoc_title = "My Amazon Picks";
+
+amzn_assoc_asins = "B078L2DCT2,B0711DPSXT,B001CZPABQ,B07CVH76RP,B00EALLNBU";
+
+amzn_assoc_linkid = "75d8c45383e074439648feb65743160e";
+
+</script>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ### So how to pack?
 
@@ -118,7 +142,7 @@ Make copies of your important documents. EG: Passport, Itinerary, Green Cards, T
 
 This is mostly never needed, but very useful if WiFi or cellular doesn't work somewhere or you loose the originals.
 
-**_amazon - passport book_**
+<div id="amzn-assoc-ad-2a7d3468-9361-48a7-a94c-485c7f211a3d"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=2a7d3468-9361-48a7-a94c-485c7f211a3d"></script>
 
 Keep the information on you like booking info etc, but keep another copy in one of the bags that you are not necessarily carrying around with you. We also tend to keep a copy in our drop box so we can access it wherever we maybe if we need it.
 
@@ -146,7 +170,35 @@ The best way I have found to protect myself is to carry a Backpack that has a zi
 
 All my other items, I keep in the main pockets that i'm not too worried about loosing.
 
-**_travel purse amazon_**
+<script type="text/javascript">
+
+amzn_assoc_placement = "adunit0";
+
+amzn_assoc_search_bar = "true";
+
+amzn_assoc_tracking_id = "sky77-20";
+
+amzn_assoc_search_bar_position = "bottom";
+
+amzn_assoc_ad_mode = "search";
+
+amzn_assoc_ad_type = "smart";
+
+amzn_assoc_marketplace = "amazon";
+
+amzn_assoc_region = "US";
+
+amzn_assoc_title = "Shop Related Products";
+
+amzn_assoc_default_search_phrase = "travel backpack women";
+
+amzn_assoc_default_category = "All";
+
+amzn_assoc_linkid = "4de54abcf952e56076d47779356f4eb2";
+
+</script>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 We have experienced pic-pocketing in Italy before. We were catching a bus and all of a sudden a ruckus started up. Apparently there were a group of young females who were acting like they were also catching the bus and they pic-pocketed another male riding the bus, but got caught. The girl was thrown off the bus, and her friends got off with her. It was rather interesting to see how it works, but after witnessing that, i noticed my backpack had also been opened from the back. Nothing was missing since i didn't think they were interested in water bottles, a hairbrush and other girly stuff so i guess i lucked out.
 
@@ -154,7 +206,35 @@ So its best to be safe, and keep all important items as close to your body as po
 
 ## Adapter & Converter
 
-**_amazon - adapter & converter_**
+<script type="text/javascript">
+
+amzn_assoc_placement = "adunit0";
+
+amzn_assoc_search_bar = "true";
+
+amzn_assoc_tracking_id = "sky77-20";
+
+amzn_assoc_search_bar_position = "bottom";
+
+amzn_assoc_ad_mode = "search";
+
+amzn_assoc_ad_type = "smart";
+
+amzn_assoc_marketplace = "amazon";
+
+amzn_assoc_region = "US";
+
+amzn_assoc_title = "Shop Related Products";
+
+amzn_assoc_default_search_phrase = "travel adapter converter";
+
+amzn_assoc_default_category = "All";
+
+amzn_assoc_linkid = "4de54abcf952e56076d47779356f4eb2";
+
+</script>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 You always want to travel overseas with a International Adapter & Converter. We take ours wherever we go, and other family members use it as well.
 
@@ -164,9 +244,31 @@ An adapter lets you plug your device into the other countries power outlet
 
 A converter converts the voltage to USA to the other countries power voltage.
 
-**_dual voltage hair straightener_**
+<script type="text/javascript">
 
-For things like a hair straightener or hair dryer, i suggest buying a dual voltage appliance esp for travel, because they use a lot of power, the appliance can blowup if it is not adaptable.
+amzn_assoc_placement = "adunit0";
+
+amzn_assoc_tracking_id = "sky77-20";
+
+amzn_assoc_ad_mode = "manual";
+
+amzn_assoc_ad_type = "smart";
+
+amzn_assoc_marketplace = "amazon";
+
+amzn_assoc_region = "US";
+
+amzn_assoc_linkid = "03be70724a54a50a51238b260ab16fae";
+
+amzn_assoc_asins = "B07TSBMSTT,B001MA0QY2,B07WC73F9C,B07RRB3DJ8,B01GQ1VFU0,B079L7KQSX";
+
+amzn_assoc_design = "in_content";
+
+</script>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+For things like a hair straightener or hair dryer, I suggest buying a dual voltage appliance esp for travel, because they use a lot of power, the appliance can blowup if it is not adaptable.
 
 ## SUMMARY
 
@@ -190,4 +292,30 @@ Don't forget the adapter & converter for your electronic devices
 
 Females - Carry a travel backpack instead of a purse when travelling.
 
-**_Amazon travel tips_**
+<script type="text/javascript">
+
+amzn_assoc_placement = "adunit0";
+
+amzn_assoc_tracking_id = "sky77-20";
+
+amzn_assoc_ad_mode = "search";
+
+amzn_assoc_ad_type = "smart";
+
+amzn_assoc_marketplace = "amazon";
+
+amzn_assoc_region = "US";
+
+amzn_assoc_default_search_phrase = "travel tips and inspirations";
+
+amzn_assoc_default_category = "Books";
+
+amzn_assoc_linkid = "c0762f45f82a34ddce87810dbbd9e289";
+
+amzn_assoc_default_browse_node = "283155";
+
+amzn_assoc_design = "in_content";
+
+</script>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>

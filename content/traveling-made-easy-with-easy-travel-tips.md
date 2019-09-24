@@ -20,8 +20,6 @@ The key to travel is
 2. look for great deals
 3. use coupons and <a href="[https://www.rakuten.com/r/SHETAL23?eeid=28187](https://www.rakuten.com/r/SHETAL23?eeid=28187 "https://www.rakuten.com/r/SHETAL23?eeid=28187")" rel="nofollow">Ebates</a> wherever possible
 
-<a href="[https://www.rakuten.com/r/SHETAL23?eeid=28187](https://www.rakuten.com/r/SHETAL23?eeid=28187 "https://www.rakuten.com/r/SHETAL23?eeid=28187")" rel="nofollow">Ebates</a>
-
 1. keep an eye out on last minute deals
 
 <center><a href="https://click.linksynergy.com/fs-bin/click?id=nQsQ9KIbfXA&offerid=228650.392&type=4&subid=0"><IMG alt="Here Comes the Sun! Use promo code SPRING19 and get $30 off hotel bookings!* ends 1 June, 2019" border="0" src="https://s3-us-west-2.amazonaws.com/lmt-marketing/campaigns/spring/2019/affiliate_banners/lmt/336x280.jpg"></a><IMG border="0" width="1" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=nQsQ9KIbfXA&bids=228650.392&type=4&subid=0"></center>

@@ -3,7 +3,6 @@ aliases = []
 categories = ["General"]
 date = "2019-09-24T00:00:00-04:00"
 description = ""
-draft = true
 image = "/uploads/Tips For Traveling.jpg"
 pins = []
 slug = "travel-tips"

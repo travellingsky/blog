@@ -20,6 +20,8 @@ The key to travel is
 * Keep an eye out on last minute deals
 
   <center><a href="https://click.linksynergy.com/fs-bin/click?id=nQsQ9KIbfXA&offerid=228650.392&type=4&subid=0"><IMG alt="Here Comes the Sun! Use promo code SPRING19 and get $30 off hotel bookings!* ends 1 June, 2019" border="0" src="https://s3-us-west-2.amazonaws.com/lmt-marketing/campaigns/spring/2019/affiliate_banners/lmt/336x280.jpg"></a><IMG border="0" width="1" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=nQsQ9KIbfXA&bids=228650.392&type=4&subid=0"></center>
+
+
 * Use coupons and <a href="https://www.rakuten.com/r/SHETAL23?eeid=28187" rel="nofollow">Ebates</a> wherever possible
 * Ensure everything you book is cancel-able unless you are 100% certain nothing is going to change. Flights are usually not cancel-able so book this last, but Hotels, tours and Car Rentals you can find cancel-able ones.
 * Prebook Tours - when you are on a time limit you dont want to go searching for things to do

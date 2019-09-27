@@ -14,6 +14,25 @@ tags:
 - Beach
 aliases:
 - "/puntacana/"
+pins:
+- pin_image: "/uploads/beach-vacation-punta-cana.png"
+  pin_description: 'Planning you next beach vacation?  Visit Punta Cana with their
+    beautiful beaches and crystal clear waters. The island is filled with Palm trees
+    and coconut trees and endless water activities from exploring reefs with scuba
+    diving to speed boating and sailing on a catamaran. #puntacana #beachvacation
+    #sailing #usatraveldestinations'
+- pin_image: "/uploads/the-ultimate-punta-cana-travel-guide.png"
+  pin_description: 'Check out the ultimate travel guide to visiting Punta Cana in
+    the Dominican Republic!  Visit Punta Cana with their beautiful beaches and crystal
+    clear waters. Traveling with kids or family is no problem in Punta Cana, with
+    activities for the young and old. #puntacana #beachvacation #sailing #caribbean '
+- pin_image: "/uploads/10-fun-things-to-do-in-punta-cana.png"
+  pin_description: 'Check out the our 10 fun things to do in Punta Cana, Dominican
+    Republic!  Visit Punta Cana with their beautiful beaches and crystal clear waters.
+    Traveling with kids or family is so much fun in Punta Cana, with activities for
+    both the young and old. Enjoy partying on a catamaran, or snorkeling to see a
+    coral reef.  Or simply relax and enjoy your resort amenities. #puntacana #beachvacation
+    #sailing #caribbean '
 
 ---
 Who would have guessed that Punta Cana in the Dominican Republic would be so scenic. This gorgeous island is filled with Palm trees and Coconut trees. This was a family trip with our family parents and all for as a birthday celebration for my dad who turned 70. This was a fun vacation for all there, children, us and both mine and my husband’s parents. Everyone had a great time with plenty to do for everything. Since this was a family trip and time for relaxation we mostly spent our time at the resort. We stayed at <a href="https://www.barcelo.com/en-us/barcelo-hotels/hotels/dominican-republic/punta-cana-beach-bavaro/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=h331" rel="nofollow">Barcelo Bavaro Palace Deluxe </a>, a great resort for families.
